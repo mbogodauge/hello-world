@@ -1750,6 +1750,16 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Position": 34447,
       "Caption": "//Вики: Маврикий  (император), "
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 68909,
+      "Caption": "//Древняя русь при Владимире и Ярославе Мудром"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 75434,
+      "Caption": "//Ярослав Мудрый "
     }
   ]
 }
