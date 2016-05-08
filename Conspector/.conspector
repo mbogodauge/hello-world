@@ -15,6 +15,13 @@
       "Source": "Аз и я (http://www.opentextnn.ru/man/?id=711)"
     },
     {
+      "Path": "mine\\Фотс.txt",
+      "Id": "7acc4834-0a11-4863-a124-38ff5860d184",
+      "IsFolder": false,
+      "Author": "я",
+      "Source": "Фотс"
+    },
+    {
       "Path": "mine\\История России (МГУ)\\До начала 19в.txt",
       "Id": "33e6831f-5abf-4cff-825a-3ab404e0dd14",
       "IsFolder": false,
