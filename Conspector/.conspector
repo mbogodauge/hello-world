@@ -1788,6 +1788,16 @@
       "Caption": "//Княжества и земли: особенности развития крупнейших из них. "
     },
     {
+      "HostMaterialId": "3bf15a2a-f8c5-4f62-b860-4cefbc9eede8",
+      "Position": 0,
+      "Caption": "//Древняя Русь на ментальной карте древних скандинавов"
+    },
+    {
+      "HostMaterialId": "3bf15a2a-f8c5-4f62-b860-4cefbc9eede8",
+      "Position": 2133,
+      "Caption": "//Славянская письменность в Европе раннего средневековья"
+    },
+    {
       "HostMaterialId": "e0833ab5-24bc-47d5-8c79-a86b502aabc7",
       "Position": 2778,
       "Caption": "//Индоевропейский язык"
@@ -1836,6 +1846,26 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Position": 78949,
       "Caption": "//Владимир Мономах"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 81073,
+      "Caption": "//Причины феодальной раздробленности"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 84184,
+      "Caption": "///Древнерусск. земли в эпоху полит.раздроб."
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 84229,
+      "Caption": "//Ростово-СУздальская земля"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 84264,
+      "Caption": "//Новгород"
     }
   ]
 }
