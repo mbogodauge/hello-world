@@ -8,6 +8,13 @@
       "Source": null
     },
     {
+      "Path": "mine\\Разведопрос Жуков.txt",
+      "Id": "b980fb43-18d2-4384-80d2-237873c80485",
+      "IsFolder": false,
+      "Author": "Жуков",
+      "Source": "Гоблин каналъ"
+    },
+    {
       "Path": "unsorted\\Аз и я (Слово о полку Игореве).txt",
       "Id": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
       "IsFolder": false,
@@ -90,6 +97,13 @@
       "IsFolder": true,
       "Author": null,
       "Source": null
+    },
+    {
+      "Path": "unsorted\\История России с древнейших времен до конца ХVII в.txt",
+      "Id": "b3ee63ce-fa7b-4f7b-b1a0-f00d6fc94760",
+      "IsFolder": false,
+      "Author": "Б.Флоря",
+      "Source": "История России с древнейших времен до конца ХVII в Б. Флоря "
     },
     {
       "Path": "mine\\На прочтение.txt",
