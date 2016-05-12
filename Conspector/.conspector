@@ -8,6 +8,13 @@
       "Source": null
     },
     {
+      "Path": "mine\\вопросы.txt",
+      "Id": "36d3bb52-38ac-4210-887f-1c96a538ee27",
+      "IsFolder": false,
+      "Author": "я",
+      "Source": "я"
+    },
+    {
       "Path": "mine\\Разведопрос Жуков.txt",
       "Id": "b980fb43-18d2-4384-80d2-237873c80485",
       "IsFolder": false,
@@ -83,6 +90,13 @@
       "IsFolder": false,
       "Author": "Кургинян",
       "Source": "Право на кислород газета СВ 117-118"
+    },
+    {
+      "Path": "mine\\Кочевники и земледельческий мир...txt",
+      "Id": "af901266-c283-4083-b3cc-d98f2d403ea5",
+      "IsFolder": false,
+      "Author": "инет",
+      "Source": "http://yakutiafuture.ru/2015/12/29/kochevniki-i-zemledelcheskij-mir-xunnskaya-model-v-istoricheskoj-perspektive/"
     },
     {
       "Path": "mine",
