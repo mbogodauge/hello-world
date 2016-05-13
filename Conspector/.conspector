@@ -1894,6 +1894,21 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Position": 84264,
       "Caption": "//Новгород"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 85328,
+      "Caption": "//Киевская земля"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 85855,
+      "Caption": "///Общество и культура восточных славян в эпоху раннего средневековья"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 85925,
+      "Caption": "//Древнерусское общество 11-12 вв."
     }
   ]
 }
