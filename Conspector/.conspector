@@ -92,13 +92,6 @@
       "Source": "Право на кислород газета СВ 117-118"
     },
     {
-      "Path": "mine\\История России (МГУ)\\план.txt",
-      "Id": "149c0b52-f591-406f-849b-cb0a9cb13864",
-      "IsFolder": false,
-      "Author": "я",
-      "Source": "план"
-    },
-    {
       "Path": "mine\\Кочевники и земледельческий мир...txt",
       "Id": "af901266-c283-4083-b3cc-d98f2d403ea5",
       "IsFolder": false,
@@ -1901,21 +1894,6 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Position": 84264,
       "Caption": "//Новгород"
-    },
-    {
-      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
-      "Position": 85328,
-      "Caption": "//Киевская земля"
-    },
-    {
-      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
-      "Position": 85855,
-      "Caption": "///Общество и культура восточных славян в эпоху раннего средневековья"
-    },
-    {
-      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
-      "Position": 85925,
-      "Caption": "//Древнерусское общество 11-12 вв."
     }
   ]
 }
