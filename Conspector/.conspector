@@ -1916,6 +1916,31 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Position": 85925,
       "Caption": "//Древнерусское общество 11-12 вв."
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 85960,
+      "Caption": "//Административная структура власти. "
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 89159,
+      "Caption": "//Налоги и пошлины."
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 89777,
+      "Caption": "//Обеспечение дружины"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 91324,
+      "Caption": "//Дружина"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 92308,
+      "Caption": "//Общественная мысль и культура древней руси"
     }
   ]
 }
