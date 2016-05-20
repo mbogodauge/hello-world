@@ -1918,6 +1918,11 @@
       "Caption": "//Русь"
     },
     {
+      "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
+      "Position": 741,
+      "Caption": "//лингвистика"
+    },
+    {
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Position": 29461,
       "Caption": "//Вики: Прокопий Кесарийский -  родился (490-507) Кесария Палестинская, умер 565 Константинополь Византия"
@@ -2011,6 +2016,46 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Position": 92308,
       "Caption": "//Общественная мысль и культура древней руси"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 93419,
+      "Caption": "//Особенности древнерусского христианства в X—XII вв. "
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 94899,
+      "Caption": "//Слово о полку Игоревом"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 95450,
+      "Caption": "//Поучение Владимира Мономаха"
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 97707,
+      "Caption": "//Письменность в Древней Руси. Берестяные грамоты. "
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 100579,
+      "Caption": "//Архитектура и изобразительное искусство."
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 102562,
+      "Caption": "//Первые русские святые — Борис и Глеб."
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 103368,
+      "Caption": "//Древнерусское летописание. "
+    },
+    {
+      "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
+      "Position": 106519,
+      "Caption": "//становление древнерусской народности"
     }
   ]
 }
