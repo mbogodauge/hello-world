@@ -1920,6 +1920,11 @@
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
       "Position": 741,
+      "Caption": "//Россия "
+    },
+    {
+      "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
+      "Position": 791,
       "Caption": "//лингвистика"
     },
     {
