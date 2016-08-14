@@ -29,6 +29,13 @@
       "Source": "Аз и я (http://www.opentextnn.ru/man/?id=711)"
     },
     {
+      "Path": "unsorted\\Источниковедение(2015).txt",
+      "Id": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "IsFolder": false,
+      "Author": "Румянцева",
+      "Source": "Источниковедение ред. Румянцева НИУ ВШЭ"
+    },
+    {
       "Path": "mine\\Фотс.txt",
       "Id": "7acc4834-0a11-4863-a124-38ff5860d184",
       "IsFolder": false,
@@ -69,6 +76,13 @@
       "IsFolder": false,
       "Author": "Спицын Е.Ю.",
       "Source": "История России (Древняя и Средневековая Русь IX-XII вв.) Спицын Е.Ю."
+    },
+    {
+      "Path": "unsorted\\Котошихин.txt",
+      "Id": "a0e77f55-917e-4885-b6ea-664fc8eaeb9b",
+      "IsFolder": false,
+      "Author": "Котошихин",
+      "Source": "Котошихин"
     },
     {
       "Path": "unsorted\\Хрестоматия до 1618 .txt",
