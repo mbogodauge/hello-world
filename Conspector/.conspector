@@ -78,6 +78,13 @@
       "Source": "История России (Древняя и Средневековая Русь IX-XII вв.) Спицын Е.Ю."
     },
     {
+      "Path": "mine\\Худлит\\Что делать.txt",
+      "Id": "f4cd0be4-9992-4583-96f3-62857a0c666d",
+      "IsFolder": false,
+      "Author": "Чернышевский",
+      "Source": "Книга"
+    },
+    {
       "Path": "unsorted\\Котошихин.txt",
       "Id": "a0e77f55-917e-4885-b6ea-664fc8eaeb9b",
       "IsFolder": false,
@@ -146,6 +153,13 @@
       "IsFolder": false,
       "Author": "инет",
       "Source": "http://yakutiafuture.ru/2015/12/29/kochevniki-i-zemledelcheskij-mir-xunnskaya-model-v-istoricheskoj-perspektive/"
+    },
+    {
+      "Path": "mine\\Худлит",
+      "Id": "f0362744-3bd2-4b89-8c0d-df9b098561f9",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
     },
     {
       "Path": "mine",
@@ -2138,6 +2152,16 @@
       "HostMaterialId": "3bf15a2a-f8c5-4f62-b860-4cefbc9eede8",
       "Position": 2133,
       "Caption": "//Славянская письменность в Европе раннего средневековья"
+    },
+    {
+      "HostMaterialId": "f4cd0be4-9992-4583-96f3-62857a0c666d",
+      "Position": 3546,
+      "Caption": "//что движет людьми? можно посмотреть на приматов. Место в условной иерархии, дающее известные привилегии. Если место можно занять трудом - будет труд, но если кроме труда есть обманный путь, просто купить деньгами, то труд будет заброшен."
+    },
+    {
+      "HostMaterialId": "f4cd0be4-9992-4583-96f3-62857a0c666d",
+      "Position": 4275,
+      "Caption": "//парадокс матери Веры и её самой"
     },
     {
       "HostMaterialId": "e0833ab5-24bc-47d5-8c79-a86b502aabc7",
