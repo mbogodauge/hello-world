@@ -2230,7 +2230,12 @@
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 14617,
+      "Position": 14621,
+      "Caption": "//тест"
+    },
+    {
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Position": 14630,
       "Caption": "//Итого"
     },
     {
