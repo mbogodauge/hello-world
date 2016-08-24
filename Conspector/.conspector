@@ -78,7 +78,7 @@
       "Source": "История России (Древняя и Средневековая Русь IX-XII вв.) Спицын Е.Ю."
     },
     {
-      "Path": "mine\\Худлит\\Что делать.txt",
+      "Path": "unsorted\\Что делать.txt",
       "Id": "f4cd0be4-9992-4583-96f3-62857a0c666d",
       "IsFolder": false,
       "Author": "Чернышевский",
@@ -141,6 +141,13 @@
       "Source": "Право на кислород газета СВ 117-118"
     },
     {
+      "Path": "unsorted\\Русь до МосЦарства.txt",
+      "Id": "ee320402-821b-436e-aafa-c470499388f0",
+      "IsFolder": false,
+      "Author": "Горский А.А.",
+      "Source": "Русь от славянского расселения до Московского Царства"
+    },
+    {
       "Path": "mine\\История России (МГУ)\\план.txt",
       "Id": "149c0b52-f591-406f-849b-cb0a9cb13864",
       "IsFolder": false,
@@ -153,13 +160,6 @@
       "IsFolder": false,
       "Author": "инет",
       "Source": "http://yakutiafuture.ru/2015/12/29/kochevniki-i-zemledelcheskij-mir-xunnskaya-model-v-istoricheskoj-perspektive/"
-    },
-    {
-      "Path": "mine\\Худлит",
-      "Id": "f0362744-3bd2-4b89-8c0d-df9b098561f9",
-      "IsFolder": true,
-      "Author": null,
-      "Source": null
     },
     {
       "Path": "mine",
