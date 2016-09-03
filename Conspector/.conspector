@@ -259,6 +259,10 @@
       "Caption": "История"
     },
     {
+      "Id": "ee0ba510-43d4-4324-ba27-3f11a39f0299",
+      "Caption": "Жупаны"
+    },
+    {
       "Id": "d30435c6-ab13-4da3-8c06-3fdf018f4ac2",
       "Caption": "Прародина славян"
     },
@@ -277,6 +281,10 @@
     {
       "Id": "a7b12680-210c-4139-897e-46f50223387a",
       "Caption": "Подклошовая культура"
+    },
+    {
+      "Id": "d94f5f80-1201-4c19-b24e-49023728e5ae",
+      "Caption": "Проблема племенной знати"
     },
     {
       "Id": "efc160d7-752e-4c48-8376-4a91eecacfaa",
@@ -467,6 +475,12 @@
       "End": 7138
     },
     {
+      "Id": "94d3263a-7c0e-47f3-804e-2967246bb771",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 4708,
+      "End": 5858
+    },
+    {
       "Id": "b7554a68-71f2-4a8c-a66e-2cfb28bbfe64",
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 29889,
@@ -525,6 +539,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 31,
       "End": 540
+    },
+    {
+      "Id": "e34ec224-eaf1-426a-b4bf-4731fc016eb1",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 0,
+      "End": 0
     },
     {
       "Id": "f5dac177-f6b9-4fe3-9dea-48fae1ba0c70",
@@ -837,6 +857,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 24203,
       "End": 24733
+    },
+    {
+      "Id": "e529ef08-cd0e-4c58-aae2-fe7931939eed",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 3150,
+      "End": 4704
     }
   ],
   "ParticleInplaces": [
@@ -911,6 +937,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "94d3263a-7c0e-47f3-804e-2967246bb771",
+      "BlockId": "ee0ba510-43d4-4324-ba27-3f11a39f0299",
+      "Order": 0
+    },
+    {
       "ParticleId": "e3d8bf3b-66ee-4013-aa4c-03ef50cf117c",
       "BlockId": "d30435c6-ab13-4da3-8c06-3fdf018f4ac2",
       "Order": 1
@@ -938,6 +969,11 @@
     {
       "ParticleId": "ff3f101f-9ed4-44ae-83ff-4b46e186c1df",
       "BlockId": "a7b12680-210c-4139-897e-46f50223387a",
+      "Order": 0
+    },
+    {
+      "ParticleId": "e529ef08-cd0e-4c58-aae2-fe7931939eed",
+      "BlockId": "d94f5f80-1201-4c19-b24e-49023728e5ae",
       "Order": 0
     },
     {
@@ -1410,6 +1446,14 @@
       "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
     },
     {
+      "GuidableId": "ee0ba510-43d4-4324-ba27-3f11a39f0299",
+      "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
+    },
+    {
+      "GuidableId": "d94f5f80-1201-4c19-b24e-49023728e5ae",
+      "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
+    },
+    {
       "GuidableId": "9a0f38af-97c3-4d85-b469-97bd0a081052",
       "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
     },
@@ -1750,7 +1794,7 @@
     },
     {
       "Id": "SettingRecentTags",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 12\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 15\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 22\r\n    }\r\n  ]\r\n}"
     }
   ],
   "Headers": [
@@ -2266,43 +2310,38 @@
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 3150,
-      "Caption": "//Проблема племенной знати"
+      "Position": 5862,
+      "Caption": "Причина отсутствия упоминания племенной знати в источниках "
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 5900,
-      "Caption": "//Причина отсутствия упоминания племенной знати в источниках "
+      "Position": 7257,
+      "Caption": "Очерк 2 «СЛАВИНИИ» ВОСТОЧНОЙ ЕВРОПЫ"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 7297,
-      "Caption": "///Очерк 2 «СЛАВИНИИ» ВОСТОЧНОЙ ЕВРОПЫ"
+      "Position": 7294,
+      "Caption": "Письменные источники"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 7337,
-      "Caption": "//Письменные источники"
+      "Position": 8942,
+      "Caption": "Археологические источники"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 8987,
-      "Caption": "//Археологические источники"
+      "Position": 9840,
+      "Caption": "Проблема происхождения словен(ильменских) и кривичей"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 9887,
-      "Caption": "//Проблема происхождения словен(ильменских) и кривичей"
+      "Position": 14551,
+      "Caption": "Итого"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 14600,
-      "Caption": "//Итого"
-    },
-    {
-      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 16064,
-      "Caption": "//Очерк 3 Русь и Варяги"
+      "Position": 16013,
+      "Caption": "Очерк 3 Русь и Варяги"
     },
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
