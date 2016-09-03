@@ -691,8 +691,8 @@
     {
       "Id": "e7f6c9a4-b6c6-4228-aa91-9ad1b60382d1",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 687,
-      "End": 2040
+      "Begin": 619,
+      "End": 1972
     },
     {
       "Id": "d53f1e4c-8fbd-4d6d-92ee-9c8fe1a9894a",
@@ -745,14 +745,14 @@
     {
       "Id": "866b6075-df63-4c45-a7bf-be875cb33011",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 132,
-      "End": 663
+      "Begin": 84,
+      "End": 615
     },
     {
       "Id": "f914948e-9b88-4a5e-ac20-c21e5f08bdd8",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 2078,
-      "End": 3247
+      "Begin": 1976,
+      "End": 3145
     },
     {
       "Id": "e5c691fb-71a4-4915-a00a-d07652430fd6",
@@ -1415,6 +1415,10 @@
     },
     {
       "GuidableId": "129a0555-b3f4-44a5-a34b-aeaa66961894",
+      "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
+    },
+    {
+      "GuidableId": "ee320402-821b-436e-aafa-c470499388f0",
       "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
     },
     {
@@ -2258,61 +2262,46 @@
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Position": 0,
-      "Caption": "///Очерк 1 «ПЛЕМЕНА» ИЛИ «СЛАВИНИИ»? СЛАВЯНСКОЕ ОБЩЕСТВО В ДОГОСУДАРСТВЕННЫЙ ПЕРИОД"
+      "Caption": "Очерк 1 «ПЛЕМЕНА» ИЛИ «СЛАВИНИИ»? СЛАВЯНСКОЕ ОБЩЕСТВО В ДОГОСУДАРСТВЕННЫЙ ПЕРИОД"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 87,
-      "Caption": "//Пражско-корчакская и пеньковская культуры"
-    },
-    {
-      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 667,
-      "Caption": "//Прародина славян"
-    },
-    {
-      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 2044,
-      "Caption": "//\"Племена\", этнонимы, Славинии "
-    },
-    {
-      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 3252,
+      "Position": 3150,
       "Caption": "//Проблема племенной знати"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 6002,
+      "Position": 5900,
       "Caption": "//Причина отсутствия упоминания племенной знати в источниках "
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 7399,
+      "Position": 7297,
       "Caption": "///Очерк 2 «СЛАВИНИИ» ВОСТОЧНОЙ ЕВРОПЫ"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 7439,
+      "Position": 7337,
       "Caption": "//Письменные источники"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 9089,
+      "Position": 8987,
       "Caption": "//Археологические источники"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 9989,
+      "Position": 9887,
       "Caption": "//Проблема происхождения словен(ильменских) и кривичей"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 14702,
+      "Position": 14600,
       "Caption": "//Итого"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 16166,
+      "Position": 16064,
       "Caption": "//Очерк 3 Русь и Варяги"
     },
     {
