@@ -655,6 +655,12 @@
       "End": 5917
     },
     {
+      "Id": "992f4dce-0186-4d15-b49b-7bae183562bd",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 5923,
+      "End": 7316
+    },
+    {
       "Id": "985faec6-7b6f-4a71-a195-87d1b6834633",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 11967,
@@ -970,6 +976,11 @@
       "ParticleId": "ff3f101f-9ed4-44ae-83ff-4b46e186c1df",
       "BlockId": "a7b12680-210c-4139-897e-46f50223387a",
       "Order": 0
+    },
+    {
+      "ParticleId": "992f4dce-0186-4d15-b49b-7bae183562bd",
+      "BlockId": "d94f5f80-1201-4c19-b24e-49023728e5ae",
+      "Order": 1
     },
     {
       "ParticleId": "e529ef08-cd0e-4c58-aae2-fe7931939eed",
@@ -1628,6 +1639,14 @@
       "SecondBlockId": "9d565268-4443-4306-bacf-127e253e4020"
     },
     {
+      "FirstBlockId": "d94f5f80-1201-4c19-b24e-49023728e5ae",
+      "SecondBlockId": "ee0ba510-43d4-4324-ba27-3f11a39f0299"
+    },
+    {
+      "FirstBlockId": "ee0ba510-43d4-4324-ba27-3f11a39f0299",
+      "SecondBlockId": "d94f5f80-1201-4c19-b24e-49023728e5ae"
+    },
+    {
       "FirstBlockId": "1cb0eaa7-ef66-4d1a-82e4-9b1219229c53",
       "SecondBlockId": "fdb72512-8a36-457b-9045-75af82f85a8c"
     },
@@ -1790,7 +1809,7 @@
     },
     {
       "Id": "SettingRecentIdeas",
-      "Value": "{\"Items\":[{\"Id\":\"cb8f92ee-ba99-4d78-ace0-686fc2fa6974\",\"Name\":null,\"Order\":1},{\"Id\":\"d30435c6-ab13-4da3-8c06-3fdf018f4ac2\",\"Name\":null,\"Order\":12},{\"Id\":\"1cb0eaa7-ef66-4d1a-82e4-9b1219229c53\",\"Name\":null,\"Order\":3},{\"Id\":\"850f416e-4397-40b4-9e3a-aa667cddb9d0\",\"Name\":null,\"Order\":5},{\"Id\":\"e3a3bd7a-b47b-4085-a8b6-5b2bdf271ad4\",\"Name\":null,\"Order\":7},{\"Id\":\"365d455a-a56a-4824-a2be-15f6c18157d4\",\"Name\":null,\"Order\":10},{\"Id\":\"1101b033-daa9-49cc-9d34-a0de4dee9835\",\"Name\":null,\"Order\":11},{\"Id\":\"5cfa798a-ad94-440e-8bc4-8560486b9a65\",\"Name\":null,\"Order\":13},{\"Id\":\"19e46096-ed87-420e-a54f-81d4bb0cf439\",\"Name\":null,\"Order\":14}]}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"cb8f92ee-ba99-4d78-ace0-686fc2fa6974\",\r\n      \"Name\": null,\r\n      \"Order\": 1\r\n    },\r\n    {\r\n      \"Id\": \"d30435c6-ab13-4da3-8c06-3fdf018f4ac2\",\r\n      \"Name\": null,\r\n      \"Order\": 12\r\n    },\r\n    {\r\n      \"Id\": \"1cb0eaa7-ef66-4d1a-82e4-9b1219229c53\",\r\n      \"Name\": null,\r\n      \"Order\": 3\r\n    },\r\n    {\r\n      \"Id\": \"850f416e-4397-40b4-9e3a-aa667cddb9d0\",\r\n      \"Name\": null,\r\n      \"Order\": 5\r\n    },\r\n    {\r\n      \"Id\": \"e3a3bd7a-b47b-4085-a8b6-5b2bdf271ad4\",\r\n      \"Name\": null,\r\n      \"Order\": 7\r\n    },\r\n    {\r\n      \"Id\": \"365d455a-a56a-4824-a2be-15f6c18157d4\",\r\n      \"Name\": null,\r\n      \"Order\": 10\r\n    },\r\n    {\r\n      \"Id\": \"1101b033-daa9-49cc-9d34-a0de4dee9835\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"5cfa798a-ad94-440e-8bc4-8560486b9a65\",\r\n      \"Name\": null,\r\n      \"Order\": 13\r\n    },\r\n    {\r\n      \"Id\": \"19e46096-ed87-420e-a54f-81d4bb0cf439\",\r\n      \"Name\": null,\r\n      \"Order\": 14\r\n    },\r\n    {\r\n      \"Id\": \"d94f5f80-1201-4c19-b24e-49023728e5ae\",\r\n      \"Name\": null,\r\n      \"Order\": 15\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentTags",
@@ -2315,32 +2334,32 @@
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 7257,
+      "Position": 7320,
       "Caption": "Очерк 2 «СЛАВИНИИ» ВОСТОЧНОЙ ЕВРОПЫ"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 7294,
+      "Position": 7357,
       "Caption": "Письменные источники"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 8942,
+      "Position": 9005,
       "Caption": "Археологические источники"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 9840,
+      "Position": 9903,
       "Caption": "Проблема происхождения словен(ильменских) и кривичей"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 14551,
+      "Position": 14614,
       "Caption": "Итого"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 16013,
+      "Position": 16076,
       "Caption": "Очерк 3 Русь и Варяги"
     },
     {
