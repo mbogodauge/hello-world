@@ -307,6 +307,10 @@
       "Caption": "Кипчаки-половцы (cumane)"
     },
     {
+      "Id": "706fb824-385c-495d-ab45-63c168248bb4",
+      "Caption": "Русь (значение термина)"
+    },
+    {
       "Id": "12fb67a4-1ef7-4023-aa4d-660a7d925424",
       "Caption": "Кривичи"
     },
@@ -333,6 +337,10 @@
     {
       "Id": "b95d156c-e0e3-4984-837d-83cd017b33e7",
       "Caption": "01. Мезолит, неолит"
+    },
+    {
+      "Id": "f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d",
+      "Caption": "Рюрик"
     },
     {
       "Id": "5cfa798a-ad94-440e-8bc4-8560486b9a65",
@@ -439,6 +447,10 @@
       "Caption": "Византия"
     },
     {
+      "Id": "e1f6f2aa-335e-4eb3-9374-f3c42661763c",
+      "Caption": "Русь (происхождение термина)"
+    },
+    {
       "Id": "0848167b-13ba-4cbb-abd3-f3dd241fc682",
       "Caption": "Разделение на ветви"
     },
@@ -481,10 +493,22 @@
       "End": 6030
     },
     {
+      "Id": "e74f3d74-d367-4686-b3fc-190181fac44e",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 7357,
+      "End": 8979
+    },
+    {
+      "Id": "a8b22dff-37e1-4812-830f-1b0a42c36d9c",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 16949,
+      "End": 17676
+    },
+    {
       "Id": "ab66b0a7-aa93-4355-93a1-1d27aee6f40e",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 14567,
-      "End": 16018
+      "Begin": 14518,
+      "End": 15969
     },
     {
       "Id": "4c084a37-1aa2-4123-a140-2296b9a0e48f",
@@ -559,6 +583,12 @@
       "End": 540
     },
     {
+      "Id": "09b420de-d5e0-487b-8ec2-46814543961c",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 15998,
+      "End": 16300
+    },
+    {
       "Id": "e34ec224-eaf1-426a-b4bf-4731fc016eb1",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 0,
@@ -631,6 +661,12 @@
       "End": 6498
     },
     {
+      "Id": "d5eb0bf8-41be-4f14-b45e-6a5933675c63",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 23096,
+      "End": 24854
+    },
+    {
       "Id": "7c39ff12-ebe6-4452-85b5-722c5f43cc69",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 11631,
@@ -689,6 +725,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 19100,
       "End": 19480
+    },
+    {
+      "Id": "11862993-41fb-49cc-a3bb-89dcc38d9dd5",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 17936,
+      "End": 19908
     },
     {
       "Id": "39c3f944-1f21-4498-8a81-8c19178e15c2",
@@ -751,6 +793,18 @@
       "End": 34053
     },
     {
+      "Id": "e9e34e7f-2124-459b-8dee-a065b1d97153",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 24858,
+      "End": 26206
+    },
+    {
+      "Id": "4f489d65-5bbb-4170-aaae-a1d0dcd44c88",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 8983,
+      "End": 9850
+    },
+    {
       "Id": "99cc1657-4ef0-4410-8f9a-ad492f7ad730",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 16631,
@@ -761,6 +815,12 @@
       "HostMaterialId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
       "Begin": 28986,
       "End": 29462
+    },
+    {
+      "Id": "42259fca-c066-4a02-bb91-b3224b709438",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 26210,
+      "End": 28293
     },
     {
       "Id": "ff6e7f01-f7b4-4595-bbab-b4a5d854499e",
@@ -779,6 +839,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 7176,
       "End": 8127
+    },
+    {
+      "Id": "b907db20-99d6-4b44-99fb-ba4f4bc0c4b5",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 19912,
+      "End": 23092
     },
     {
       "Id": "4ac822b3-da84-4b0b-bd48-be7fdf2670de",
@@ -801,8 +867,8 @@
     {
       "Id": "21f32bd2-c4f4-46ea-84b0-c2e04e429bf2",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 9903,
-      "End": 14555
+      "Begin": 9854,
+      "End": 14506
     },
     {
       "Id": "e5c691fb-71a4-4915-a00a-d07652430fd6",
@@ -1012,6 +1078,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "4f489d65-5bbb-4170-aaae-a1d0dcd44c88",
+      "BlockId": "acd6202a-f94c-49ed-8526-5134ed7e0a83",
+      "Order": 0
+    },
+    {
       "ParticleId": "67505b64-8353-49e5-b8e3-5733e328106c",
       "BlockId": "e3a3bd7a-b47b-4085-a8b6-5b2bdf271ad4",
       "Order": 0
@@ -1024,6 +1095,21 @@
     {
       "ParticleId": "542a653f-7e7d-44c6-8ce9-db0a44eb803a",
       "BlockId": "e3a3bd7a-b47b-4085-a8b6-5b2bdf271ad4",
+      "Order": 2
+    },
+    {
+      "ParticleId": "09b420de-d5e0-487b-8ec2-46814543961c",
+      "BlockId": "706fb824-385c-495d-ab45-63c168248bb4",
+      "Order": 0
+    },
+    {
+      "ParticleId": "11862993-41fb-49cc-a3bb-89dcc38d9dd5",
+      "BlockId": "706fb824-385c-495d-ab45-63c168248bb4",
+      "Order": 1
+    },
+    {
+      "ParticleId": "b907db20-99d6-4b44-99fb-ba4f4bc0c4b5",
+      "BlockId": "706fb824-385c-495d-ab45-63c168248bb4",
       "Order": 2
     },
     {
@@ -1059,6 +1145,11 @@
     {
       "ParticleId": "653161de-383d-4fe3-9bb0-b75ead36268f",
       "BlockId": "b95d156c-e0e3-4984-837d-83cd017b33e7",
+      "Order": 0
+    },
+    {
+      "ParticleId": "a8b22dff-37e1-4812-830f-1b0a42c36d9c",
+      "BlockId": "f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d",
       "Order": 0
     },
     {
@@ -1237,6 +1328,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "e74f3d74-d367-4686-b3fc-190181fac44e",
+      "BlockId": "2239b6ca-c10e-4135-84b0-e18327cedef1",
+      "Order": 0
+    },
+    {
       "ParticleId": "a85de615-cad7-4966-bd1c-55743c50338d",
       "BlockId": "9d7a1bf9-2eda-4710-b88e-e4269ace1da0",
       "Order": 0
@@ -1245,6 +1341,21 @@
       "ParticleId": "2a7436d5-fabf-400d-9914-d74a546ba5d6",
       "BlockId": "30330443-6d47-49df-9a49-f201c19ecbaa",
       "Order": 0
+    },
+    {
+      "ParticleId": "d5eb0bf8-41be-4f14-b45e-6a5933675c63",
+      "BlockId": "e1f6f2aa-335e-4eb3-9374-f3c42661763c",
+      "Order": 0
+    },
+    {
+      "ParticleId": "e9e34e7f-2124-459b-8dee-a065b1d97153",
+      "BlockId": "e1f6f2aa-335e-4eb3-9374-f3c42661763c",
+      "Order": 1
+    },
+    {
+      "ParticleId": "42259fca-c066-4a02-bb91-b3224b709438",
+      "BlockId": "e1f6f2aa-335e-4eb3-9374-f3c42661763c",
+      "Order": 2
     },
     {
       "ParticleId": "901188cd-2e68-434f-8286-49194ad68a99",
@@ -1279,6 +1390,14 @@
   ],
   "RelationTypes": [
     {
+      "Id": "a23079b8-a529-48bb-af0c-9814e87bcc83",
+      "Caption": "о"
+    },
+    {
+      "Id": "d82dc693-d119-4cfc-9623-a8240ce03765",
+      "Caption": ""
+    },
+    {
       "Id": "a958f2ee-9da5-4f91-b800-dfd44d73ae64",
       "Caption": "И"
     }
@@ -1290,6 +1409,13 @@
       "FirstBlockId": "0fb76f3d-3e30-48a2-a337-42994d9d20c5",
       "SecondBlockId": "218a8331-5370-43b8-b7b8-f8f0771094ee",
       "TypeId": "a958f2ee-9da5-4f91-b800-dfd44d73ae64"
+    },
+    {
+      "Id": "acd6202a-f94c-49ed-8526-5134ed7e0a83",
+      "Caption": "Археологические источники о Племена или \"Славинии\"?",
+      "FirstBlockId": "809c7dcc-1d39-4590-b6f6-05bceab8e8c5",
+      "SecondBlockId": "129a0555-b3f4-44a5-a34b-aeaa66961894",
+      "TypeId": "a23079b8-a529-48bb-af0c-9814e87bcc83"
     },
     {
       "Id": "4c237320-2639-4314-a8a3-b62790fcf9a1",
@@ -1304,6 +1430,13 @@
       "FirstBlockId": "cb8f92ee-ba99-4d78-ace0-686fc2fa6974",
       "SecondBlockId": "6a1d686e-8223-433e-915e-e9d4bfb41a18",
       "TypeId": "a958f2ee-9da5-4f91-b800-dfd44d73ae64"
+    },
+    {
+      "Id": "2239b6ca-c10e-4135-84b0-e18327cedef1",
+      "Caption": "Письменные источники о Племена или \"Славинии\"?",
+      "FirstBlockId": "aa5ad8ef-74ca-473e-ad86-7e90c80caa1c",
+      "SecondBlockId": "129a0555-b3f4-44a5-a34b-aeaa66961894",
+      "TypeId": "a23079b8-a529-48bb-af0c-9814e87bcc83"
     },
     {
       "Id": "70763861-4c75-41eb-a690-f6722f6e283b",
@@ -1503,7 +1636,15 @@
       "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
     },
     {
+      "GuidableId": "706fb824-385c-495d-ab45-63c168248bb4",
+      "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
+    },
+    {
       "GuidableId": "aa5ad8ef-74ca-473e-ad86-7e90c80caa1c",
+      "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
+    },
+    {
+      "GuidableId": "f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d",
       "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
     },
     {
@@ -1520,6 +1661,10 @@
     },
     {
       "GuidableId": "ee320402-821b-436e-aafa-c470499388f0",
+      "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
+    },
+    {
+      "GuidableId": "e1f6f2aa-335e-4eb3-9374-f3c42661763c",
       "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
     },
     {
@@ -1855,11 +2000,11 @@
     },
     {
       "Id": "SettingRecentIdeas",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"cb8f92ee-ba99-4d78-ace0-686fc2fa6974\",\r\n      \"Name\": null,\r\n      \"Order\": 1\r\n    },\r\n    {\r\n      \"Id\": \"d30435c6-ab13-4da3-8c06-3fdf018f4ac2\",\r\n      \"Name\": null,\r\n      \"Order\": 12\r\n    },\r\n    {\r\n      \"Id\": \"1cb0eaa7-ef66-4d1a-82e4-9b1219229c53\",\r\n      \"Name\": null,\r\n      \"Order\": 3\r\n    },\r\n    {\r\n      \"Id\": \"850f416e-4397-40b4-9e3a-aa667cddb9d0\",\r\n      \"Name\": null,\r\n      \"Order\": 5\r\n    },\r\n    {\r\n      \"Id\": \"e3a3bd7a-b47b-4085-a8b6-5b2bdf271ad4\",\r\n      \"Name\": null,\r\n      \"Order\": 7\r\n    },\r\n    {\r\n      \"Id\": \"365d455a-a56a-4824-a2be-15f6c18157d4\",\r\n      \"Name\": null,\r\n      \"Order\": 10\r\n    },\r\n    {\r\n      \"Id\": \"1101b033-daa9-49cc-9d34-a0de4dee9835\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"5cfa798a-ad94-440e-8bc4-8560486b9a65\",\r\n      \"Name\": null,\r\n      \"Order\": 13\r\n    },\r\n    {\r\n      \"Id\": \"19e46096-ed87-420e-a54f-81d4bb0cf439\",\r\n      \"Name\": null,\r\n      \"Order\": 14\r\n    },\r\n    {\r\n      \"Id\": \"d94f5f80-1201-4c19-b24e-49023728e5ae\",\r\n      \"Name\": null,\r\n      \"Order\": 15\r\n    },\r\n    {\r\n      \"Id\": \"89fd930f-b877-41e8-a104-88150f221188\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"d30435c6-ab13-4da3-8c06-3fdf018f4ac2\",\r\n      \"Name\": null,\r\n      \"Order\": 12\r\n    },\r\n    {\r\n      \"Id\": \"1cb0eaa7-ef66-4d1a-82e4-9b1219229c53\",\r\n      \"Name\": null,\r\n      \"Order\": 3\r\n    },\r\n    {\r\n      \"Id\": \"850f416e-4397-40b4-9e3a-aa667cddb9d0\",\r\n      \"Name\": null,\r\n      \"Order\": 5\r\n    },\r\n    {\r\n      \"Id\": \"e3a3bd7a-b47b-4085-a8b6-5b2bdf271ad4\",\r\n      \"Name\": null,\r\n      \"Order\": 7\r\n    },\r\n    {\r\n      \"Id\": \"365d455a-a56a-4824-a2be-15f6c18157d4\",\r\n      \"Name\": null,\r\n      \"Order\": 10\r\n    },\r\n    {\r\n      \"Id\": \"1101b033-daa9-49cc-9d34-a0de4dee9835\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"5cfa798a-ad94-440e-8bc4-8560486b9a65\",\r\n      \"Name\": null,\r\n      \"Order\": 13\r\n    },\r\n    {\r\n      \"Id\": \"19e46096-ed87-420e-a54f-81d4bb0cf439\",\r\n      \"Name\": null,\r\n      \"Order\": 14\r\n    },\r\n    {\r\n      \"Id\": \"d94f5f80-1201-4c19-b24e-49023728e5ae\",\r\n      \"Name\": null,\r\n      \"Order\": 15\r\n    },\r\n    {\r\n      \"Id\": \"89fd930f-b877-41e8-a104-88150f221188\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"aa5ad8ef-74ca-473e-ad86-7e90c80caa1c\",\r\n      \"Name\": null,\r\n      \"Order\": 17\r\n    },\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"809c7dcc-1d39-4590-b6f6-05bceab8e8c5\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 26\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentTags",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 25\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    }\r\n  ]\r\n}"
     }
   ],
   "Headers": [
@@ -2385,22 +2530,12 @@
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 7357,
-      "Caption": "Письменные источники"
-    },
-    {
-      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 9005,
-      "Caption": "Археологические источники"
-    },
-    {
-      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 14560,
+      "Position": 14511,
       "Caption": "Итого"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Position": 16022,
+      "Position": 15973,
       "Caption": "Очерк 3 Русь и Варяги"
     },
     {
