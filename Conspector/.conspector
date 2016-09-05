@@ -36,6 +36,20 @@
       "Source": "Источниковедение ред. Румянцева НИУ ВШЭ"
     },
     {
+      "Path": "mine\\english dict.txt",
+      "Id": "46529119-c4c0-460c-8cac-2e940c79dba1",
+      "IsFolder": false,
+      "Author": "me",
+      "Source": "me"
+    },
+    {
+      "Path": "Лекции\\Начало Руси.txt",
+      "Id": "dbdd5a1d-1e69-4bf8-9e2f-38e829338ee0",
+      "IsFolder": false,
+      "Author": "Горский",
+      "Source": "лекции"
+    },
+    {
       "Path": "mine\\Фотс.txt",
       "Id": "7acc4834-0a11-4863-a124-38ff5860d184",
       "IsFolder": false,
@@ -69,6 +83,13 @@
       "IsFolder": false,
       "Author": "Милов Л.В.",
       "Source": "История с древнейших времен до конца 17 века"
+    },
+    {
+      "Path": "Лекции",
+      "Id": "b7eea2e3-1d8d-4991-a96f-5662efb84e3f",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
     },
     {
       "Path": "unsorted\\История России (I книга).txt",
@@ -139,6 +160,13 @@
       "IsFolder": false,
       "Author": "Кургинян",
       "Source": "Право на кислород газета СВ 117-118"
+    },
+    {
+      "Path": "unsorted\\Untold History of USA.txt",
+      "Id": "63f97031-03e3-49cf-8a64-bf7e3e150c29",
+      "IsFolder": false,
+      "Author": "Oliver Stone",
+      "Source": "The Untold History of United States, Peter Kuznick and Oliver Stone"
     },
     {
       "Path": "unsorted\\Русь до МосЦарства.txt",
