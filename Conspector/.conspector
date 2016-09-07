@@ -529,8 +529,8 @@
     {
       "Id": "c536e88e-7147-4b58-b2c8-02f629bb1078",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 32152,
-      "End": 32960
+      "Begin": 32342,
+      "End": 33150
     },
     {
       "Id": "e3d8bf3b-66ee-4013-aa4c-03ef50cf117c",
@@ -715,8 +715,8 @@
     {
       "Id": "d5eb0bf8-41be-4f14-b45e-6a5933675c63",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 23096,
-      "End": 24854
+      "Begin": 23286,
+      "End": 25044
     },
     {
       "Id": "7c39ff12-ebe6-4452-85b5-722c5f43cc69",
@@ -781,8 +781,8 @@
     {
       "Id": "11862993-41fb-49cc-a3bb-89dcc38d9dd5",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 17936,
-      "End": 19908
+      "Begin": 18126,
+      "End": 20098
     },
     {
       "Id": "39c3f944-1f21-4498-8a81-8c19178e15c2",
@@ -847,8 +847,8 @@
     {
       "Id": "e9e34e7f-2124-459b-8dee-a065b1d97153",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 24858,
-      "End": 26206
+      "Begin": 25048,
+      "End": 26396
     },
     {
       "Id": "4f489d65-5bbb-4170-aaae-a1d0dcd44c88",
@@ -865,8 +865,8 @@
     {
       "Id": "69a98585-7e4c-4046-982e-ae9ed48faab7",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 28622,
-      "End": 32148
+      "Begin": 28812,
+      "End": 32338
     },
     {
       "Id": "1ea9b349-8d3f-4224-9fa9-b01d1c7ff993",
@@ -877,8 +877,8 @@
     {
       "Id": "42259fca-c066-4a02-bb91-b3224b709438",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 26210,
-      "End": 28293
+      "Begin": 26400,
+      "End": 28483
     },
     {
       "Id": "ff6e7f01-f7b4-4595-bbab-b4a5d854499e",
@@ -901,8 +901,8 @@
     {
       "Id": "b907db20-99d6-4b44-99fb-ba4f4bc0c4b5",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 19912,
-      "End": 23092
+      "Begin": 20102,
+      "End": 23282
     },
     {
       "Id": "4ac822b3-da84-4b0b-bd48-be7fdf2670de",
@@ -927,6 +927,12 @@
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 9854,
       "End": 14506
+    },
+    {
+      "Id": "6dd5eca2-830d-4767-8f8b-ce98dfccc48f",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 33154,
+      "End": 33418
     },
     {
       "Id": "e5c691fb-71a4-4915-a00a-d07652430fd6",
@@ -967,8 +973,8 @@
     {
       "Id": "69ef983b-0c58-44c8-93b9-e01a8990747b",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
-      "Begin": 28297,
-      "End": 28618
+      "Begin": 28487,
+      "End": 28808
     },
     {
       "Id": "bf132248-5792-4661-9dd3-e0c6bffc4a3d",
@@ -999,6 +1005,12 @@
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 8321,
       "End": 8937
+    },
+    {
+      "Id": "82786d73-3329-4b98-8d39-eef1075eb64b",
+      "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
+      "Begin": 17936,
+      "End": 18122
     },
     {
       "Id": "2af9ddbc-84d4-4abf-b2cc-efe6ed6a17ae",
@@ -1172,6 +1184,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "6dd5eca2-830d-4767-8f8b-ce98dfccc48f",
+      "BlockId": "c75ec77f-22a1-4d1d-a9d6-61fee95f8fa8",
+      "Order": 0
+    },
+    {
       "ParticleId": "09b420de-d5e0-487b-8ec2-46814543961c",
       "BlockId": "706fb824-385c-495d-ab45-63c168248bb4",
       "Order": 0
@@ -1249,6 +1266,11 @@
     {
       "ParticleId": "1ea9b349-8d3f-4224-9fa9-b01d1c7ff993",
       "BlockId": "ef64e2f6-b870-494f-a587-8c3a1559933d",
+      "Order": 0
+    },
+    {
+      "ParticleId": "82786d73-3329-4b98-8d39-eef1075eb64b",
+      "BlockId": "7b7a9f8b-f285-429a-8779-91301f3c1b5f",
       "Order": 0
     },
     {
@@ -2020,6 +2042,11 @@
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
+      "Id": "c75ec77f-22a1-4d1d-a9d6-61fee95f8fa8",
+      "Caption": "Норманы и славяне - схожие и синхронные процессы гособразования?",
+      "TargetId": "f16d99d1-a723-4c42-a4bf-60f3febe25a2"
+    },
+    {
       "Id": "112b3fc3-1b4d-4be9-92d6-00f244fafa8a",
       "Caption": "Быт кочевников",
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
@@ -2055,6 +2082,11 @@
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
     },
     {
+      "Id": "7b7a9f8b-f285-429a-8779-91301f3c1b5f",
+      "Caption": "Рюрик - это Рорик Фрисландский?",
+      "TargetId": "f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d"
+    },
+    {
       "Id": "660dd235-989d-4bb4-b654-9e9c2c68eb18",
       "Caption": "Особый путь развития",
       "TargetId": "187b4b15-2c4e-4f89-a2c6-e3d08ed2c6c2"
@@ -2079,7 +2111,7 @@
     },
     {
       "Id": "SettingRecentGuidables",
-      "Value": "{\"Items\":[{\"Id\":\"4dbf96ce-96f9-4cab-9909-841a2ff1fce2\",\"Name\":null,\"Order\":5},{\"Id\":\"3e7d2073-c6e6-4b3d-82d7-2971506010b9\",\"Name\":null,\"Order\":18}]}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"4dbf96ce-96f9-4cab-9909-841a2ff1fce2\",\r\n      \"Name\": null,\r\n      \"Order\": 5\r\n    },\r\n    {\r\n      \"Id\": \"3e7d2073-c6e6-4b3d-82d7-2971506010b9\",\r\n      \"Name\": null,\r\n      \"Order\": 18\r\n    },\r\n    {\r\n      \"Id\": \"f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 21\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentIdeas",
