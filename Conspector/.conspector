@@ -204,6 +204,13 @@
       "Source": "http://yakutiafuture.ru/2015/12/29/kochevniki-i-zemledelcheskij-mir-xunnskaya-model-v-istoricheskoj-perspektive/"
     },
     {
+      "Path": "Лекции\\АПИИ.txt",
+      "Id": "c277221e-a6b5-4429-99a8-dc9c9ed2dd92",
+      "IsFolder": false,
+      "Author": "Селунская Н.Б.",
+      "Source": "лекции"
+    },
+    {
       "Path": "mine",
       "Id": "e6b41a60-f670-4727-a53d-eab496ea297b",
       "IsFolder": true,
