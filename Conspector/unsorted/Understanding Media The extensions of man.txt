@@ -1,7 +1,8 @@
 The medium is the message
 This fact, characteristic of all media, means that the "content" of any medium is always another medium. The content of writing is speech, just as the written word is the content of print, and print is the content of the telegraph. If it is asked, "What is the content of speech?," it is necessary to say, "It is an actual process of thought, which is in itself nonverbal."
 
-Маклюэн навязчиво пытается убедить, что среда передачи - это уже содержание, что, на мой взгляд - неверно. В череде различных "сред" передачи есть только одно значимое содержание. Источник, ..(упаковка, передача, распаковка).. получатель.  
+Маклюэн доносит мысль, что среда передачи - это уже содержание. Т.е. это фактор, который необходимо учитывать. Что, конечно, справедливо, только доносит это Маклюен странным способом.
+ В череде различных "сред" передачи есть только одно значимое содержание. Источник, ..(упаковка, передача, распаковка).. получатель.  
 
  The railway did not introduce movement or transportation or wheel or road into human society, but it accelerated and enlarged the scale of previous human functions, creating totally new kinds of cities and new kinds of work and leisure. This happened whether the railway functioned in a tropical or a northern environment and is quite independent of the freight or content of the railway medium. The airplane, on the other hand, by accelerating the rate of transportation, tends to dissolve the railway form of city, politics, and association, quite independently of what the airplane is used for.
 
@@ -9,4 +10,4 @@ This fact, characteristic of all media, means that the "content" of any medium i
  
  General David Sarnoff made this statement: "We are too prone to make technological instruments the scapegoats for the sins of those who wield them. The products of modern science are not in themselves good or bad; it is the way they are used that determines their value." That is the voice of the current somnambulism. Suppose we were to say, "Apple pie is in itself neither good nor bad; it is the way it is used that determines its value." Or, "The smallpox virus is in itself neither good nor bad; it is the way it is used that determines its value." Again, "Firearms are in themselves neither good nor bad; it is the way they are used that determines their value." That is, if the slugs reach the right people firearms are good. If the TV tube fires the right ammunition at the right people it is good.
 
-Опять же, я склонен согласиться с генералом Сарновым. Яблочный пирог сам по себе не плох и не хорош, если его дать голодному - это одно, если его уронить в пациента во время операции - это другое.
+ склонен согласиться с генералом Сарновым. Яблочный пирог сам по себе не плох и не хорош, если его дать голодному - это одно, если его уронить в пациента во время операции - это другое.
