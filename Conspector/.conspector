@@ -29,6 +29,13 @@
       "Source": "Аз и я (http://www.opentextnn.ru/man/?id=711)"
     },
     {
+      "Path": "Лекции\\Философия.txt",
+      "Id": "741a7708-6d94-4be4-9db3-29e5cf793c6f",
+      "IsFolder": false,
+      "Author": "Шклярик Е.Н.",
+      "Source": "лекции"
+    },
+    {
       "Path": "unsorted\\Источниковедение(2015).txt",
       "Id": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
       "IsFolder": false,
@@ -141,6 +148,13 @@
       "Source": "Печенѣги, торки и половцы до нашествiя татаръ П.Голубовский 1884"
     },
     {
+      "Path": "unsorted\\Understanding Media The extensions of man.txt",
+      "Id": "4ac4431d-516c-442c-882a-8fe20942894f",
+      "IsFolder": false,
+      "Author": "McLuhan Marshall",
+      "Source": "Understanding Media The extensions of man McLuhan Marshall"
+    },
+    {
       "Path": "mine\\Лекции с уклоном\\План лекций с уклоном.txt",
       "Id": "c4157f32-7c15-45f6-8678-9303ecfc6d27",
       "IsFolder": false,
@@ -153,6 +167,13 @@
       "IsFolder": true,
       "Author": null,
       "Source": null
+    },
+    {
+      "Path": "Лекции\\Информационные технологии.txt",
+      "Id": "76ed56ad-13bf-4d07-8685-9a7cbd434f6c",
+      "IsFolder": false,
+      "Author": "Володин А.Ю.",
+      "Source": "лекции"
     },
     {
       "Path": "unsorted\\История России до 1618 г..txt",
@@ -2074,9 +2095,9 @@
   ],
   "Comments": [
     {
-      "Id": "68676d0e-4dd3-4ed3-a519-98c24d6f3f49",
-      "Caption": "Сфендоплек",
-      "TargetId": "e4276ee4-103b-4ed5-b80c-1012bfd0ca7e"
+      "Id": "112b3fc3-1b4d-4be9-92d6-00f244fafa8a",
+      "Caption": "Быт кочевников",
+      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
     },
     {
       "Id": "217a7ac5-ef90-4410-b538-092fd726f36c",
@@ -2104,14 +2125,44 @@
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
+      "Id": "c75ec77f-22a1-4d1d-a9d6-61fee95f8fa8",
+      "Caption": "Норманы и славяне - схожие и синхронные процессы гособразования?",
+      "TargetId": "f16d99d1-a723-4c42-a4bf-60f3febe25a2"
+    },
+    {
+      "Id": "40584a40-0636-4856-969a-6c08b5bf2133",
+      "Caption": "Реколонизация южных степей",
+      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
+    },
+    {
       "Id": "3ab8bafa-cfb8-45b5-a198-7ec78df2f931",
       "Caption": "Кровать",
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
+      "Id": "7b7a9f8b-f285-429a-8779-91301f3c1b5f",
+      "Caption": "Рюрик - это Рорик Фрисландский?",
+      "TargetId": "f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d"
+    },
+    {
+      "Id": "8c5a7cd3-fdb2-4661-854a-91a3ec6d934c",
+      "Caption": "Нет ощущения общего государства",
+      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
+    },
+    {
+      "Id": "68676d0e-4dd3-4ed3-a519-98c24d6f3f49",
+      "Caption": "Сфендоплек",
+      "TargetId": "e4276ee4-103b-4ed5-b80c-1012bfd0ca7e"
+    },
+    {
       "Id": "2ade337b-05bf-4220-ba2d-9d81ce8e5e7f",
       "Caption": "Борьба церкви с язычеством",
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
+    },
+    {
+      "Id": "660dd235-989d-4bb4-b654-9e9c2c68eb18",
+      "Caption": "Особый путь развития",
+      "TargetId": "187b4b15-2c4e-4f89-a2c6-e3d08ed2c6c2"
     },
     {
       "Id": "fa237b22-306e-4824-b55e-a13ee3d3668e",
@@ -2129,41 +2180,6 @@
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
-      "Id": "bdcaa791-3053-4f6b-b9e8-cdca05e28962",
-      "Caption": "Берендеи (Интересное толкование)",
-      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
-    },
-    {
-      "Id": "561ce235-fdb0-4e7f-a852-d22136edd618",
-      "Caption": "До куриц тмутороканя",
-      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
-    },
-    {
-      "Id": "17aaabf5-2e75-410b-98e2-fb106d0f0b65",
-      "Caption": "Коли соколъ въ мытехъ бываетъ",
-      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
-    },
-    {
-      "Id": "c75ec77f-22a1-4d1d-a9d6-61fee95f8fa8",
-      "Caption": "Норманы и славяне - схожие и синхронные процессы гособразования?",
-      "TargetId": "f16d99d1-a723-4c42-a4bf-60f3febe25a2"
-    },
-    {
-      "Id": "112b3fc3-1b4d-4be9-92d6-00f244fafa8a",
-      "Caption": "Быт кочевников",
-      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
-    },
-    {
-      "Id": "40584a40-0636-4856-969a-6c08b5bf2133",
-      "Caption": "Реколонизация южных степей",
-      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
-    },
-    {
-      "Id": "8c5a7cd3-fdb2-4661-854a-91a3ec6d934c",
-      "Caption": "Нет ощущения общего государства",
-      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
-    },
-    {
       "Id": "00de96b7-acad-42a7-baed-c6fc65156217",
       "Caption": "Нравы князей не блещят: Мономах",
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
@@ -2174,9 +2190,19 @@
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
     },
     {
+      "Id": "bdcaa791-3053-4f6b-b9e8-cdca05e28962",
+      "Caption": "Берендеи (Интересное толкование)",
+      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
+    },
+    {
       "Id": "4455a4ab-cb3e-4729-a812-d18621f2aefd",
       "Caption": "Хазары \"крышевали\" славян",
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
+    },
+    {
+      "Id": "561ce235-fdb0-4e7f-a852-d22136edd618",
+      "Caption": "До куриц тмутороканя",
+      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
       "Id": "30330443-6d47-49df-9a49-f201c19ecbaa",
@@ -2184,14 +2210,9 @@
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
     },
     {
-      "Id": "7b7a9f8b-f285-429a-8779-91301f3c1b5f",
-      "Caption": "Рюрик - это Рорик Фрисландский?",
-      "TargetId": "f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d"
-    },
-    {
-      "Id": "660dd235-989d-4bb4-b654-9e9c2c68eb18",
-      "Caption": "Особый путь развития",
-      "TargetId": "187b4b15-2c4e-4f89-a2c6-e3d08ed2c6c2"
+      "Id": "17aaabf5-2e75-410b-98e2-fb106d0f0b65",
+      "Caption": "Коли соколъ въ мытехъ бываетъ",
+      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     }
   ],
   "Settings": [
