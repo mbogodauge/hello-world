@@ -232,6 +232,13 @@
       "Source": "лекции"
     },
     {
+      "Path": "Лекции\\АПИР 3-й бак.txt",
+      "Id": "4c067aba-c740-406d-9ce6-df7488a13008",
+      "IsFolder": false,
+      "Author": "Горский",
+      "Source": "лекции"
+    },
+    {
       "Path": "mine",
       "Id": "e6b41a60-f670-4727-a53d-eab496ea297b",
       "IsFolder": true,
@@ -2822,6 +2829,16 @@
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Position": 43014,
       "Caption": "Очерк 4 ФОРМИРОВАНИЕ ГОСУДАРСТВА РУСЬ"
+    },
+    {
+      "HostMaterialId": "4c067aba-c740-406d-9ce6-df7488a13008",
+      "Position": 0,
+      "Caption": "Семинар №1"
+    },
+    {
+      "HostMaterialId": "4c067aba-c740-406d-9ce6-df7488a13008",
+      "Position": 1685,
+      "Caption": "Лекция №2"
     },
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
