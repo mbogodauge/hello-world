@@ -2331,6 +2331,11 @@
       "Caption": "//Нехристи"
     },
     {
+      "HostMaterialId": "741a7708-6d94-4be4-9db3-29e5cf793c6f",
+      "Position": 203,
+      "Caption": "Б.Латур Пересборка социального"
+    },
+    {
       "HostMaterialId": "b909ed83-1337-42da-b605-38c255522736",
       "Position": 77,
       "Caption": "Лекция №1"
@@ -2784,6 +2789,21 @@
       "HostMaterialId": "f4cd0be4-9992-4583-96f3-62857a0c666d",
       "Position": 4275,
       "Caption": "//парадокс матери Веры и её самой"
+    },
+    {
+      "HostMaterialId": "2b5e8d26-3bb8-4868-999e-7a04aa6ad95a",
+      "Position": 83,
+      "Caption": "Лекция №1"
+    },
+    {
+      "HostMaterialId": "2b5e8d26-3bb8-4868-999e-7a04aa6ad95a",
+      "Position": 1772,
+      "Caption": "Лекция №2"
+    },
+    {
+      "HostMaterialId": "2b5e8d26-3bb8-4868-999e-7a04aa6ad95a",
+      "Position": 5410,
+      "Caption": "Лекция №3"
     },
     {
       "HostMaterialId": "e0833ab5-24bc-47d5-8c79-a86b502aabc7",
