@@ -1,6 +1,13 @@
 {
   "FileEntries": [
     {
+      "Path": "unsorted\\Политика мос.князей кXIII - пп XIV в.txt",
+      "Id": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "IsFolder": false,
+      "Author": "Борисов Н.С.",
+      "Source": "Политика мос.князей кXIII - пп XIV в"
+    },
+    {
       "Path": "unsorted",
       "Id": "d03fa713-cbfd-4893-b9de-1a5a7ac09137",
       "IsFolder": true,
@@ -340,6 +347,10 @@
       "Caption": "Прародина славян"
     },
     {
+      "Id": "c1ba7af9-d9c3-49b8-8178-36725a4262c4",
+      "Caption": "Причины возвышения Москвы"
+    },
+    {
       "Id": "2d3691bd-bb65-4f92-8238-36fb6fa205e6",
       "Caption": "Пеньковская культура"
     },
@@ -392,6 +403,10 @@
       "Caption": "Кипчаки-половцы (cumane)"
     },
     {
+      "Id": "03ea876b-f1a1-4949-98f3-6064d44112da",
+      "Caption": "\"Географический фактор\" в возвышении Москвы"
+    },
+    {
       "Id": "f16d99d1-a723-4c42-a4bf-60f3febe25a2",
       "Caption": "Роль норманн в государствообразовании Руси"
     },
@@ -406,6 +421,10 @@
     {
       "Id": "cb8f92ee-ba99-4d78-ace0-686fc2fa6974",
       "Caption": "Древние славяне"
+    },
+    {
+      "Id": "1623a81f-acb4-4be1-a9e5-74894e81b298",
+      "Caption": "Факторы объединения/разъединения"
     },
     {
       "Id": "fdb72512-8a36-457b-9045-75af82f85a8c",
@@ -449,7 +468,11 @@
     },
     {
       "Id": "3bc09354-5a0a-4381-a06f-91b871e74459",
-      "Caption": "Начало Руси"
+      "Caption": "01. Начало Руси"
+    },
+    {
+      "Id": "3d30127d-ef3d-4c0f-b74a-95c0198c7fcc",
+      "Caption": "\"Аморальная политика\" московских князей"
     },
     {
       "Id": "9a0f38af-97c3-4d85-b469-97bd0a081052",
@@ -516,6 +539,10 @@
       "Caption": "Маврикий (император)"
     },
     {
+      "Id": "c2f28794-fe41-4bd9-90c4-c86eab8222e8",
+      "Caption": "02. Даниил Московский"
+    },
+    {
       "Id": "8c59c6b3-fc80-4115-8ff7-dba5bbadc239",
       "Caption": "Историософия"
     },
@@ -534,6 +561,10 @@
     {
       "Id": "6a1d686e-8223-433e-915e-e9d4bfb41a18",
       "Caption": "Византия"
+    },
+    {
+      "Id": "5008296e-8068-4991-8bc6-ed3f70994247",
+      "Caption": "Церковный фактор в возвышении Москвы"
     },
     {
       "Id": "e1f6f2aa-335e-4eb3-9374-f3c42661763c",
@@ -652,6 +683,12 @@
       "End": 34593
     },
     {
+      "Id": "cb35002d-7438-4d8c-a533-35ec78484e38",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 13,
+      "End": 984
+    },
+    {
       "Id": "730062a6-f5a7-483c-b967-36a3bcce8aec",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 39321,
@@ -680,6 +717,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 36557,
       "End": 37179
+    },
+    {
+      "Id": "cd496d6a-b034-46ff-8903-3aa01b75be9f",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 2582,
+      "End": 3009
     },
     {
       "Id": "f87fd67a-69b4-4479-ada4-3d5399b70d53",
@@ -778,10 +821,22 @@
       "End": 6498
     },
     {
+      "Id": "f9f99e74-33da-4e17-8249-6800ebe4e014",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 3655,
+      "End": 4580
+    },
+    {
       "Id": "d5eb0bf8-41be-4f14-b45e-6a5933675c63",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 23286,
       "End": 25044
+    },
+    {
+      "Id": "684b1eab-8001-41cc-afe3-7060df584585",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 3014,
+      "End": 3651
     },
     {
       "Id": "7c39ff12-ebe6-4452-85b5-722c5f43cc69",
@@ -982,10 +1037,28 @@
       "End": 8127
     },
     {
+      "Id": "b5658f9d-e9c0-4de6-b5cf-b896fb8a3aea",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 988,
+      "End": 1144
+    },
+    {
       "Id": "b907db20-99d6-4b44-99fb-ba4f4bc0c4b5",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 20102,
       "End": 23282
+    },
+    {
+      "Id": "57a7169b-8d1f-4591-bd4b-bb8be0b6052c",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 0,
+      "End": 0
+    },
+    {
+      "Id": "fb375955-7818-4a00-8bf4-bd323d49752d",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 1148,
+      "End": 1736
     },
     {
       "Id": "4ac822b3-da84-4b0b-bd48-be7fdf2670de",
@@ -1034,6 +1107,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 20900,
       "End": 20997
+    },
+    {
+      "Id": "4438841f-69c9-4f0d-bd8f-d54413a2bef4",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 1740,
+      "End": 2270
     },
     {
       "Id": "3b2fd71b-7edb-4caf-b597-d6cfc3e59b5b",
@@ -1124,6 +1203,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 24203,
       "End": 24733
+    },
+    {
+      "Id": "2de7029b-deed-4a49-83b8-f2e96aa18484",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 2275,
+      "End": 2576
     },
     {
       "Id": "e529ef08-cd0e-4c58-aae2-fe7931939eed",
@@ -1219,6 +1304,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "cb35002d-7438-4d8c-a533-35ec78484e38",
+      "BlockId": "c1ba7af9-d9c3-49b8-8178-36725a4262c4",
+      "Order": 0
+    },
+    {
       "ParticleId": "94d3263a-7c0e-47f3-804e-2967246bb771",
       "BlockId": "ee0ba510-43d4-4324-ba27-3f11a39f0299",
       "Order": 0
@@ -1284,6 +1374,11 @@
       "Order": 2
     },
     {
+      "ParticleId": "b5658f9d-e9c0-4de6-b5cf-b896fb8a3aea",
+      "BlockId": "03ea876b-f1a1-4949-98f3-6064d44112da",
+      "Order": 0
+    },
+    {
       "ParticleId": "c536e88e-7147-4b58-b2c8-02f629bb1078",
       "BlockId": "f16d99d1-a723-4c42-a4bf-60f3febe25a2",
       "Order": 1
@@ -1326,6 +1421,21 @@
     {
       "ParticleId": "3c55cd7f-1a39-47ff-88cb-37b0db3311ed",
       "BlockId": "40584a40-0636-4856-969a-6c08b5bf2133",
+      "Order": 0
+    },
+    {
+      "ParticleId": "cd496d6a-b034-46ff-8903-3aa01b75be9f",
+      "BlockId": "1623a81f-acb4-4be1-a9e5-74894e81b298",
+      "Order": 1
+    },
+    {
+      "ParticleId": "684b1eab-8001-41cc-afe3-7060df584585",
+      "BlockId": "1623a81f-acb4-4be1-a9e5-74894e81b298",
+      "Order": 2
+    },
+    {
+      "ParticleId": "2de7029b-deed-4a49-83b8-f2e96aa18484",
+      "BlockId": "1623a81f-acb4-4be1-a9e5-74894e81b298",
       "Order": 0
     },
     {
@@ -1391,6 +1501,16 @@
     {
       "ParticleId": "dde1d537-8c4c-43d0-ac87-59f40d9e6aef",
       "BlockId": "8c5a7cd3-fdb2-4661-854a-91a3ec6d934c",
+      "Order": 0
+    },
+    {
+      "ParticleId": "f9f99e74-33da-4e17-8249-6800ebe4e014",
+      "BlockId": "3d30127d-ef3d-4c0f-b74a-95c0198c7fcc",
+      "Order": 1
+    },
+    {
+      "ParticleId": "4438841f-69c9-4f0d-bd8f-d54413a2bef4",
+      "BlockId": "3d30127d-ef3d-4c0f-b74a-95c0198c7fcc",
       "Order": 0
     },
     {
@@ -1554,6 +1674,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "fb375955-7818-4a00-8bf4-bd323d49752d",
+      "BlockId": "5008296e-8068-4991-8bc6-ed3f70994247",
+      "Order": 0
+    },
+    {
       "ParticleId": "2a7436d5-fabf-400d-9914-d74a546ba5d6",
       "BlockId": "30330443-6d47-49df-9a49-f201c19ecbaa",
       "Order": 0
@@ -1692,7 +1817,7 @@
     },
     {
       "Id": "a436c6a7-5b61-44bc-8985-274b175e695a",
-      "Caption": "Начало Руси",
+      "Caption": "01. Начало Руси",
       "MyIdeaId": "3bc09354-5a0a-4381-a06f-91b871e74459",
       "ParentId": "fb1fa23f-a000-4e08-9ce2-5ac0ab0a0d95"
     },
@@ -1707,6 +1832,12 @@
       "Caption": "Книги",
       "MyIdeaId": "da151b81-cd24-487c-8605-f6bda5ee135f",
       "ParentId": null
+    },
+    {
+      "Id": "e8c34d39-f3fd-4b7e-83c5-5373fc562500",
+      "Caption": "02. Даниил Московский",
+      "MyIdeaId": "c2f28794-fe41-4bd9-90c4-c86eab8222e8",
+      "ParentId": "fb1fa23f-a000-4e08-9ce2-5ac0ab0a0d95"
     },
     {
       "Id": "fb1fa23f-a000-4e08-9ce2-5ac0ab0a0d95",
@@ -1913,6 +2044,26 @@
     {
       "GuidableId": "dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239",
       "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
+    },
+    {
+      "GuidableId": "c1ba7af9-d9c3-49b8-8178-36725a4262c4",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "03ea876b-f1a1-4949-98f3-6064d44112da",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "1623a81f-acb4-4be1-a9e5-74894e81b298",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "3d30127d-ef3d-4c0f-b74a-95c0198c7fcc",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "5008296e-8068-4991-8bc6-ed3f70994247",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
     {
       "GuidableId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
@@ -2262,14 +2413,24 @@
     },
     {
       "Id": "SettingRecentIdeas",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"d30435c6-ab13-4da3-8c06-3fdf018f4ac2\",\r\n      \"Name\": null,\r\n      \"Order\": 12\r\n    },\r\n    {\r\n      \"Id\": \"365d455a-a56a-4824-a2be-15f6c18157d4\",\r\n      \"Name\": null,\r\n      \"Order\": 10\r\n    },\r\n    {\r\n      \"Id\": \"1101b033-daa9-49cc-9d34-a0de4dee9835\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"5cfa798a-ad94-440e-8bc4-8560486b9a65\",\r\n      \"Name\": null,\r\n      \"Order\": 13\r\n    },\r\n    {\r\n      \"Id\": \"19e46096-ed87-420e-a54f-81d4bb0cf439\",\r\n      \"Name\": null,\r\n      \"Order\": 14\r\n    },\r\n    {\r\n      \"Id\": \"d94f5f80-1201-4c19-b24e-49023728e5ae\",\r\n      \"Name\": null,\r\n      \"Order\": 15\r\n    },\r\n    {\r\n      \"Id\": \"89fd930f-b877-41e8-a104-88150f221188\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"aa5ad8ef-74ca-473e-ad86-7e90c80caa1c\",\r\n      \"Name\": null,\r\n      \"Order\": 17\r\n    },\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"809c7dcc-1d39-4590-b6f6-05bceab8e8c5\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"d30435c6-ab13-4da3-8c06-3fdf018f4ac2\",\r\n      \"Name\": null,\r\n      \"Order\": 12\r\n    },\r\n    {\r\n      \"Id\": \"5cfa798a-ad94-440e-8bc4-8560486b9a65\",\r\n      \"Name\": null,\r\n      \"Order\": 13\r\n    },\r\n    {\r\n      \"Id\": \"19e46096-ed87-420e-a54f-81d4bb0cf439\",\r\n      \"Name\": null,\r\n      \"Order\": 14\r\n    },\r\n    {\r\n      \"Id\": \"d94f5f80-1201-4c19-b24e-49023728e5ae\",\r\n      \"Name\": null,\r\n      \"Order\": 15\r\n    },\r\n    {\r\n      \"Id\": \"89fd930f-b877-41e8-a104-88150f221188\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"aa5ad8ef-74ca-473e-ad86-7e90c80caa1c\",\r\n      \"Name\": null,\r\n      \"Order\": 17\r\n    },\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"809c7dcc-1d39-4590-b6f6-05bceab8e8c5\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    },\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentTags",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 42\r\n    }\r\n  ]\r\n}"
     }
   ],
   "Headers": [
+    {
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Position": 0,
+      "Caption": "Введение "
+    },
+    {
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Position": 4584,
+      "Caption": "Источники"
+    },
     {
       "HostMaterialId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
       "Position": 115,
@@ -2888,37 +3049,37 @@
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
       "Position": 241,
-      "Caption": "//современность"
+      "Caption": "сердце\r\n\r\n\r\n//с"
     },
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
       "Position": 296,
-      "Caption": "//20век"
+      "Caption": "журнали"
     },
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
       "Position": 457,
-      "Caption": "//Русь"
+      "Caption": "томник"
     },
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
       "Position": 1566,
-      "Caption": "//Россия "
+      "Caption": "того\r\nОт "
     },
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
       "Position": 1616,
-      "Caption": "//лингвистика"
+      "Caption": "\r\n\r\nФадлан\r\n\r"
     },
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
       "Position": 1656,
-      "Caption": "//античность"
+      "Caption": "зный\r\nЖЗЛ Пе"
     },
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
       "Position": 1703,
-      "Caption": "//япония"
+      "Caption": "://lingv"
     },
     {
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
