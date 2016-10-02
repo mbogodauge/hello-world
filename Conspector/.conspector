@@ -1125,6 +1125,12 @@
       "End": 28483
     },
     {
+      "Id": "14f0fa77-a451-4330-95b7-b3efe1ff11ba",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 33917,
+      "End": 35268
+    },
+    {
       "Id": "010b4753-a25e-4eed-acde-b433216faeb0",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 33422,
@@ -1309,6 +1315,12 @@
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 8321,
       "End": 8937
+    },
+    {
+      "Id": "9a556c66-8fec-4866-bc4e-eb9f83489634",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 30226,
+      "End": 31305
     },
     {
       "Id": "f8c1dd2d-1bfa-4e03-b339-ee0145840999",
@@ -1637,6 +1649,11 @@
       "Order": 2
     },
     {
+      "ParticleId": "14f0fa77-a451-4330-95b7-b3efe1ff11ba",
+      "BlockId": "1623a81f-acb4-4be1-a9e5-74894e81b298",
+      "Order": 3
+    },
+    {
       "ParticleId": "2de7029b-deed-4a49-83b8-f2e96aa18484",
       "BlockId": "1623a81f-acb4-4be1-a9e5-74894e81b298",
       "Order": 0
@@ -1935,6 +1952,11 @@
       "ParticleId": "fb375955-7818-4a00-8bf4-bd323d49752d",
       "BlockId": "5008296e-8068-4991-8bc6-ed3f70994247",
       "Order": 0
+    },
+    {
+      "ParticleId": "9a556c66-8fec-4866-bc4e-eb9f83489634",
+      "BlockId": "5008296e-8068-4991-8bc6-ed3f70994247",
+      "Order": 1
     },
     {
       "ParticleId": "2a7436d5-fabf-400d-9914-d74a546ba5d6",
@@ -2687,7 +2709,7 @@
     },
     {
       "Id": "SettingRecentIdeas",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"89fd930f-b877-41e8-a104-88150f221188\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"aa5ad8ef-74ca-473e-ad86-7e90c80caa1c\",\r\n      \"Name\": null,\r\n      \"Order\": 17\r\n    },\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"809c7dcc-1d39-4590-b6f6-05bceab8e8c5\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    },\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    },\r\n    {\r\n      \"Id\": \"7de85d44-b6ec-4712-aad2-ea101efc6445\",\r\n      \"Name\": null,\r\n      \"Order\": 38\r\n    },\r\n    {\r\n      \"Id\": \"ce11d551-edc1-4769-a424-3af23f47f66f\",\r\n      \"Name\": null,\r\n      \"Order\": 47\r\n    },\r\n    {\r\n      \"Id\": \"efb649d7-dcac-4207-8117-ba587ba82e8a\",\r\n      \"Name\": null,\r\n      \"Order\": 48\r\n    },\r\n    {\r\n      \"Id\": \"c1ba7af9-d9c3-49b8-8178-36725a4262c4\",\r\n      \"Name\": null,\r\n      \"Order\": 49\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"aa5ad8ef-74ca-473e-ad86-7e90c80caa1c\",\r\n      \"Name\": null,\r\n      \"Order\": 17\r\n    },\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"809c7dcc-1d39-4590-b6f6-05bceab8e8c5\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    },\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 51\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    },\r\n    {\r\n      \"Id\": \"7de85d44-b6ec-4712-aad2-ea101efc6445\",\r\n      \"Name\": null,\r\n      \"Order\": 38\r\n    },\r\n    {\r\n      \"Id\": \"ce11d551-edc1-4769-a424-3af23f47f66f\",\r\n      \"Name\": null,\r\n      \"Order\": 47\r\n    },\r\n    {\r\n      \"Id\": \"efb649d7-dcac-4207-8117-ba587ba82e8a\",\r\n      \"Name\": null,\r\n      \"Order\": 48\r\n    },\r\n    {\r\n      \"Id\": \"c1ba7af9-d9c3-49b8-8178-36725a4262c4\",\r\n      \"Name\": null,\r\n      \"Order\": 49\r\n    },\r\n    {\r\n      \"Id\": \"5008296e-8068-4991-8bc6-ed3f70994247\",\r\n      \"Name\": null,\r\n      \"Order\": 50\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentTags",
@@ -2709,6 +2731,11 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Position": 7215,
       "Caption": "Историография"
+    },
+    {
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Position": 35272,
+      "Caption": "Глава 1 Политика князя Даниила Александровича Московского (1282-1303)"
     },
     {
       "HostMaterialId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
