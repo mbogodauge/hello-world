@@ -527,6 +527,10 @@
       "Caption": "Земледелие в VII - VIII вв."
     },
     {
+      "Id": "efb649d7-dcac-4207-8117-ba587ba82e8a",
+      "Caption": "Миф об Иване Калите"
+    },
+    {
       "Id": "38d860b2-4815-40f2-93cf-bb4ae121174a",
       "Caption": "Россия"
     },
@@ -971,6 +975,12 @@
       "End": 18131
     },
     {
+      "Id": "9c68443d-cc41-4e7a-b3a1-9316833f0490",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 21422,
+      "End": 22568
+    },
+    {
       "Id": "862a782c-f21d-4597-ae3b-93ae6c406ada",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 20998,
@@ -1227,6 +1237,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 27924,
       "End": 28190
+    },
+    {
+      "Id": "85132cd7-dd92-4c49-93a0-e59535284fb9",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 22572,
+      "End": 23125
     },
     {
       "Id": "a88b4685-cec9-49b9-82a3-e645a6c3b1b8",
@@ -1759,6 +1775,16 @@
       "Order": 0
     },
     {
+      "ParticleId": "9c68443d-cc41-4e7a-b3a1-9316833f0490",
+      "BlockId": "efb649d7-dcac-4207-8117-ba587ba82e8a",
+      "Order": 0
+    },
+    {
+      "ParticleId": "85132cd7-dd92-4c49-93a0-e59535284fb9",
+      "BlockId": "efb649d7-dcac-4207-8117-ba587ba82e8a",
+      "Order": 1
+    },
+    {
       "ParticleId": "9d01dc2c-81b8-4cbf-8643-590fa58ebe56",
       "BlockId": "c7dde8d9-22d8-415b-8cdc-c367cc68a9f3",
       "Order": 0
@@ -2221,6 +2247,10 @@
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
     {
+      "GuidableId": "efb649d7-dcac-4207-8117-ba587ba82e8a",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
       "GuidableId": "9220ae72-e46c-496f-a189-cb91edb26e8c",
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
@@ -2580,11 +2610,11 @@
     },
     {
       "Id": "SettingRecentIdeas",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"19e46096-ed87-420e-a54f-81d4bb0cf439\",\r\n      \"Name\": null,\r\n      \"Order\": 14\r\n    },\r\n    {\r\n      \"Id\": \"d94f5f80-1201-4c19-b24e-49023728e5ae\",\r\n      \"Name\": null,\r\n      \"Order\": 15\r\n    },\r\n    {\r\n      \"Id\": \"89fd930f-b877-41e8-a104-88150f221188\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"aa5ad8ef-74ca-473e-ad86-7e90c80caa1c\",\r\n      \"Name\": null,\r\n      \"Order\": 17\r\n    },\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"809c7dcc-1d39-4590-b6f6-05bceab8e8c5\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    },\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    },\r\n    {\r\n      \"Id\": \"7de85d44-b6ec-4712-aad2-ea101efc6445\",\r\n      \"Name\": null,\r\n      \"Order\": 38\r\n    },\r\n    {\r\n      \"Id\": \"ce11d551-edc1-4769-a424-3af23f47f66f\",\r\n      \"Name\": null,\r\n      \"Order\": 47\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"d94f5f80-1201-4c19-b24e-49023728e5ae\",\r\n      \"Name\": null,\r\n      \"Order\": 15\r\n    },\r\n    {\r\n      \"Id\": \"89fd930f-b877-41e8-a104-88150f221188\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"aa5ad8ef-74ca-473e-ad86-7e90c80caa1c\",\r\n      \"Name\": null,\r\n      \"Order\": 17\r\n    },\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"809c7dcc-1d39-4590-b6f6-05bceab8e8c5\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    },\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    },\r\n    {\r\n      \"Id\": \"7de85d44-b6ec-4712-aad2-ea101efc6445\",\r\n      \"Name\": null,\r\n      \"Order\": 38\r\n    },\r\n    {\r\n      \"Id\": \"ce11d551-edc1-4769-a424-3af23f47f66f\",\r\n      \"Name\": null,\r\n      \"Order\": 47\r\n    },\r\n    {\r\n      \"Id\": \"efb649d7-dcac-4207-8117-ba587ba82e8a\",\r\n      \"Name\": null,\r\n      \"Order\": 48\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentTags",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 45\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 46\r\n    }\r\n  ]\r\n}"
     }
   ],
   "Headers": [
