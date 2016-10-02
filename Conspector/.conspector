@@ -359,6 +359,10 @@
       "Caption": "История"
     },
     {
+      "Id": "ce11d551-edc1-4769-a424-3af23f47f66f",
+      "Caption": "Восприятие эпохи Др.Русск. книжниками"
+    },
+    {
       "Id": "ee0ba510-43d4-4324-ba27-3f11a39f0299",
       "Caption": "Жупаны"
     },
@@ -543,6 +547,10 @@
       "Caption": "02. Даниил Московский"
     },
     {
+      "Id": "9220ae72-e46c-496f-a189-cb91edb26e8c",
+      "Caption": "Тверской свод 1305 г."
+    },
+    {
       "Id": "8c59c6b3-fc80-4115-8ff7-dba5bbadc239",
       "Caption": "Историософия"
     },
@@ -561,6 +569,10 @@
     {
       "Id": "6a1d686e-8223-433e-915e-e9d4bfb41a18",
       "Caption": "Византия"
+    },
+    {
+      "Id": "7de85d44-b6ec-4712-aad2-ea101efc6445",
+      "Caption": "Провиденциализм"
     },
     {
       "Id": "5008296e-8068-4991-8bc6-ed3f70994247",
@@ -809,6 +821,12 @@
       "End": 39746
     },
     {
+      "Id": "bfe06ac7-f944-4fec-a091-5c25a26d3842",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 4878,
+      "End": 5599
+    },
+    {
       "Id": "82059713-4ce0-4927-bd88-60105048cb0d",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 32340,
@@ -837,6 +855,12 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 3014,
       "End": 3651
+    },
+    {
+      "Id": "78ccee5b-f70d-498b-9dc3-70f8720748a9",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 11380,
+      "End": 12031
     },
     {
       "Id": "7c39ff12-ebe6-4452-85b5-722c5f43cc69",
@@ -1103,6 +1127,12 @@
       "End": 19097
     },
     {
+      "Id": "aa9a27a9-239a-4245-83fb-d1a97ef65265",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 9263,
+      "End": 11376
+    },
+    {
       "Id": "403f3ed3-3511-457d-8014-d36e0961f846",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 20900,
@@ -1211,6 +1241,12 @@
       "End": 2576
     },
     {
+      "Id": "7336f044-ce97-46c1-b672-fa870d8a5b11",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 8445,
+      "End": 9258
+    },
+    {
       "Id": "e529ef08-cd0e-4c58-aae2-fe7931939eed",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 3150,
@@ -1306,6 +1342,11 @@
     {
       "ParticleId": "cb35002d-7438-4d8c-a533-35ec78484e38",
       "BlockId": "c1ba7af9-d9c3-49b8-8178-36725a4262c4",
+      "Order": 0
+    },
+    {
+      "ParticleId": "7336f044-ce97-46c1-b672-fa870d8a5b11",
+      "BlockId": "ce11d551-edc1-4769-a424-3af23f47f66f",
       "Order": 0
     },
     {
@@ -1659,6 +1700,11 @@
       "Order": 1
     },
     {
+      "ParticleId": "bfe06ac7-f944-4fec-a091-5c25a26d3842",
+      "BlockId": "9220ae72-e46c-496f-a189-cb91edb26e8c",
+      "Order": 0
+    },
+    {
       "ParticleId": "4c61e810-8b9b-4378-9574-ea6f7f99ec03",
       "BlockId": "4455a4ab-cb3e-4729-a812-d18621f2aefd",
       "Order": 0
@@ -1671,6 +1717,16 @@
     {
       "ParticleId": "a85de615-cad7-4966-bd1c-55743c50338d",
       "BlockId": "9d7a1bf9-2eda-4710-b88e-e4269ace1da0",
+      "Order": 0
+    },
+    {
+      "ParticleId": "78ccee5b-f70d-498b-9dc3-70f8720748a9",
+      "BlockId": "7de85d44-b6ec-4712-aad2-ea101efc6445",
+      "Order": 1
+    },
+    {
+      "ParticleId": "aa9a27a9-239a-4245-83fb-d1a97ef65265",
+      "BlockId": "7de85d44-b6ec-4712-aad2-ea101efc6445",
       "Order": 0
     },
     {
@@ -2050,6 +2106,10 @@
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
     {
+      "GuidableId": "ce11d551-edc1-4769-a424-3af23f47f66f",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
       "GuidableId": "03ea876b-f1a1-4949-98f3-6064d44112da",
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
@@ -2059,6 +2119,14 @@
     },
     {
       "GuidableId": "3d30127d-ef3d-4c0f-b74a-95c0198c7fcc",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "9220ae72-e46c-496f-a189-cb91edb26e8c",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "7de85d44-b6ec-4712-aad2-ea101efc6445",
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
     {
@@ -2413,11 +2481,11 @@
     },
     {
       "Id": "SettingRecentIdeas",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"d30435c6-ab13-4da3-8c06-3fdf018f4ac2\",\r\n      \"Name\": null,\r\n      \"Order\": 12\r\n    },\r\n    {\r\n      \"Id\": \"5cfa798a-ad94-440e-8bc4-8560486b9a65\",\r\n      \"Name\": null,\r\n      \"Order\": 13\r\n    },\r\n    {\r\n      \"Id\": \"19e46096-ed87-420e-a54f-81d4bb0cf439\",\r\n      \"Name\": null,\r\n      \"Order\": 14\r\n    },\r\n    {\r\n      \"Id\": \"d94f5f80-1201-4c19-b24e-49023728e5ae\",\r\n      \"Name\": null,\r\n      \"Order\": 15\r\n    },\r\n    {\r\n      \"Id\": \"89fd930f-b877-41e8-a104-88150f221188\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"aa5ad8ef-74ca-473e-ad86-7e90c80caa1c\",\r\n      \"Name\": null,\r\n      \"Order\": 17\r\n    },\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"809c7dcc-1d39-4590-b6f6-05bceab8e8c5\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    },\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"5cfa798a-ad94-440e-8bc4-8560486b9a65\",\r\n      \"Name\": null,\r\n      \"Order\": 13\r\n    },\r\n    {\r\n      \"Id\": \"19e46096-ed87-420e-a54f-81d4bb0cf439\",\r\n      \"Name\": null,\r\n      \"Order\": 14\r\n    },\r\n    {\r\n      \"Id\": \"d94f5f80-1201-4c19-b24e-49023728e5ae\",\r\n      \"Name\": null,\r\n      \"Order\": 15\r\n    },\r\n    {\r\n      \"Id\": \"89fd930f-b877-41e8-a104-88150f221188\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"aa5ad8ef-74ca-473e-ad86-7e90c80caa1c\",\r\n      \"Name\": null,\r\n      \"Order\": 17\r\n    },\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"809c7dcc-1d39-4590-b6f6-05bceab8e8c5\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    },\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    },\r\n    {\r\n      \"Id\": \"7de85d44-b6ec-4712-aad2-ea101efc6445\",\r\n      \"Name\": null,\r\n      \"Order\": 38\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentTags",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 42\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 45\r\n    }\r\n  ]\r\n}"
     }
   ],
   "Headers": [
@@ -2429,7 +2497,12 @@
     {
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Position": 4584,
-      "Caption": "Источники"
+      "Caption": "Источники (ф, о.к.)"
+    },
+    {
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Position": 7215,
+      "Caption": "Историография"
     },
     {
       "HostMaterialId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
