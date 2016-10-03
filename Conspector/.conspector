@@ -327,12 +327,20 @@
       "Caption": "Балты"
     },
     {
+      "Id": "5d504b43-72c9-465e-bce7-1c0ed6ec23a2",
+      "Caption": "2й этап борьбы (1293) братьев Дмитрия и Андрея"
+    },
+    {
       "Id": "3543baad-090a-4028-aa98-1ddb95e23294",
       "Caption": "История России (МГУ)"
     },
     {
       "Id": "2cdb9af8-82c2-4770-ab84-1f01e7cc31e3",
       "Caption": "Историки"
+    },
+    {
+      "Id": "611166c6-b856-456a-bdb3-210e6f46c02f",
+      "Caption": "1й этап (1281) борьбы братьев Дмитрия и Андрея"
     },
     {
       "Id": "5a67a0db-fbab-4db8-a884-247466e4068d",
@@ -611,6 +619,10 @@
       "Caption": "Европа"
     },
     {
+      "Id": "97c1b823-b141-4baf-9763-fae15a4c1f75",
+      "Caption": "кн. Даниил Александрович Московский"
+    },
+    {
       "Id": "6496be28-93ad-4938-98e4-fb05df079dc9",
       "Caption": "Сарматы"
     },
@@ -637,6 +649,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 4990,
       "End": 6030
+    },
+    {
+      "Id": "c302d2e5-1a2b-4dd0-af9f-0ee68ebb6f9c",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 35345,
+      "End": 35698
     },
     {
       "Id": "070790d6-f34c-4dec-b25a-12fc35fe3dcf",
@@ -1011,6 +1029,12 @@
       "End": 18131
     },
     {
+      "Id": "f99c61c2-6474-4df9-9d1a-91f291e56866",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 38421,
+      "End": 38786
+    },
+    {
       "Id": "9c68443d-cc41-4e7a-b3a1-9316833f0490",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 21422,
@@ -1095,6 +1119,12 @@
       "End": 9850
     },
     {
+      "Id": "e17f10be-d2d3-4a86-b2e1-a7fb75ffffb7",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 35702,
+      "End": 36311
+    },
+    {
       "Id": "99cc1657-4ef0-4410-8f9a-ad492f7ad730",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 16631,
@@ -1117,6 +1147,12 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 24473,
       "End": 25001
+    },
+    {
+      "Id": "4c3a581b-a80e-495c-b305-b2618655cb02",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 36315,
+      "End": 37391
     },
     {
       "Id": "42259fca-c066-4a02-bb91-b3224b709438",
@@ -1153,6 +1189,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 7176,
       "End": 8127
+    },
+    {
+      "Id": "29ea4aba-1290-4b6c-aba4-b799ed3f8933",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 37397,
+      "End": 38416
     },
     {
       "Id": "b5658f9d-e9c0-4de6-b5cf-b896fb8a3aea",
@@ -1207,6 +1249,12 @@
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 9854,
       "End": 14506
+    },
+    {
+      "Id": "1a1cc8c6-bc42-4bc9-8d69-c773397b87a9",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 38790,
+      "End": 40675
     },
     {
       "Id": "492ca48b-e42d-4e7d-bb27-cd0deb7ed244",
@@ -1447,6 +1495,26 @@
       "ParticleId": "3b2fd71b-7edb-4caf-b597-d6cfc3e59b5b",
       "BlockId": "aabbf952-5b3d-4b04-a9dd-17bbb6af1aa4",
       "Order": 0
+    },
+    {
+      "ParticleId": "1a1cc8c6-bc42-4bc9-8d69-c773397b87a9",
+      "BlockId": "5d504b43-72c9-465e-bce7-1c0ed6ec23a2",
+      "Order": 0
+    },
+    {
+      "ParticleId": "e17f10be-d2d3-4a86-b2e1-a7fb75ffffb7",
+      "BlockId": "611166c6-b856-456a-bdb3-210e6f46c02f",
+      "Order": 0
+    },
+    {
+      "ParticleId": "4c3a581b-a80e-495c-b305-b2618655cb02",
+      "BlockId": "611166c6-b856-456a-bdb3-210e6f46c02f",
+      "Order": 1
+    },
+    {
+      "ParticleId": "29ea4aba-1290-4b6c-aba4-b799ed3f8933",
+      "BlockId": "611166c6-b856-456a-bdb3-210e6f46c02f",
+      "Order": 2
     },
     {
       "ParticleId": "070790d6-f34c-4dec-b25a-12fc35fe3dcf",
@@ -2004,6 +2072,16 @@
       "Order": 0
     },
     {
+      "ParticleId": "c302d2e5-1a2b-4dd0-af9f-0ee68ebb6f9c",
+      "BlockId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
+      "Order": 0
+    },
+    {
+      "ParticleId": "f99c61c2-6474-4df9-9d1a-91f291e56866",
+      "BlockId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
+      "Order": 1
+    },
+    {
       "ParticleId": "f87fd67a-69b4-4479-ada4-3d5399b70d53",
       "BlockId": "6496be28-93ad-4938-98e4-fb05df079dc9",
       "Order": 1
@@ -2326,6 +2404,14 @@
       "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
     },
     {
+      "GuidableId": "5d504b43-72c9-465e-bce7-1c0ed6ec23a2",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "611166c6-b856-456a-bdb3-210e6f46c02f",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
       "GuidableId": "c1ba7af9-d9c3-49b8-8178-36725a4262c4",
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
@@ -2359,6 +2445,10 @@
     },
     {
       "GuidableId": "5008296e-8068-4991-8bc6-ed3f70994247",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
     {
@@ -2709,11 +2799,11 @@
     },
     {
       "Id": "SettingRecentIdeas",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"aa5ad8ef-74ca-473e-ad86-7e90c80caa1c\",\r\n      \"Name\": null,\r\n      \"Order\": 17\r\n    },\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"809c7dcc-1d39-4590-b6f6-05bceab8e8c5\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    },\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 51\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    },\r\n    {\r\n      \"Id\": \"7de85d44-b6ec-4712-aad2-ea101efc6445\",\r\n      \"Name\": null,\r\n      \"Order\": 38\r\n    },\r\n    {\r\n      \"Id\": \"ce11d551-edc1-4769-a424-3af23f47f66f\",\r\n      \"Name\": null,\r\n      \"Order\": 47\r\n    },\r\n    {\r\n      \"Id\": \"efb649d7-dcac-4207-8117-ba587ba82e8a\",\r\n      \"Name\": null,\r\n      \"Order\": 48\r\n    },\r\n    {\r\n      \"Id\": \"c1ba7af9-d9c3-49b8-8178-36725a4262c4\",\r\n      \"Name\": null,\r\n      \"Order\": 49\r\n    },\r\n    {\r\n      \"Id\": \"5008296e-8068-4991-8bc6-ed3f70994247\",\r\n      \"Name\": null,\r\n      \"Order\": 50\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    },\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 51\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    },\r\n    {\r\n      \"Id\": \"7de85d44-b6ec-4712-aad2-ea101efc6445\",\r\n      \"Name\": null,\r\n      \"Order\": 38\r\n    },\r\n    {\r\n      \"Id\": \"ce11d551-edc1-4769-a424-3af23f47f66f\",\r\n      \"Name\": null,\r\n      \"Order\": 47\r\n    },\r\n    {\r\n      \"Id\": \"efb649d7-dcac-4207-8117-ba587ba82e8a\",\r\n      \"Name\": null,\r\n      \"Order\": 48\r\n    },\r\n    {\r\n      \"Id\": \"c1ba7af9-d9c3-49b8-8178-36725a4262c4\",\r\n      \"Name\": null,\r\n      \"Order\": 49\r\n    },\r\n    {\r\n      \"Id\": \"5008296e-8068-4991-8bc6-ed3f70994247\",\r\n      \"Name\": null,\r\n      \"Order\": 50\r\n    },\r\n    {\r\n      \"Id\": \"611166c6-b856-456a-bdb3-210e6f46c02f\",\r\n      \"Name\": null,\r\n      \"Order\": 52\r\n    },\r\n    {\r\n      \"Id\": \"97c1b823-b141-4baf-9763-fae15a4c1f75\",\r\n      \"Name\": null,\r\n      \"Order\": 53\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentTags",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 46\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 49\r\n    }\r\n  ]\r\n}"
     }
   ],
   "Headers": [
