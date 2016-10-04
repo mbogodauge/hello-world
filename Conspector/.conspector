@@ -331,6 +331,10 @@
       "Caption": "2й этап борьбы (1293) братьев Дмитрия и Андрея"
     },
     {
+      "Id": "3026088b-536a-43bf-bbb3-1d38008bc9bc",
+      "Caption": "кн. Василий Константинович Рязанский"
+    },
+    {
       "Id": "3543baad-090a-4028-aa98-1ddb95e23294",
       "Caption": "История России (МГУ)"
     },
@@ -353,6 +357,10 @@
     {
       "Id": "d964154d-06ce-48b6-8dfe-29d393a2385c",
       "Caption": "Прародина славян"
+    },
+    {
+      "Id": "fc972f79-1c83-4cfa-8a3b-3575ec721798",
+      "Caption": "Тяжба за в.к. Михаила Яр. и Юрия Дн."
     },
     {
       "Id": "c1ba7af9-d9c3-49b8-8178-36725a4262c4",
@@ -387,6 +395,10 @@
       "Caption": "Отечественная история до XIX в."
     },
     {
+      "Id": "019f7283-96ed-4557-bfc0-457fa494dd36",
+      "Caption": "03. Михаил Яр. Тверской"
+    },
+    {
       "Id": "11adc981-284a-4463-81a1-46a1b3b9b690",
       "Caption": "История Евразии"
     },
@@ -403,6 +415,10 @@
       "Caption": "1. Восточные славяне в древности"
     },
     {
+      "Id": "d0631eb2-e64a-490f-8da9-4c36add17c46",
+      "Caption": "Территориальный рост Москвы"
+    },
+    {
       "Id": "8864b653-c5f6-4f56-adef-4e7859f2f1b9",
       "Caption": "История России"
     },
@@ -413,6 +429,10 @@
     {
       "Id": "e3a3bd7a-b47b-4085-a8b6-5b2bdf271ad4",
       "Caption": "Кипчаки-половцы (cumane)"
+    },
+    {
+      "Id": "7b826a39-f92c-418a-86d4-5ca007e8d6d9",
+      "Caption": "кн.Константин Рязанский"
     },
     {
       "Id": "03ea876b-f1a1-4949-98f3-6064d44112da",
@@ -433,6 +453,14 @@
     {
       "Id": "cb8f92ee-ba99-4d78-ace0-686fc2fa6974",
       "Caption": "Древние славяне"
+    },
+    {
+      "Id": "acac0a31-d74c-48e1-a81b-706b9a6aa74b",
+      "Caption": "Тверь"
+    },
+    {
+      "Id": "0aacb1db-4653-4e08-a2a8-715f364d0773",
+      "Caption": "Спасо-Преображенский храм в Твери"
     },
     {
       "Id": "1623a81f-acb4-4be1-a9e5-74894e81b298",
@@ -523,6 +551,10 @@
       "Caption": "Племена или \"Славинии\"?"
     },
     {
+      "Id": "eea84cfc-6ecf-4b59-95ae-b59420843430",
+      "Caption": "Спор за Переяславь-Залесский"
+    },
+    {
       "Id": "9f1bce90-ff16-4834-babc-b5bc8f6caca7",
       "Caption": "Археологические культуры"
     },
@@ -541,6 +573,10 @@
     {
       "Id": "38d860b2-4815-40f2-93cf-bb4ae121174a",
       "Caption": "Россия"
+    },
+    {
+      "Id": "2a6fbb34-2d3e-44db-beff-c05cb641b380",
+      "Caption": "Ногай и Тохта"
     },
     {
       "Id": "c7dde8d9-22d8-415b-8cdc-c367cc68a9f3",
@@ -563,8 +599,16 @@
       "Caption": "Тверской свод 1305 г."
     },
     {
+      "Id": "43182af9-327a-4c48-802c-d3231e9e7122",
+      "Caption": "Поход Даниила на Рязань в Степенной книге =)"
+    },
+    {
       "Id": "8c59c6b3-fc80-4115-8ff7-dba5bbadc239",
       "Caption": "Историософия"
+    },
+    {
+      "Id": "5fd11c6e-0fdf-49ec-bb32-e38eefd8b7fb",
+      "Caption": "Общежитийный устав"
     },
     {
       "Id": "187b4b15-2c4e-4f89-a2c6-e3d08ed2c6c2",
@@ -639,6 +683,12 @@
       "End": 33150
     },
     {
+      "Id": "82443812-485a-4f55-a05f-03e8c08f83d9",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 41409,
+      "End": 42302
+    },
+    {
       "Id": "e3d8bf3b-66ee-4013-aa4c-03ef50cf117c",
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 1400,
@@ -653,8 +703,14 @@
     {
       "Id": "c302d2e5-1a2b-4dd0-af9f-0ee68ebb6f9c",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
-      "Begin": 35345,
-      "End": 35698
+      "Begin": 35393,
+      "End": 35746
+    },
+    {
+      "Id": "c03420ca-1d52-493a-8514-12c9b8860f43",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 49632,
+      "End": 51357
     },
     {
       "Id": "070790d6-f34c-4dec-b25a-12fc35fe3dcf",
@@ -705,10 +761,28 @@
       "End": 28157
     },
     {
+      "Id": "d3f14db8-2f22-441d-ae08-26dcfa445ce9",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 67919,
+      "End": 68892
+    },
+    {
+      "Id": "e9c96604-acc8-431f-b430-270dfcb6672b",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 45091,
+      "End": 45825
+    },
+    {
       "Id": "94d3263a-7c0e-47f3-804e-2967246bb771",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 4708,
       "End": 5858
+    },
+    {
+      "Id": "e2ae96b1-947e-4807-b699-2b364f6728d4",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 55284,
+      "End": 55796
     },
     {
       "Id": "b7554a68-71f2-4a8c-a66e-2cfb28bbfe64",
@@ -741,6 +815,12 @@
       "End": 34593
     },
     {
+      "Id": "01c94aac-c7d1-4be4-9c10-354653501310",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 66919,
+      "End": 67915
+    },
+    {
       "Id": "cb35002d-7438-4d8c-a533-35ec78484e38",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 13,
@@ -769,6 +849,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 27359,
       "End": 27922
+    },
+    {
+      "Id": "ef345394-4549-4095-8830-39e92ea4933e",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 56429,
+      "End": 57101
     },
     {
       "Id": "adccb8ad-844d-408a-95b7-39fb616917ea",
@@ -825,6 +911,12 @@
       "End": 0
     },
     {
+      "Id": "b520978f-0104-4542-a415-47fc7c772dec",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 51680,
+      "End": 53025
+    },
+    {
       "Id": "5de2a44c-e416-4e4b-bbee-48ef8365d27b",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 14126,
@@ -855,6 +947,12 @@
       "End": 38201
     },
     {
+      "Id": "b74e736e-9167-434d-8d1f-528d0fa2b515",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 60232,
+      "End": 60647
+    },
+    {
       "Id": "53209c00-ae01-452f-a2c0-546204a2280b",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 8132,
@@ -865,6 +963,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 22230,
       "End": 22829
+    },
+    {
+      "Id": "b350b15c-829b-4ac2-a30b-57185cad0099",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 63537,
+      "End": 64222
     },
     {
       "Id": "67505b64-8353-49e5-b8e3-5733e328106c",
@@ -915,6 +1019,12 @@
       "End": 25044
     },
     {
+      "Id": "6cad32fd-4f58-48bb-bb5b-6dde425f2471",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 66199,
+      "End": 66915
+    },
+    {
       "Id": "684b1eab-8001-41cc-afe3-7060df584585",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 3014,
@@ -937,6 +1047,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 11631,
       "End": 11963
+    },
+    {
+      "Id": "c71b3848-5d75-4a94-9d8d-728ee047ea62",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 65539,
+      "End": 66195
     },
     {
       "Id": "83c1fc3c-8283-47be-ab4a-73c4511b1e61",
@@ -963,6 +1079,12 @@
       "End": 35577
     },
     {
+      "Id": "5814d710-0085-4604-b937-75f5a97ea293",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 60651,
+      "End": 61292
+    },
+    {
       "Id": "121c38ed-1d50-40fc-b4cf-774ea6f7f424",
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 17167,
@@ -975,6 +1097,12 @@
       "End": 5917
     },
     {
+      "Id": "f4725dee-6b9c-4a80-a4a9-7a7ccc2ad167",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 47630,
+      "End": 48434
+    },
+    {
       "Id": "992f4dce-0186-4d15-b49b-7bae183562bd",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 5923,
@@ -985,6 +1113,12 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 15357,
       "End": 16680
+    },
+    {
+      "Id": "0895eed1-f47c-4d9a-b527-86eb58c8ba64",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 48438,
+      "End": 48916
     },
     {
       "Id": "985faec6-7b6f-4a71-a195-87d1b6834633",
@@ -1023,16 +1157,28 @@
       "End": 20754
     },
     {
+      "Id": "c1724a81-b6d8-4472-85ab-8f0aac356f30",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 58409,
+      "End": 59224
+    },
+    {
       "Id": "97458a1f-457f-4daa-8ca3-90fd1559eae7",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 17251,
       "End": 18131
     },
     {
+      "Id": "f5f8619b-773f-4d53-b735-917b21df605d",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 40851,
+      "End": 41405
+    },
+    {
       "Id": "f99c61c2-6474-4df9-9d1a-91f291e56866",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
-      "Begin": 38421,
-      "End": 38786
+      "Begin": 38469,
+      "End": 38834
     },
     {
       "Id": "9c68443d-cc41-4e7a-b3a1-9316833f0490",
@@ -1065,10 +1211,22 @@
       "End": 23263
     },
     {
+      "Id": "2cfe5845-b700-4e94-96f1-965b42415d2f",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 62432,
+      "End": 63533
+    },
+    {
       "Id": "2c37be98-81e7-4c9b-bb5f-983887887d23",
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 22954,
       "End": 23090
+    },
+    {
+      "Id": "48429263-a397-4692-ac8e-98a81a5c2b49",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 51361,
+      "End": 51676
     },
     {
       "Id": "966878fc-48cc-40f0-819b-999560a74009",
@@ -1087,6 +1245,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 31973,
       "End": 32337
+    },
+    {
+      "Id": "de3a6ab0-671f-4617-94b0-9e2cafefade2",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 46703,
+      "End": 47626
     },
     {
       "Id": "6e7ac72f-0d12-46ed-be83-9e6190271128",
@@ -1119,10 +1283,16 @@
       "End": 9850
     },
     {
+      "Id": "6470062d-518a-416c-a8f8-a66d984759c4",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 64226,
+      "End": 64859
+    },
+    {
       "Id": "e17f10be-d2d3-4a86-b2e1-a7fb75ffffb7",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
-      "Begin": 35702,
-      "End": 36311
+      "Begin": 35750,
+      "End": 36359
     },
     {
       "Id": "99cc1657-4ef0-4410-8f9a-ad492f7ad730",
@@ -1143,6 +1313,18 @@
       "End": 29462
     },
     {
+      "Id": "d61aae84-d829-4502-ad5d-b1b0eb123d03",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 61542,
+      "End": 62428
+    },
+    {
+      "Id": "8135edcb-160f-4ac1-afc8-b20d84fe353c",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 57188,
+      "End": 58405
+    },
+    {
       "Id": "33a68dad-4b4d-45f8-8e52-b2516ef0f529",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 24473,
@@ -1151,14 +1333,20 @@
     {
       "Id": "4c3a581b-a80e-495c-b305-b2618655cb02",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
-      "Begin": 36315,
-      "End": 37391
+      "Begin": 36363,
+      "End": 37439
     },
     {
       "Id": "42259fca-c066-4a02-bb91-b3224b709438",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 26400,
       "End": 28483
+    },
+    {
+      "Id": "2f70f183-8d43-4509-8a66-b3dbf46ed6e2",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 64863,
+      "End": 65534
     },
     {
       "Id": "14f0fa77-a451-4330-95b7-b3efe1ff11ba",
@@ -1193,8 +1381,8 @@
     {
       "Id": "29ea4aba-1290-4b6c-aba4-b799ed3f8933",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
-      "Begin": 37397,
-      "End": 38416
+      "Begin": 37445,
+      "End": 38464
     },
     {
       "Id": "b5658f9d-e9c0-4de6-b5cf-b896fb8a3aea",
@@ -1215,6 +1403,12 @@
       "End": 0
     },
     {
+      "Id": "fa696f95-8888-4cce-9b34-bbec10f305ec",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 53877,
+      "End": 55280
+    },
+    {
       "Id": "fb375955-7818-4a00-8bf4-bd323d49752d",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 1148,
@@ -1231,6 +1425,18 @@
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 84,
       "End": 615
+    },
+    {
+      "Id": "6c320e2b-651f-4766-917c-bfcc279a20e1",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 59228,
+      "End": 60228
+    },
+    {
+      "Id": "99dc5a12-1060-4f6a-9c80-c08722217f57",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 53029,
+      "End": 53873
     },
     {
       "Id": "f914948e-9b88-4a5e-ac20-c21e5f08bdd8",
@@ -1253,14 +1459,20 @@
     {
       "Id": "1a1cc8c6-bc42-4bc9-8d69-c773397b87a9",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
-      "Begin": 38790,
-      "End": 40799
+      "Begin": 38838,
+      "End": 40847
     },
     {
       "Id": "492ca48b-e42d-4e7d-bb27-cd0deb7ed244",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 18135,
       "End": 19509
+    },
+    {
+      "Id": "f557f1a6-163e-44f3-87ee-cd528c931871",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 45830,
+      "End": 46417
     },
     {
       "Id": "6dd5eca2-830d-4767-8f8b-ce98dfccc48f",
@@ -1305,6 +1517,12 @@
       "End": 1398
     },
     {
+      "Id": "7d9df396-830d-4268-ad6c-d85a42097534",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 49212,
+      "End": 49628
+    },
+    {
       "Id": "542a653f-7e7d-44c6-8ce9-db0a44eb803a",
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 19453,
@@ -1315,6 +1533,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 38951,
       "End": 40658
+    },
+    {
+      "Id": "fd0bfd1c-eb75-4b32-abec-de69f88b7f8b",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 42306,
+      "End": 42980
     },
     {
       "Id": "69ef983b-0c58-44c8-93b9-e01a8990747b",
@@ -1335,10 +1559,22 @@
       "End": 28190
     },
     {
+      "Id": "a63aedee-fab8-40f1-b2fc-e2c87902c29a",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 44357,
+      "End": 45087
+    },
+    {
       "Id": "85132cd7-dd92-4c49-93a0-e59535284fb9",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 22572,
       "End": 23125
+    },
+    {
+      "Id": "5e46154b-800d-4835-bfaf-e5f062198cac",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 61296,
+      "End": 61538
     },
     {
       "Id": "a88b4685-cec9-49b9-82a3-e645a6c3b1b8",
@@ -1369,6 +1605,12 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 30226,
       "End": 31305
+    },
+    {
+      "Id": "d38be701-bc2e-4d45-a0e1-eda46df727e6",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 46421,
+      "End": 46698
     },
     {
       "Id": "f8c1dd2d-1bfa-4e03-b339-ee0145840999",
@@ -1407,16 +1649,34 @@
       "End": 2576
     },
     {
+      "Id": "396ddaf2-85f5-4a34-ad0e-f603e033bb0c",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 55800,
+      "End": 56424
+    },
+    {
       "Id": "bedce28e-8039-40d5-8d0b-f8afbb2f69bc",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 19514,
       "End": 20760
     },
     {
+      "Id": "6ebc09a9-288b-48bd-ad7f-f94cbdf0106b",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 42985,
+      "End": 44353
+    },
+    {
       "Id": "7336f044-ce97-46c1-b672-fa870d8a5b11",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 8445,
       "End": 9258
+    },
+    {
+      "Id": "2694d141-a0ca-470f-b68d-fab98e1da40d",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 48920,
+      "End": 49208
     },
     {
       "Id": "e529ef08-cd0e-4c58-aae2-fe7931939eed",
@@ -1497,8 +1757,28 @@
       "Order": 0
     },
     {
+      "ParticleId": "82443812-485a-4f55-a05f-03e8c08f83d9",
+      "BlockId": "5d504b43-72c9-465e-bce7-1c0ed6ec23a2",
+      "Order": 2
+    },
+    {
+      "ParticleId": "f5f8619b-773f-4d53-b735-917b21df605d",
+      "BlockId": "5d504b43-72c9-465e-bce7-1c0ed6ec23a2",
+      "Order": 1
+    },
+    {
       "ParticleId": "1a1cc8c6-bc42-4bc9-8d69-c773397b87a9",
       "BlockId": "5d504b43-72c9-465e-bce7-1c0ed6ec23a2",
+      "Order": 0
+    },
+    {
+      "ParticleId": "fd0bfd1c-eb75-4b32-abec-de69f88b7f8b",
+      "BlockId": "5d504b43-72c9-465e-bce7-1c0ed6ec23a2",
+      "Order": 3
+    },
+    {
+      "ParticleId": "2694d141-a0ca-470f-b68d-fab98e1da40d",
+      "BlockId": "3026088b-536a-43bf-bbb3-1d38008bc9bc",
       "Order": 0
     },
     {
@@ -1529,6 +1809,31 @@
     {
       "ParticleId": "e7f6c9a4-b6c6-4228-aa91-9ad1b60382d1",
       "BlockId": "d964154d-06ce-48b6-8dfe-29d393a2385c",
+      "Order": 0
+    },
+    {
+      "ParticleId": "d3f14db8-2f22-441d-ae08-26dcfa445ce9",
+      "BlockId": "fc972f79-1c83-4cfa-8a3b-3575ec721798",
+      "Order": 4
+    },
+    {
+      "ParticleId": "01c94aac-c7d1-4be4-9c10-354653501310",
+      "BlockId": "fc972f79-1c83-4cfa-8a3b-3575ec721798",
+      "Order": 3
+    },
+    {
+      "ParticleId": "6cad32fd-4f58-48bb-bb5b-6dde425f2471",
+      "BlockId": "fc972f79-1c83-4cfa-8a3b-3575ec721798",
+      "Order": 2
+    },
+    {
+      "ParticleId": "c71b3848-5d75-4a94-9d8d-728ee047ea62",
+      "BlockId": "fc972f79-1c83-4cfa-8a3b-3575ec721798",
+      "Order": 1
+    },
+    {
+      "ParticleId": "2f70f183-8d43-4509-8a66-b3dbf46ed6e2",
+      "BlockId": "fc972f79-1c83-4cfa-8a3b-3575ec721798",
       "Order": 0
     },
     {
@@ -1637,6 +1942,26 @@
       "Order": 0
     },
     {
+      "ParticleId": "b520978f-0104-4542-a415-47fc7c772dec",
+      "BlockId": "d0631eb2-e64a-490f-8da9-4c36add17c46",
+      "Order": 2
+    },
+    {
+      "ParticleId": "de3a6ab0-671f-4617-94b0-9e2cafefade2",
+      "BlockId": "d0631eb2-e64a-490f-8da9-4c36add17c46",
+      "Order": 1
+    },
+    {
+      "ParticleId": "99dc5a12-1060-4f6a-9c80-c08722217f57",
+      "BlockId": "d0631eb2-e64a-490f-8da9-4c36add17c46",
+      "Order": 3
+    },
+    {
+      "ParticleId": "d38be701-bc2e-4d45-a0e1-eda46df727e6",
+      "BlockId": "d0631eb2-e64a-490f-8da9-4c36add17c46",
+      "Order": 0
+    },
+    {
       "ParticleId": "4f489d65-5bbb-4170-aaae-a1d0dcd44c88",
       "BlockId": "acd6202a-f94c-49ed-8526-5134ed7e0a83",
       "Order": 0
@@ -1655,6 +1980,11 @@
       "ParticleId": "542a653f-7e7d-44c6-8ce9-db0a44eb803a",
       "BlockId": "e3a3bd7a-b47b-4085-a8b6-5b2bdf271ad4",
       "Order": 2
+    },
+    {
+      "ParticleId": "0895eed1-f47c-4d9a-b527-86eb58c8ba64",
+      "BlockId": "7b826a39-f92c-418a-86d4-5ca007e8d6d9",
+      "Order": 0
     },
     {
       "ParticleId": "b5658f9d-e9c0-4de6-b5cf-b896fb8a3aea",
@@ -1705,6 +2035,46 @@
       "ParticleId": "3c55cd7f-1a39-47ff-88cb-37b0db3311ed",
       "BlockId": "40584a40-0636-4856-969a-6c08b5bf2133",
       "Order": 0
+    },
+    {
+      "ParticleId": "b350b15c-829b-4ac2-a30b-57185cad0099",
+      "BlockId": "acac0a31-d74c-48e1-a81b-706b9a6aa74b",
+      "Order": 2
+    },
+    {
+      "ParticleId": "c1724a81-b6d8-4472-85ab-8f0aac356f30",
+      "BlockId": "acac0a31-d74c-48e1-a81b-706b9a6aa74b",
+      "Order": 1
+    },
+    {
+      "ParticleId": "d61aae84-d829-4502-ad5d-b1b0eb123d03",
+      "BlockId": "acac0a31-d74c-48e1-a81b-706b9a6aa74b",
+      "Order": 3
+    },
+    {
+      "ParticleId": "8135edcb-160f-4ac1-afc8-b20d84fe353c",
+      "BlockId": "acac0a31-d74c-48e1-a81b-706b9a6aa74b",
+      "Order": 0
+    },
+    {
+      "ParticleId": "b74e736e-9167-434d-8d1f-528d0fa2b515",
+      "BlockId": "0aacb1db-4653-4e08-a2a8-715f364d0773",
+      "Order": 1
+    },
+    {
+      "ParticleId": "5814d710-0085-4604-b937-75f5a97ea293",
+      "BlockId": "0aacb1db-4653-4e08-a2a8-715f364d0773",
+      "Order": 2
+    },
+    {
+      "ParticleId": "6c320e2b-651f-4766-917c-bfcc279a20e1",
+      "BlockId": "0aacb1db-4653-4e08-a2a8-715f364d0773",
+      "Order": 0
+    },
+    {
+      "ParticleId": "5e46154b-800d-4835-bfaf-e5f062198cac",
+      "BlockId": "0aacb1db-4653-4e08-a2a8-715f364d0773",
+      "Order": 3
     },
     {
       "ParticleId": "cd496d6a-b034-46ff-8903-3aa01b75be9f",
@@ -1892,6 +2262,26 @@
       "Order": 0
     },
     {
+      "ParticleId": "c03420ca-1d52-493a-8514-12c9b8860f43",
+      "BlockId": "eea84cfc-6ecf-4b59-95ae-b59420843430",
+      "Order": 3
+    },
+    {
+      "ParticleId": "e9c96604-acc8-431f-b430-270dfcb6672b",
+      "BlockId": "eea84cfc-6ecf-4b59-95ae-b59420843430",
+      "Order": 2
+    },
+    {
+      "ParticleId": "a63aedee-fab8-40f1-b2fc-e2c87902c29a",
+      "BlockId": "eea84cfc-6ecf-4b59-95ae-b59420843430",
+      "Order": 1
+    },
+    {
+      "ParticleId": "6ebc09a9-288b-48bd-ad7f-f94cbdf0106b",
+      "BlockId": "eea84cfc-6ecf-4b59-95ae-b59420843430",
+      "Order": 0
+    },
+    {
       "ParticleId": "5c0c2f0d-2a67-479a-97de-945ea7fd179a",
       "BlockId": "23d161f2-0b0c-49a8-ae10-b5e944bc1897",
       "Order": 0
@@ -1947,6 +2337,11 @@
       "Order": 1
     },
     {
+      "ParticleId": "6470062d-518a-416c-a8f8-a66d984759c4",
+      "BlockId": "2a6fbb34-2d3e-44db-beff-c05cb641b380",
+      "Order": 0
+    },
+    {
       "ParticleId": "9d01dc2c-81b8-4cbf-8643-590fa58ebe56",
       "BlockId": "c7dde8d9-22d8-415b-8cdc-c367cc68a9f3",
       "Order": 0
@@ -1997,8 +2392,18 @@
       "Order": 0
     },
     {
+      "ParticleId": "7d9df396-830d-4268-ad6c-d85a42097534",
+      "BlockId": "43182af9-327a-4c48-802c-d3231e9e7122",
+      "Order": 0
+    },
+    {
       "ParticleId": "e74f3d74-d367-4686-b3fc-190181fac44e",
       "BlockId": "2239b6ca-c10e-4135-84b0-e18327cedef1",
+      "Order": 0
+    },
+    {
+      "ParticleId": "2cfe5845-b700-4e94-96f1-965b42415d2f",
+      "BlockId": "5fd11c6e-0fdf-49ec-bb32-e38eefd8b7fb",
       "Order": 0
     },
     {
@@ -2077,9 +2482,44 @@
       "Order": 0
     },
     {
+      "ParticleId": "e2ae96b1-947e-4807-b699-2b364f6728d4",
+      "BlockId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
+      "Order": 6
+    },
+    {
+      "ParticleId": "ef345394-4549-4095-8830-39e92ea4933e",
+      "BlockId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
+      "Order": 8
+    },
+    {
+      "ParticleId": "f4725dee-6b9c-4a80-a4a9-7a7ccc2ad167",
+      "BlockId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
+      "Order": 3
+    },
+    {
       "ParticleId": "f99c61c2-6474-4df9-9d1a-91f291e56866",
       "BlockId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
       "Order": 1
+    },
+    {
+      "ParticleId": "48429263-a397-4692-ac8e-98a81a5c2b49",
+      "BlockId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
+      "Order": 4
+    },
+    {
+      "ParticleId": "fa696f95-8888-4cce-9b34-bbec10f305ec",
+      "BlockId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
+      "Order": 5
+    },
+    {
+      "ParticleId": "f557f1a6-163e-44f3-87ee-cd528c931871",
+      "BlockId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
+      "Order": 2
+    },
+    {
+      "ParticleId": "396ddaf2-85f5-4a34-ad0e-f603e033bb0c",
+      "BlockId": "97c1b823-b141-4baf-9763-fae15a4c1f75",
+      "Order": 7
     },
     {
       "ParticleId": "f87fd67a-69b4-4479-ada4-3d5399b70d53",
@@ -2282,6 +2722,12 @@
       "ParentId": "bca86c86-7d95-48a7-b553-062111c4265a"
     },
     {
+      "Id": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19",
+      "Caption": "03. Михаил Яр. Тверской",
+      "MyIdeaId": "019f7283-96ed-4557-bfc0-457fa494dd36",
+      "ParentId": "fb1fa23f-a000-4e08-9ce2-5ac0ab0a0d95"
+    },
+    {
       "Id": "35fdf4f9-e081-4427-9507-e5ce1fc6a1c0",
       "Caption": "Россия",
       "MyIdeaId": "38d860b2-4815-40f2-93cf-bb4ae121174a",
@@ -2404,7 +2850,15 @@
       "TagId": "a436c6a7-5b61-44bc-8985-274b175e695a"
     },
     {
+      "GuidableId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
       "GuidableId": "5d504b43-72c9-465e-bce7-1c0ed6ec23a2",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "3026088b-536a-43bf-bbb3-1d38008bc9bc",
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
     {
@@ -2420,6 +2874,14 @@
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
     {
+      "GuidableId": "d0631eb2-e64a-490f-8da9-4c36add17c46",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "7b826a39-f92c-418a-86d4-5ca007e8d6d9",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
       "GuidableId": "03ea876b-f1a1-4949-98f3-6064d44112da",
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
@@ -2432,11 +2894,19 @@
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
     {
+      "GuidableId": "eea84cfc-6ecf-4b59-95ae-b59420843430",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
       "GuidableId": "efb649d7-dcac-4207-8117-ba587ba82e8a",
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
     {
       "GuidableId": "9220ae72-e46c-496f-a189-cb91edb26e8c",
+      "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
+    },
+    {
+      "GuidableId": "43182af9-327a-4c48-802c-d3231e9e7122",
       "TagId": "e8c34d39-f3fd-4b7e-83c5-5373fc562500"
     },
     {
@@ -2578,6 +3048,26 @@
     {
       "GuidableId": "9d7a1bf9-2eda-4710-b88e-e4269ace1da0",
       "TagId": "054e583b-b98a-4217-af61-d51af4b454b5"
+    },
+    {
+      "GuidableId": "fc972f79-1c83-4cfa-8a3b-3575ec721798",
+      "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
+    },
+    {
+      "GuidableId": "acac0a31-d74c-48e1-a81b-706b9a6aa74b",
+      "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
+    },
+    {
+      "GuidableId": "0aacb1db-4653-4e08-a2a8-715f364d0773",
+      "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
+    },
+    {
+      "GuidableId": "2a6fbb34-2d3e-44db-beff-c05cb641b380",
+      "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
+    },
+    {
+      "GuidableId": "5fd11c6e-0fdf-49ec-bb32-e38eefd8b7fb",
+      "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
     },
     {
       "GuidableId": "187b4b15-2c4e-4f89-a2c6-e3d08ed2c6c2",
@@ -2799,11 +3289,11 @@
     },
     {
       "Id": "SettingRecentIdeas",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"129a0555-b3f4-44a5-a34b-aeaa66961894\",\r\n      \"Name\": null,\r\n      \"Order\": 20\r\n    },\r\n    {\r\n      \"Id\": \"706fb824-385c-495d-ab45-63c168248bb4\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    },\r\n    {\r\n      \"Id\": \"e1f6f2aa-335e-4eb3-9374-f3c42661763c\",\r\n      \"Name\": null,\r\n      \"Order\": 27\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 29\r\n    },\r\n    {\r\n      \"Id\": \"5a67a0db-fbab-4db8-a884-247466e4068d\",\r\n      \"Name\": null,\r\n      \"Order\": 32\r\n    },\r\n    {\r\n      \"Id\": \"dc7a6fa1-bf4f-4f37-8ce8-fddf91dc4239\",\r\n      \"Name\": null,\r\n      \"Order\": 31\r\n    },\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 51\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    },\r\n    {\r\n      \"Id\": \"7de85d44-b6ec-4712-aad2-ea101efc6445\",\r\n      \"Name\": null,\r\n      \"Order\": 38\r\n    },\r\n    {\r\n      \"Id\": \"ce11d551-edc1-4769-a424-3af23f47f66f\",\r\n      \"Name\": null,\r\n      \"Order\": 47\r\n    },\r\n    {\r\n      \"Id\": \"efb649d7-dcac-4207-8117-ba587ba82e8a\",\r\n      \"Name\": null,\r\n      \"Order\": 48\r\n    },\r\n    {\r\n      \"Id\": \"c1ba7af9-d9c3-49b8-8178-36725a4262c4\",\r\n      \"Name\": null,\r\n      \"Order\": 49\r\n    },\r\n    {\r\n      \"Id\": \"5008296e-8068-4991-8bc6-ed3f70994247\",\r\n      \"Name\": null,\r\n      \"Order\": 50\r\n    },\r\n    {\r\n      \"Id\": \"611166c6-b856-456a-bdb3-210e6f46c02f\",\r\n      \"Name\": null,\r\n      \"Order\": 52\r\n    },\r\n    {\r\n      \"Id\": \"97c1b823-b141-4baf-9763-fae15a4c1f75\",\r\n      \"Name\": null,\r\n      \"Order\": 53\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 51\r\n    },\r\n    {\r\n      \"Id\": \"3d30127d-ef3d-4c0f-b74a-95c0198c7fcc\",\r\n      \"Name\": null,\r\n      \"Order\": 35\r\n    },\r\n    {\r\n      \"Id\": \"7de85d44-b6ec-4712-aad2-ea101efc6445\",\r\n      \"Name\": null,\r\n      \"Order\": 38\r\n    },\r\n    {\r\n      \"Id\": \"ce11d551-edc1-4769-a424-3af23f47f66f\",\r\n      \"Name\": null,\r\n      \"Order\": 47\r\n    },\r\n    {\r\n      \"Id\": \"efb649d7-dcac-4207-8117-ba587ba82e8a\",\r\n      \"Name\": null,\r\n      \"Order\": 48\r\n    },\r\n    {\r\n      \"Id\": \"c1ba7af9-d9c3-49b8-8178-36725a4262c4\",\r\n      \"Name\": null,\r\n      \"Order\": 49\r\n    },\r\n    {\r\n      \"Id\": \"5008296e-8068-4991-8bc6-ed3f70994247\",\r\n      \"Name\": null,\r\n      \"Order\": 50\r\n    },\r\n    {\r\n      \"Id\": \"611166c6-b856-456a-bdb3-210e6f46c02f\",\r\n      \"Name\": null,\r\n      \"Order\": 52\r\n    },\r\n    {\r\n      \"Id\": \"97c1b823-b141-4baf-9763-fae15a4c1f75\",\r\n      \"Name\": null,\r\n      \"Order\": 53\r\n    },\r\n    {\r\n      \"Id\": \"5d504b43-72c9-465e-bce7-1c0ed6ec23a2\",\r\n      \"Name\": null,\r\n      \"Order\": 54\r\n    },\r\n    {\r\n      \"Id\": \"eea84cfc-6ecf-4b59-95ae-b59420843430\",\r\n      \"Name\": null,\r\n      \"Order\": 55\r\n    },\r\n    {\r\n      \"Id\": \"d0631eb2-e64a-490f-8da9-4c36add17c46\",\r\n      \"Name\": null,\r\n      \"Order\": 56\r\n    },\r\n    {\r\n      \"Id\": \"acac0a31-d74c-48e1-a81b-706b9a6aa74b\",\r\n      \"Name\": null,\r\n      \"Order\": 57\r\n    },\r\n    {\r\n      \"Id\": \"0aacb1db-4653-4e08-a2a8-715f364d0773\",\r\n      \"Name\": null,\r\n      \"Order\": 58\r\n    },\r\n    {\r\n      \"Id\": \"fc972f79-1c83-4cfa-8a3b-3575ec721798\",\r\n      \"Name\": null,\r\n      \"Order\": 59\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentTags",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 49\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 54\r\n    },\r\n    {\r\n      \"Id\": \"ef594f79-e4bb-4bae-bce1-df6ea49b5b19\",\r\n      \"Name\": null,\r\n      \"Order\": 59\r\n    }\r\n  ]\r\n}"
     }
   ],
   "Headers": [
@@ -2826,6 +3316,21 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Position": 35272,
       "Caption": "Глава 1 Политика князя Даниила Александровича Московского (1282-1303)"
+    },
+    {
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Position": 35345,
+      "Caption": "1. Истоки московско-тверского противостояния"
+    },
+    {
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Position": 57107,
+      "Caption": "Глава 2 Соперничество Москвы и Твери в княжение Михаила Тверского (1304-1317)"
+    },
+    {
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Position": 68896,
+      "Caption": "2. Сражение за Переяславль в 1304 г."
     },
     {
       "HostMaterialId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
