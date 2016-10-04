@@ -1254,7 +1254,7 @@
       "Id": "1a1cc8c6-bc42-4bc9-8d69-c773397b87a9",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 38790,
-      "End": 40675
+      "End": 40799
     },
     {
       "Id": "492ca48b-e42d-4e7d-bb27-cd0deb7ed244",
@@ -3446,16 +3446,6 @@
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
       "Position": 241,
       "Caption": "сердце\r\n\r\n\r\n//с"
-    },
-    {
-      "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
-      "Position": 296,
-      "Caption": "журнали"
-    },
-    {
-      "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
-      "Position": 457,
-      "Caption": "томник"
     },
     {
       "HostMaterialId": "4a4d0342-db08-4558-9b7c-fd3756f8ee9b",
