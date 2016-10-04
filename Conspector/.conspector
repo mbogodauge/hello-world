@@ -283,6 +283,10 @@
   ],
   "Ideas": [
     {
+      "Id": "be89797a-7285-4b9b-91ed-010717c52264",
+      "Caption": "кн. Иван Данилович Калита"
+    },
+    {
       "Id": "e4819199-0177-4d74-915c-010d14058045",
       "Caption": "Источники литературные"
     },
@@ -451,6 +455,10 @@
       "Caption": "Кривичи"
     },
     {
+      "Id": "4366f9f2-6d8d-4ffa-b526-677411a4eb7d",
+      "Caption": "Большое значение имени и числа в средневековье"
+    },
+    {
       "Id": "cb8f92ee-ba99-4d78-ace0-686fc2fa6974",
       "Caption": "Древние славяне"
     },
@@ -521,6 +529,10 @@
     {
       "Id": "40dd2d02-7b3d-483c-babd-99f862ec5c4a",
       "Caption": "02. Бронзовый век"
+    },
+    {
+      "Id": "5f1f582a-e87c-4ee3-8d32-9aadf4672e9e",
+      "Caption": "м-т Алексей"
     },
     {
       "Id": "1cb0eaa7-ef66-4d1a-82e4-9b1219229c53",
@@ -683,6 +695,12 @@
       "End": 33150
     },
     {
+      "Id": "c40a75e8-19e3-4ff2-93c4-0315af2e6dee",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 68980,
+      "End": 70562
+    },
+    {
       "Id": "82443812-485a-4f55-a05f-03e8c08f83d9",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 41409,
@@ -699,6 +717,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 4990,
       "End": 6030
+    },
+    {
+      "Id": "38bee336-04d2-461f-8aa2-0b4d4b285d1e",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 68936,
+      "End": 68976
     },
     {
       "Id": "c302d2e5-1a2b-4dd0-af9f-0ee68ebb6f9c",
@@ -789,6 +813,12 @@
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 29889,
       "End": 29921
+    },
+    {
+      "Id": "92ef4d7e-a644-42a0-8b0f-2d4bbd31f8f1",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 71178,
+      "End": 72040
     },
     {
       "Id": "997d06cc-135c-4e92-8430-2de453c288da",
@@ -1179,6 +1209,12 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 38469,
       "End": 38834
+    },
+    {
+      "Id": "3cf23966-6a84-465b-b1eb-92d333e8aa79",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 70567,
+      "End": 71174
     },
     {
       "Id": "9c68443d-cc41-4e7a-b3a1-9316833f0490",
@@ -1692,6 +1728,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "38bee336-04d2-461f-8aa2-0b4d4b285d1e",
+      "BlockId": "be89797a-7285-4b9b-91ed-010717c52264",
+      "Order": 0
+    },
+    {
       "ParticleId": "471a3d22-59d7-4691-88f3-8c513839c5fd",
       "BlockId": "6b48fe68-1224-4de3-8320-04cbd885ac4d",
       "Order": 2
@@ -2032,6 +2073,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "c40a75e8-19e3-4ff2-93c4-0315af2e6dee",
+      "BlockId": "4366f9f2-6d8d-4ffa-b526-677411a4eb7d",
+      "Order": 0
+    },
+    {
       "ParticleId": "3c55cd7f-1a39-47ff-88cb-37b0db3311ed",
       "BlockId": "40584a40-0636-4856-969a-6c08b5bf2133",
       "Order": 0
@@ -2192,6 +2238,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "3cf23966-6a84-465b-b1eb-92d333e8aa79",
+      "BlockId": "5f1f582a-e87c-4ee3-8d32-9aadf4672e9e",
+      "Order": 0
+    },
+    {
       "ParticleId": "b95f9937-7a07-4858-8b4c-617125ea18a8",
       "BlockId": "1cb0eaa7-ef66-4d1a-82e4-9b1219229c53",
       "Order": 5
@@ -2270,6 +2321,11 @@
       "ParticleId": "e9c96604-acc8-431f-b430-270dfcb6672b",
       "BlockId": "eea84cfc-6ecf-4b59-95ae-b59420843430",
       "Order": 2
+    },
+    {
+      "ParticleId": "92ef4d7e-a644-42a0-8b0f-2d4bbd31f8f1",
+      "BlockId": "eea84cfc-6ecf-4b59-95ae-b59420843430",
+      "Order": 4
     },
     {
       "ParticleId": "a63aedee-fab8-40f1-b2fc-e2c87902c29a",
@@ -3050,7 +3106,15 @@
       "TagId": "054e583b-b98a-4217-af61-d51af4b454b5"
     },
     {
+      "GuidableId": "be89797a-7285-4b9b-91ed-010717c52264",
+      "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
+    },
+    {
       "GuidableId": "fc972f79-1c83-4cfa-8a3b-3575ec721798",
+      "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
+    },
+    {
+      "GuidableId": "4366f9f2-6d8d-4ffa-b526-677411a4eb7d",
       "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
     },
     {
@@ -3059,6 +3123,10 @@
     },
     {
       "GuidableId": "0aacb1db-4653-4e08-a2a8-715f364d0773",
+      "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
+    },
+    {
+      "GuidableId": "5f1f582a-e87c-4ee3-8d32-9aadf4672e9e",
       "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
     },
     {
@@ -3293,7 +3361,7 @@
     },
     {
       "Id": "SettingRecentTags",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 54\r\n    },\r\n    {\r\n      \"Id\": \"ef594f79-e4bb-4bae-bce1-df6ea49b5b19\",\r\n      \"Name\": null,\r\n      \"Order\": 59\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 54\r\n    },\r\n    {\r\n      \"Id\": \"ef594f79-e4bb-4bae-bce1-df6ea49b5b19\",\r\n      \"Name\": null,\r\n      \"Order\": 62\r\n    }\r\n  ]\r\n}"
     }
   ],
   "Headers": [
@@ -3331,6 +3399,11 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Position": 68896,
       "Caption": "2. Сражение за Переяславль в 1304 г."
+    },
+    {
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Position": 72044,
+      "Caption": "3. Московская политика в период великого княжения Михаила Тверского (1305-1310)"
     },
     {
       "HostMaterialId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
