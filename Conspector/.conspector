@@ -303,6 +303,10 @@
       "Caption": "Поселения антов"
     },
     {
+      "Id": "ab876d2a-cd36-4f2f-a76e-0df2d8f028f5",
+      "Caption": "Ростов"
+    },
+    {
       "Id": "e4276ee4-103b-4ed5-b80c-1012bfd0ca7e",
       "Caption": "О имени \"Свендислейв\""
     },
@@ -663,6 +667,10 @@
       "Caption": "Церковный фактор в возвышении Москвы"
     },
     {
+      "Id": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Caption": "Борьба Москвы и Твери за Новгород в 1311-1317"
+    },
+    {
       "Id": "e1f6f2aa-335e-4eb3-9374-f3c42661763c",
       "Caption": "Русь (происхождение термина)"
     },
@@ -787,6 +795,12 @@
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 14518,
       "End": 15969
+    },
+    {
+      "Id": "00a28ccc-bb9c-4ea8-bfe0-1f1cb74cef82",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 91878,
+      "End": 92385
     },
     {
       "Id": "900be365-f628-456d-8301-1fa06ab8a816",
@@ -939,10 +953,22 @@
       "End": 12163
     },
     {
+      "Id": "f99ef8a8-ea85-4352-92ff-3fe8795aa92f",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 95360,
+      "End": 95689
+    },
+    {
       "Id": "cf1701ce-26e0-4ff0-bf3c-42eb293746fc",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 25005,
       "End": 26105
+    },
+    {
+      "Id": "d7f2974b-7a31-470d-a5c2-45d3affb570a",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 91296,
+      "End": 91874
     },
     {
       "Id": "b6a5b391-53db-4790-bcb4-46495facbbc6",
@@ -1035,6 +1061,12 @@
       "End": 13182
     },
     {
+      "Id": "f1020316-76ad-4db5-b7f3-58666f58b5bd",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 96512,
+      "End": 96707
+    },
+    {
       "Id": "9d01dc2c-81b8-4cbf-8643-590fa58ebe56",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 22830,
@@ -1087,6 +1119,18 @@
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 5920,
       "End": 6498
+    },
+    {
+      "Id": "e4765b51-1ae4-450c-acb5-6551e92e0dfc",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 89020,
+      "End": 89422
+    },
+    {
+      "Id": "55e28ad6-17ad-417a-939b-6744a7acf6c8",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 86478,
+      "End": 87096
     },
     {
       "Id": "f9f99e74-33da-4e17-8249-6800ebe4e014",
@@ -1179,6 +1223,12 @@
       "End": 73223
     },
     {
+      "Id": "36edc9eb-e276-4644-b257-78510b2ad1b7",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 90827,
+      "End": 91292
+    },
+    {
       "Id": "d53aff73-342c-41bf-b87a-78563366db06",
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 5211,
@@ -1209,6 +1259,24 @@
       "End": 16680
     },
     {
+      "Id": "c2b4f677-c4ac-4e66-85f1-808d2dfbdea7",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 89426,
+      "End": 89845
+    },
+    {
+      "Id": "0af11c7d-e752-4067-b860-8134326c5f4d",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 88047,
+      "End": 89016
+    },
+    {
+      "Id": "e4f14ea8-03ff-4af4-9644-830cb401d9e3",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 94577,
+      "End": 94921
+    },
+    {
       "Id": "0895eed1-f47c-4d9a-b527-86eb58c8ba64",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 48438,
@@ -1225,6 +1293,12 @@
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 19100,
       "End": 19480
+    },
+    {
+      "Id": "523c3e9b-01d1-4b72-a537-89646fa3b0ec",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 92660,
+      "End": 93523
     },
     {
       "Id": "c2f60eb4-78f1-4991-9241-89a842a07fb4",
@@ -1347,6 +1421,12 @@
       "End": 1972
     },
     {
+      "Id": "5e90a69c-a198-4772-a0bd-9b15b7648f56",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 94927,
+      "End": 95354
+    },
+    {
       "Id": "d53f1e4c-8fbd-4d6d-92ee-9c8fe1a9894a",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 31973,
@@ -1389,6 +1469,12 @@
       "End": 9850
     },
     {
+      "Id": "6b1f25c2-d83e-4bd2-8ab4-a64ff27a2cdd",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 90465,
+      "End": 90823
+    },
+    {
       "Id": "6470062d-518a-416c-a8f8-a66d984759c4",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 64226,
@@ -1411,6 +1497,12 @@
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 28812,
       "End": 32338
+    },
+    {
+      "Id": "32c027d7-8bac-405b-a951-aeb9eaddd59c",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 89849,
+      "End": 90460
     },
     {
       "Id": "1ea9b349-8d3f-4224-9fa9-b01d1c7ff993",
@@ -1527,6 +1619,12 @@
       "End": 1736
     },
     {
+      "Id": "c8ee86a7-7608-4e6e-96c6-bddd68161fe9",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 96711,
+      "End": 97843
+    },
+    {
       "Id": "4ac822b3-da84-4b0b-bd48-be7fdf2670de",
       "HostMaterialId": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "Begin": 581,
@@ -1537,6 +1635,12 @@
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 84,
       "End": 615
+    },
+    {
+      "Id": "58f0cf07-7bb8-459e-bee3-bed9f43a02e0",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 92389,
+      "End": 92656
     },
     {
       "Id": "6c320e2b-651f-4766-917c-bfcc279a20e1",
@@ -1773,6 +1877,12 @@
       "End": 56424
     },
     {
+      "Id": "c6301856-32a0-42e3-a385-f61ff3471016",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 95693,
+      "End": 96508
+    },
+    {
       "Id": "edd7d133-e499-4630-aa80-f8a42d3c63dd",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 79463,
@@ -1791,6 +1901,12 @@
       "End": 44353
     },
     {
+      "Id": "8800c7ce-b7f1-4804-9b69-fa22fdf47a61",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 94149,
+      "End": 94573
+    },
+    {
       "Id": "7336f044-ce97-46c1-b672-fa870d8a5b11",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 8445,
@@ -1801,6 +1917,18 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 48920,
       "End": 49208
+    },
+    {
+      "Id": "3d1c7f6a-f54b-4976-bebf-fb74825d2e4a",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 93527,
+      "End": 94145
+    },
+    {
+      "Id": "0c1a8662-bac6-4403-b7b0-fe28c8d57f74",
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Begin": 87101,
+      "End": 88043
     },
     {
       "Id": "e529ef08-cd0e-4c58-aae2-fe7931939eed",
@@ -1838,6 +1966,16 @@
     {
       "ParticleId": "82059713-4ce0-4927-bd88-60105048cb0d",
       "BlockId": "65665af8-b536-4b36-ad93-064fbad6a89d",
+      "Order": 0
+    },
+    {
+      "ParticleId": "00a28ccc-bb9c-4ea8-bfe0-1f1cb74cef82",
+      "BlockId": "ab876d2a-cd36-4f2f-a76e-0df2d8f028f5",
+      "Order": 1
+    },
+    {
+      "ParticleId": "d7f2974b-7a31-470d-a5c2-45d3affb570a",
+      "BlockId": "ab876d2a-cd36-4f2f-a76e-0df2d8f028f5",
       "Order": 0
     },
     {
@@ -2396,6 +2534,11 @@
       "Order": 2
     },
     {
+      "ParticleId": "55e28ad6-17ad-417a-939b-6744a7acf6c8",
+      "BlockId": "f5438f1b-5575-440a-a3fa-a7b4960aa69d",
+      "Order": 4
+    },
+    {
       "ParticleId": "043b353f-bece-4ceb-91a0-935ac1abbb4e",
       "BlockId": "f5438f1b-5575-440a-a3fa-a7b4960aa69d",
       "Order": 0
@@ -2634,6 +2777,91 @@
       "ParticleId": "9a556c66-8fec-4866-bc4e-eb9f83489634",
       "BlockId": "5008296e-8068-4991-8bc6-ed3f70994247",
       "Order": 1
+    },
+    {
+      "ParticleId": "f99ef8a8-ea85-4352-92ff-3fe8795aa92f",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 13
+    },
+    {
+      "ParticleId": "f1020316-76ad-4db5-b7f3-58666f58b5bd",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 15
+    },
+    {
+      "ParticleId": "e4765b51-1ae4-450c-acb5-6551e92e0dfc",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 2
+    },
+    {
+      "ParticleId": "36edc9eb-e276-4644-b257-78510b2ad1b7",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 6
+    },
+    {
+      "ParticleId": "c2b4f677-c4ac-4e66-85f1-808d2dfbdea7",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 3
+    },
+    {
+      "ParticleId": "0af11c7d-e752-4067-b860-8134326c5f4d",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 1
+    },
+    {
+      "ParticleId": "e4f14ea8-03ff-4af4-9644-830cb401d9e3",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 11
+    },
+    {
+      "ParticleId": "523c3e9b-01d1-4b72-a537-89646fa3b0ec",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 8
+    },
+    {
+      "ParticleId": "5e90a69c-a198-4772-a0bd-9b15b7648f56",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 12
+    },
+    {
+      "ParticleId": "6b1f25c2-d83e-4bd2-8ab4-a64ff27a2cdd",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 5
+    },
+    {
+      "ParticleId": "32c027d7-8bac-405b-a951-aeb9eaddd59c",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 4
+    },
+    {
+      "ParticleId": "c8ee86a7-7608-4e6e-96c6-bddd68161fe9",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 16
+    },
+    {
+      "ParticleId": "58f0cf07-7bb8-459e-bee3-bed9f43a02e0",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 7
+    },
+    {
+      "ParticleId": "c6301856-32a0-42e3-a385-f61ff3471016",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 14
+    },
+    {
+      "ParticleId": "8800c7ce-b7f1-4804-9b69-fa22fdf47a61",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 10
+    },
+    {
+      "ParticleId": "3d1c7f6a-f54b-4976-bebf-fb74825d2e4a",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 9
+    },
+    {
+      "ParticleId": "0c1a8662-bac6-4403-b7b0-fe28c8d57f74",
+      "BlockId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
+      "Order": 0
     },
     {
       "ParticleId": "2a7436d5-fabf-400d-9914-d74a546ba5d6",
@@ -3258,6 +3486,10 @@
       "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
     },
     {
+      "GuidableId": "ab876d2a-cd36-4f2f-a76e-0df2d8f028f5",
+      "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
+    },
+    {
       "GuidableId": "fc972f79-1c83-4cfa-8a3b-3575ec721798",
       "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
     },
@@ -3299,6 +3531,10 @@
     },
     {
       "GuidableId": "5fd11c6e-0fdf-49ec-bb32-e38eefd8b7fb",
+      "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
+    },
+    {
+      "GuidableId": "ee8d6970-dad1-4e74-aeb5-f08f789dfe4e",
       "TagId": "ef594f79-e4bb-4bae-bce1-df6ea49b5b19"
     },
     {
@@ -3521,11 +3757,11 @@
     },
     {
       "Id": "SettingRecentIdeas",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"1623a81f-acb4-4be1-a9e5-74894e81b298\",\r\n      \"Name\": null,\r\n      \"Order\": 51\r\n    },\r\n    {\r\n      \"Id\": \"5008296e-8068-4991-8bc6-ed3f70994247\",\r\n      \"Name\": null,\r\n      \"Order\": 50\r\n    },\r\n    {\r\n      \"Id\": \"611166c6-b856-456a-bdb3-210e6f46c02f\",\r\n      \"Name\": null,\r\n      \"Order\": 52\r\n    },\r\n    {\r\n      \"Id\": \"97c1b823-b141-4baf-9763-fae15a4c1f75\",\r\n      \"Name\": null,\r\n      \"Order\": 53\r\n    },\r\n    {\r\n      \"Id\": \"5d504b43-72c9-465e-bce7-1c0ed6ec23a2\",\r\n      \"Name\": null,\r\n      \"Order\": 54\r\n    },\r\n    {\r\n      \"Id\": \"eea84cfc-6ecf-4b59-95ae-b59420843430\",\r\n      \"Name\": null,\r\n      \"Order\": 55\r\n    },\r\n    {\r\n      \"Id\": \"d0631eb2-e64a-490f-8da9-4c36add17c46\",\r\n      \"Name\": null,\r\n      \"Order\": 56\r\n    },\r\n    {\r\n      \"Id\": \"acac0a31-d74c-48e1-a81b-706b9a6aa74b\",\r\n      \"Name\": null,\r\n      \"Order\": 57\r\n    },\r\n    {\r\n      \"Id\": \"0aacb1db-4653-4e08-a2a8-715f364d0773\",\r\n      \"Name\": null,\r\n      \"Order\": 58\r\n    },\r\n    {\r\n      \"Id\": \"fc972f79-1c83-4cfa-8a3b-3575ec721798\",\r\n      \"Name\": null,\r\n      \"Order\": 59\r\n    },\r\n    {\r\n      \"Id\": \"2a6fbb34-2d3e-44db-beff-c05cb641b380\",\r\n      \"Name\": null,\r\n      \"Order\": 60\r\n    },\r\n    {\r\n      \"Id\": \"e6a01743-ac4b-48c2-8923-bf22f3e35344\",\r\n      \"Name\": null,\r\n      \"Order\": 61\r\n    },\r\n    {\r\n      \"Id\": \"4b879ed9-80f8-4cc8-b08b-c2e9ea648465\",\r\n      \"Name\": null,\r\n      \"Order\": 62\r\n    },\r\n    {\r\n      \"Id\": \"a98dfc91-35a6-43dc-8450-6db3b67c00ac\",\r\n      \"Name\": null,\r\n      \"Order\": 63\r\n    },\r\n    {\r\n      \"Id\": \"f5438f1b-5575-440a-a3fa-a7b4960aa69d\",\r\n      \"Name\": null,\r\n      \"Order\": 65\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"611166c6-b856-456a-bdb3-210e6f46c02f\",\r\n      \"Name\": null,\r\n      \"Order\": 52\r\n    },\r\n    {\r\n      \"Id\": \"97c1b823-b141-4baf-9763-fae15a4c1f75\",\r\n      \"Name\": null,\r\n      \"Order\": 53\r\n    },\r\n    {\r\n      \"Id\": \"5d504b43-72c9-465e-bce7-1c0ed6ec23a2\",\r\n      \"Name\": null,\r\n      \"Order\": 54\r\n    },\r\n    {\r\n      \"Id\": \"eea84cfc-6ecf-4b59-95ae-b59420843430\",\r\n      \"Name\": null,\r\n      \"Order\": 55\r\n    },\r\n    {\r\n      \"Id\": \"d0631eb2-e64a-490f-8da9-4c36add17c46\",\r\n      \"Name\": null,\r\n      \"Order\": 56\r\n    },\r\n    {\r\n      \"Id\": \"acac0a31-d74c-48e1-a81b-706b9a6aa74b\",\r\n      \"Name\": null,\r\n      \"Order\": 57\r\n    },\r\n    {\r\n      \"Id\": \"0aacb1db-4653-4e08-a2a8-715f364d0773\",\r\n      \"Name\": null,\r\n      \"Order\": 58\r\n    },\r\n    {\r\n      \"Id\": \"fc972f79-1c83-4cfa-8a3b-3575ec721798\",\r\n      \"Name\": null,\r\n      \"Order\": 59\r\n    },\r\n    {\r\n      \"Id\": \"2a6fbb34-2d3e-44db-beff-c05cb641b380\",\r\n      \"Name\": null,\r\n      \"Order\": 60\r\n    },\r\n    {\r\n      \"Id\": \"e6a01743-ac4b-48c2-8923-bf22f3e35344\",\r\n      \"Name\": null,\r\n      \"Order\": 61\r\n    },\r\n    {\r\n      \"Id\": \"4b879ed9-80f8-4cc8-b08b-c2e9ea648465\",\r\n      \"Name\": null,\r\n      \"Order\": 62\r\n    },\r\n    {\r\n      \"Id\": \"a98dfc91-35a6-43dc-8450-6db3b67c00ac\",\r\n      \"Name\": null,\r\n      \"Order\": 63\r\n    },\r\n    {\r\n      \"Id\": \"f5438f1b-5575-440a-a3fa-a7b4960aa69d\",\r\n      \"Name\": null,\r\n      \"Order\": 65\r\n    },\r\n    {\r\n      \"Id\": \"ee8d6970-dad1-4e74-aeb5-f08f789dfe4e\",\r\n      \"Name\": null,\r\n      \"Order\": 66\r\n    },\r\n    {\r\n      \"Id\": \"ab876d2a-cd36-4f2f-a76e-0df2d8f028f5\",\r\n      \"Name\": null,\r\n      \"Order\": 67\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentTags",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 54\r\n    },\r\n    {\r\n      \"Id\": \"ef594f79-e4bb-4bae-bce1-df6ea49b5b19\",\r\n      \"Name\": null,\r\n      \"Order\": 67\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"bca86c86-7d95-48a7-b553-062111c4265a\",\r\n      \"Name\": null,\r\n      \"Order\": 16\r\n    },\r\n    {\r\n      \"Id\": \"c7025ebb-b0d2-48ac-b537-7465bc3c9dc8\",\r\n      \"Name\": null,\r\n      \"Order\": 11\r\n    },\r\n    {\r\n      \"Id\": \"a436c6a7-5b61-44bc-8985-274b175e695a\",\r\n      \"Name\": null,\r\n      \"Order\": 34\r\n    },\r\n    {\r\n      \"Id\": \"5871babe-2c20-4e4e-88a2-80f23fd524b3\",\r\n      \"Name\": null,\r\n      \"Order\": 28\r\n    },\r\n    {\r\n      \"Id\": \"e8c34d39-f3fd-4b7e-83c5-5373fc562500\",\r\n      \"Name\": null,\r\n      \"Order\": 54\r\n    },\r\n    {\r\n      \"Id\": \"ef594f79-e4bb-4bae-bce1-df6ea49b5b19\",\r\n      \"Name\": null,\r\n      \"Order\": 69\r\n    }\r\n  ]\r\n}"
     }
   ],
   "Headers": [
@@ -3568,6 +3804,11 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Position": 72044,
       "Caption": "3. Московская политика в период великого княжения Михаила Тверского (1305-1310)"
+    },
+    {
+      "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
+      "Position": 86405,
+      "Caption": "4. Борьба Москвы и Твери за преобладание в Новгороде в 1311-1317 гг."
     },
     {
       "HostMaterialId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
