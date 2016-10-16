@@ -29,6 +29,13 @@
       "Source": "Гоблин каналъ"
     },
     {
+      "Path": "mine\\МГУ\\АПИИ Профессионализм.txt",
+      "Id": "11b6d45f-5827-41d3-b14e-26c4e9abc89f",
+      "IsFolder": false,
+      "Author": "я",
+      "Source": null
+    },
+    {
       "Path": "unsorted\\Аз и я (Слово о полку Игореве).txt",
       "Id": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
       "IsFolder": false,
@@ -195,6 +202,13 @@
       "IsFolder": false,
       "Author": "я",
       "Source": "я"
+    },
+    {
+      "Path": "mine\\МГУ",
+      "Id": "446f8504-c862-46cf-bc3f-b59686a337d7",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
     },
     {
       "Path": "ocherk\\Право на кислород.txt",
