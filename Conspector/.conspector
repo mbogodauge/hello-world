@@ -169,6 +169,13 @@
       "Source": "Understanding Media The extensions of man McLuhan Marshall"
     },
     {
+      "Path": "unsorted\\Рос.абс-изм и куп-во.txt",
+      "Id": "93239f1f-1d04-4de5-9911-90ed892a7b45",
+      "IsFolder": false,
+      "Author": "Козлова Н.В.",
+      "Source": "Российский абсолютизм и купечество в 18 в"
+    },
+    {
       "Path": "mine\\Лекции с уклоном\\План лекций с уклоном.txt",
       "Id": "c4157f32-7c15-45f6-8678-9303ecfc6d27",
       "IsFolder": false,
@@ -659,6 +666,10 @@
     {
       "Id": "8c59c6b3-fc80-4115-8ff7-dba5bbadc239",
       "Caption": "Историософия"
+    },
+    {
+      "Id": "0a4a5635-7206-4cf1-8295-e0597f9305e5",
+      "Caption": "1720-1760"
     },
     {
       "Id": "5fd11c6e-0fdf-49ec-bb32-e38eefd8b7fb",
@@ -3114,6 +3125,12 @@
       "ParentId": null
     },
     {
+      "Id": "70344863-12ee-4dd6-bae6-427f77cc66ad",
+      "Caption": "1720-1760",
+      "MyIdeaId": "0a4a5635-7206-4cf1-8295-e0597f9305e5",
+      "ParentId": "fb1fa23f-a000-4e08-9ce2-5ac0ab0a0d95"
+    },
+    {
       "Id": "e8c34d39-f3fd-4b7e-83c5-5373fc562500",
       "Caption": "02. Даниил Московский",
       "MyIdeaId": "c2f28794-fe41-4bd9-90c4-c86eab8222e8",
@@ -3668,9 +3685,9 @@
   ],
   "Comments": [
     {
-      "Id": "112b3fc3-1b4d-4be9-92d6-00f244fafa8a",
-      "Caption": "Быт кочевников",
-      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
+      "Id": "68676d0e-4dd3-4ed3-a519-98c24d6f3f49",
+      "Caption": "Сфендоплек",
+      "TargetId": "e4276ee4-103b-4ed5-b80c-1012bfd0ca7e"
     },
     {
       "Id": "217a7ac5-ef90-4410-b538-092fd726f36c",
@@ -3698,44 +3715,14 @@
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
-      "Id": "c75ec77f-22a1-4d1d-a9d6-61fee95f8fa8",
-      "Caption": "Норманы и славяне - схожие и синхронные процессы гособразования?",
-      "TargetId": "f16d99d1-a723-4c42-a4bf-60f3febe25a2"
-    },
-    {
-      "Id": "40584a40-0636-4856-969a-6c08b5bf2133",
-      "Caption": "Реколонизация южных степей",
-      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
-    },
-    {
       "Id": "3ab8bafa-cfb8-45b5-a198-7ec78df2f931",
       "Caption": "Кровать",
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
-      "Id": "7b7a9f8b-f285-429a-8779-91301f3c1b5f",
-      "Caption": "Рюрик - это Рорик Фрисландский?",
-      "TargetId": "f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d"
-    },
-    {
-      "Id": "8c5a7cd3-fdb2-4661-854a-91a3ec6d934c",
-      "Caption": "Нет ощущения общего государства",
-      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
-    },
-    {
-      "Id": "68676d0e-4dd3-4ed3-a519-98c24d6f3f49",
-      "Caption": "Сфендоплек",
-      "TargetId": "e4276ee4-103b-4ed5-b80c-1012bfd0ca7e"
-    },
-    {
       "Id": "2ade337b-05bf-4220-ba2d-9d81ce8e5e7f",
       "Caption": "Борьба церкви с язычеством",
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
-    },
-    {
-      "Id": "660dd235-989d-4bb4-b654-9e9c2c68eb18",
-      "Caption": "Особый путь развития",
-      "TargetId": "187b4b15-2c4e-4f89-a2c6-e3d08ed2c6c2"
     },
     {
       "Id": "fa237b22-306e-4824-b55e-a13ee3d3668e",
@@ -3753,6 +3740,41 @@
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
+      "Id": "bdcaa791-3053-4f6b-b9e8-cdca05e28962",
+      "Caption": "Берендеи (Интересное толкование)",
+      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
+    },
+    {
+      "Id": "561ce235-fdb0-4e7f-a852-d22136edd618",
+      "Caption": "До куриц тмутороканя",
+      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
+    },
+    {
+      "Id": "17aaabf5-2e75-410b-98e2-fb106d0f0b65",
+      "Caption": "Коли соколъ въ мытехъ бываетъ",
+      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
+    },
+    {
+      "Id": "c75ec77f-22a1-4d1d-a9d6-61fee95f8fa8",
+      "Caption": "Норманы и славяне - схожие и синхронные процессы гособразования?",
+      "TargetId": "f16d99d1-a723-4c42-a4bf-60f3febe25a2"
+    },
+    {
+      "Id": "112b3fc3-1b4d-4be9-92d6-00f244fafa8a",
+      "Caption": "Быт кочевников",
+      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
+    },
+    {
+      "Id": "40584a40-0636-4856-969a-6c08b5bf2133",
+      "Caption": "Реколонизация южных степей",
+      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
+    },
+    {
+      "Id": "8c5a7cd3-fdb2-4661-854a-91a3ec6d934c",
+      "Caption": "Нет ощущения общего государства",
+      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
+    },
+    {
       "Id": "00de96b7-acad-42a7-baed-c6fc65156217",
       "Caption": "Нравы князей не блещят: Мономах",
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
@@ -3763,19 +3785,9 @@
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
     },
     {
-      "Id": "bdcaa791-3053-4f6b-b9e8-cdca05e28962",
-      "Caption": "Берендеи (Интересное толкование)",
-      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
-    },
-    {
       "Id": "4455a4ab-cb3e-4729-a812-d18621f2aefd",
       "Caption": "Хазары \"крышевали\" славян",
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
-    },
-    {
-      "Id": "561ce235-fdb0-4e7f-a852-d22136edd618",
-      "Caption": "До куриц тмутороканя",
-      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
       "Id": "30330443-6d47-49df-9a49-f201c19ecbaa",
@@ -3783,9 +3795,14 @@
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
     },
     {
-      "Id": "17aaabf5-2e75-410b-98e2-fb106d0f0b65",
-      "Caption": "Коли соколъ въ мытехъ бываетъ",
-      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
+      "Id": "7b7a9f8b-f285-429a-8779-91301f3c1b5f",
+      "Caption": "Рюрик - это Рорик Фрисландский?",
+      "TargetId": "f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d"
+    },
+    {
+      "Id": "660dd235-989d-4bb4-b654-9e9c2c68eb18",
+      "Caption": "Особый путь развития",
+      "TargetId": "187b4b15-2c4e-4f89-a2c6-e3d08ed2c6c2"
     }
   ],
   "Settings": [
@@ -4438,6 +4455,16 @@
       "HostMaterialId": "2b5e8d26-3bb8-4868-999e-7a04aa6ad95a",
       "Position": 11948,
       "Caption": "Лекция №4 Церковная книжность"
+    },
+    {
+      "HostMaterialId": "93239f1f-1d04-4de5-9911-90ed892a7b45",
+      "Position": 0,
+      "Caption": "Введение"
+    },
+    {
+      "HostMaterialId": "93239f1f-1d04-4de5-9911-90ed892a7b45",
+      "Position": 875,
+      "Caption": "Глава 1 Организация и принципы комплектования Комменц-коллегии\r\n"
     },
     {
       "HostMaterialId": "e0833ab5-24bc-47d5-8c79-a86b502aabc7",
