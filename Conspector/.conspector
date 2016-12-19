@@ -472,6 +472,10 @@
       "Caption": "кн.Константин Рязанский"
     },
     {
+      "Id": "fe9e1d17-4810-4bad-b93d-5f3f5ae71184",
+      "Caption": "Комиссия о коммерции"
+    },
+    {
       "Id": "03ea876b-f1a1-4949-98f3-6064d44112da",
       "Caption": "\"Географический фактор\" в возвышении Москвы"
     },
@@ -890,6 +894,12 @@
       "End": 45825
     },
     {
+      "Id": "bfd129cf-0f06-425e-8a43-294975a621d6",
+      "HostMaterialId": "93239f1f-1d04-4de5-9911-90ed892a7b45",
+      "Begin": 18934,
+      "End": 20772
+    },
+    {
       "Id": "94d3263a-7c0e-47f3-804e-2967246bb771",
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
       "Begin": 4708,
@@ -900,6 +910,12 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 55284,
       "End": 55796
+    },
+    {
+      "Id": "23379734-9b39-4084-b7ff-2bbea595558a",
+      "HostMaterialId": "93239f1f-1d04-4de5-9911-90ed892a7b45",
+      "Begin": 14625,
+      "End": 18930
     },
     {
       "Id": "91286e3d-bc31-4763-85e6-2c23950e144d",
@@ -1152,6 +1168,12 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 96512,
       "End": 96707
+    },
+    {
+      "Id": "0c400619-1355-4664-b84e-5908a14931f0",
+      "HostMaterialId": "93239f1f-1d04-4de5-9911-90ed892a7b45",
+      "Begin": 20776,
+      "End": 21923
     },
     {
       "Id": "9d01dc2c-81b8-4cbf-8643-590fa58ebe56",
@@ -2451,6 +2473,21 @@
       "Order": 0
     },
     {
+      "ParticleId": "bfd129cf-0f06-425e-8a43-294975a621d6",
+      "BlockId": "fe9e1d17-4810-4bad-b93d-5f3f5ae71184",
+      "Order": 1
+    },
+    {
+      "ParticleId": "23379734-9b39-4084-b7ff-2bbea595558a",
+      "BlockId": "fe9e1d17-4810-4bad-b93d-5f3f5ae71184",
+      "Order": 0
+    },
+    {
+      "ParticleId": "0c400619-1355-4664-b84e-5908a14931f0",
+      "BlockId": "fe9e1d17-4810-4bad-b93d-5f3f5ae71184",
+      "Order": 2
+    },
+    {
       "ParticleId": "b5658f9d-e9c0-4de6-b5cf-b896fb8a3aea",
       "BlockId": "03ea876b-f1a1-4949-98f3-6064d44112da",
       "Order": 0
@@ -3534,6 +3571,10 @@
       "TagId": "70344863-12ee-4dd6-bae6-427f77cc66ad"
     },
     {
+      "GuidableId": "fe9e1d17-4810-4bad-b93d-5f3f5ae71184",
+      "TagId": "70344863-12ee-4dd6-bae6-427f77cc66ad"
+    },
+    {
       "GuidableId": "7acf046a-eac1-422f-8468-b379d4ae3be7",
       "TagId": "70344863-12ee-4dd6-bae6-427f77cc66ad"
     },
@@ -4017,7 +4058,7 @@
     },
     {
       "Id": "SettingRecentIdeas",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"d0631eb2-e64a-490f-8da9-4c36add17c46\",\r\n      \"Name\": null,\r\n      \"Order\": 56\r\n    },\r\n    {\r\n      \"Id\": \"acac0a31-d74c-48e1-a81b-706b9a6aa74b\",\r\n      \"Name\": null,\r\n      \"Order\": 57\r\n    },\r\n    {\r\n      \"Id\": \"0aacb1db-4653-4e08-a2a8-715f364d0773\",\r\n      \"Name\": null,\r\n      \"Order\": 58\r\n    },\r\n    {\r\n      \"Id\": \"fc972f79-1c83-4cfa-8a3b-3575ec721798\",\r\n      \"Name\": null,\r\n      \"Order\": 59\r\n    },\r\n    {\r\n      \"Id\": \"2a6fbb34-2d3e-44db-beff-c05cb641b380\",\r\n      \"Name\": null,\r\n      \"Order\": 60\r\n    },\r\n    {\r\n      \"Id\": \"e6a01743-ac4b-48c2-8923-bf22f3e35344\",\r\n      \"Name\": null,\r\n      \"Order\": 61\r\n    },\r\n    {\r\n      \"Id\": \"4b879ed9-80f8-4cc8-b08b-c2e9ea648465\",\r\n      \"Name\": null,\r\n      \"Order\": 62\r\n    },\r\n    {\r\n      \"Id\": \"a98dfc91-35a6-43dc-8450-6db3b67c00ac\",\r\n      \"Name\": null,\r\n      \"Order\": 63\r\n    },\r\n    {\r\n      \"Id\": \"f5438f1b-5575-440a-a3fa-a7b4960aa69d\",\r\n      \"Name\": null,\r\n      \"Order\": 65\r\n    },\r\n    {\r\n      \"Id\": \"ee8d6970-dad1-4e74-aeb5-f08f789dfe4e\",\r\n      \"Name\": null,\r\n      \"Order\": 66\r\n    },\r\n    {\r\n      \"Id\": \"ab876d2a-cd36-4f2f-a76e-0df2d8f028f5\",\r\n      \"Name\": null,\r\n      \"Order\": 67\r\n    },\r\n    {\r\n      \"Id\": \"be746874-c5c7-4e2b-bc20-4bb750d9b0a6\",\r\n      \"Name\": null,\r\n      \"Order\": 68\r\n    },\r\n    {\r\n      \"Id\": \"7acf046a-eac1-422f-8468-b379d4ae3be7\",\r\n      \"Name\": null,\r\n      \"Order\": 69\r\n    },\r\n    {\r\n      \"Id\": \"9faa6269-f0f2-4687-b4e2-301915a16b06\",\r\n      \"Name\": null,\r\n      \"Order\": 70\r\n    },\r\n    {\r\n      \"Id\": \"edd089f6-9074-4e19-b3e2-f78adfe560c1\",\r\n      \"Name\": null,\r\n      \"Order\": 71\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"acac0a31-d74c-48e1-a81b-706b9a6aa74b\",\r\n      \"Name\": null,\r\n      \"Order\": 57\r\n    },\r\n    {\r\n      \"Id\": \"0aacb1db-4653-4e08-a2a8-715f364d0773\",\r\n      \"Name\": null,\r\n      \"Order\": 58\r\n    },\r\n    {\r\n      \"Id\": \"fc972f79-1c83-4cfa-8a3b-3575ec721798\",\r\n      \"Name\": null,\r\n      \"Order\": 59\r\n    },\r\n    {\r\n      \"Id\": \"2a6fbb34-2d3e-44db-beff-c05cb641b380\",\r\n      \"Name\": null,\r\n      \"Order\": 60\r\n    },\r\n    {\r\n      \"Id\": \"e6a01743-ac4b-48c2-8923-bf22f3e35344\",\r\n      \"Name\": null,\r\n      \"Order\": 61\r\n    },\r\n    {\r\n      \"Id\": \"4b879ed9-80f8-4cc8-b08b-c2e9ea648465\",\r\n      \"Name\": null,\r\n      \"Order\": 62\r\n    },\r\n    {\r\n      \"Id\": \"a98dfc91-35a6-43dc-8450-6db3b67c00ac\",\r\n      \"Name\": null,\r\n      \"Order\": 63\r\n    },\r\n    {\r\n      \"Id\": \"f5438f1b-5575-440a-a3fa-a7b4960aa69d\",\r\n      \"Name\": null,\r\n      \"Order\": 65\r\n    },\r\n    {\r\n      \"Id\": \"ee8d6970-dad1-4e74-aeb5-f08f789dfe4e\",\r\n      \"Name\": null,\r\n      \"Order\": 66\r\n    },\r\n    {\r\n      \"Id\": \"ab876d2a-cd36-4f2f-a76e-0df2d8f028f5\",\r\n      \"Name\": null,\r\n      \"Order\": 67\r\n    },\r\n    {\r\n      \"Id\": \"be746874-c5c7-4e2b-bc20-4bb750d9b0a6\",\r\n      \"Name\": null,\r\n      \"Order\": 68\r\n    },\r\n    {\r\n      \"Id\": \"7acf046a-eac1-422f-8468-b379d4ae3be7\",\r\n      \"Name\": null,\r\n      \"Order\": 69\r\n    },\r\n    {\r\n      \"Id\": \"9faa6269-f0f2-4687-b4e2-301915a16b06\",\r\n      \"Name\": null,\r\n      \"Order\": 70\r\n    },\r\n    {\r\n      \"Id\": \"edd089f6-9074-4e19-b3e2-f78adfe560c1\",\r\n      \"Name\": null,\r\n      \"Order\": 71\r\n    },\r\n    {\r\n      \"Id\": \"fe9e1d17-4810-4bad-b93d-5f3f5ae71184\",\r\n      \"Name\": null,\r\n      \"Order\": 72\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentTags",
@@ -4664,6 +4705,11 @@
       "HostMaterialId": "93239f1f-1d04-4de5-9911-90ed892a7b45",
       "Position": 14572,
       "Caption": "Глава 3 Организация и состав комиссий о коммерции"
+    },
+    {
+      "HostMaterialId": "93239f1f-1d04-4de5-9911-90ed892a7b45",
+      "Position": 21927,
+      "Caption": "Глава 4 Создание главного магистрата. Характеристика его служителей"
     },
     {
       "HostMaterialId": "e0833ab5-24bc-47d5-8c79-a86b502aabc7",
