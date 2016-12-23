@@ -36,7 +36,7 @@
       "Source": null
     },
     {
-      "Path": "unsorted\\Аз и я (Слово о полку Игореве).txt",
+      "Path": "old\\Аз и я (Слово о полку Игореве).txt",
       "Id": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
       "IsFolder": false,
       "Author": "Олджас Сулейманов",
@@ -106,7 +106,7 @@
       "Source": "исторические субботы"
     },
     {
-      "Path": "unsorted\\История с др.времен (Ч.2).txt",
+      "Path": "old\\История с др.времен (Ч.2).txt",
       "Id": "54d4d59c-b939-4eb1-a9b0-4d17d46be9a8",
       "IsFolder": false,
       "Author": "Милов Л.В.",
@@ -120,28 +120,28 @@
       "Source": null
     },
     {
-      "Path": "unsorted\\История России (I книга).txt",
+      "Path": "old\\История России (I книга).txt",
       "Id": "3875f569-0a86-430f-bc7e-5ddc085dbff7",
       "IsFolder": false,
       "Author": "Спицын Е.Ю.",
       "Source": "История России (Древняя и Средневековая Русь IX-XII вв.) Спицын Е.Ю."
     },
     {
-      "Path": "unsorted\\Что делать.txt",
+      "Path": "old\\Что делать.txt",
       "Id": "f4cd0be4-9992-4583-96f3-62857a0c666d",
       "IsFolder": false,
       "Author": "Чернышевский",
       "Source": "Книга"
     },
     {
-      "Path": "unsorted\\Котошихин.txt",
+      "Path": "old\\Котошихин.txt",
       "Id": "a0e77f55-917e-4885-b6ea-664fc8eaeb9b",
       "IsFolder": false,
       "Author": "Котошихин",
       "Source": "Котошихин"
     },
     {
-      "Path": "unsorted\\Хрестоматия до 1618 .txt",
+      "Path": "old\\Хрестоматия до 1618 .txt",
       "Id": "6bf2c99e-7149-46bf-8c77-709eb4ba9c42",
       "IsFolder": false,
       "Author": "А.Г.Кузьмин",
@@ -155,14 +155,14 @@
       "Source": "лекции"
     },
     {
-      "Path": "unsorted\\Печенеги, торки, половцы.txt",
+      "Path": "old\\Печенеги, торки, половцы.txt",
       "Id": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "IsFolder": false,
       "Author": "Голубовский П.В.",
       "Source": "Печенѣги, торки и половцы до нашествiя татаръ П.Голубовский 1884"
     },
     {
-      "Path": "unsorted\\Understanding Media The extensions of man.txt",
+      "Path": "old\\Understanding Media The extensions of man.txt",
       "Id": "4ac4431d-516c-442c-882a-8fe20942894f",
       "IsFolder": false,
       "Author": "McLuhan Marshall",
@@ -197,7 +197,7 @@
       "Source": "лекции"
     },
     {
-      "Path": "unsorted\\История России до 1618 г..txt",
+      "Path": "old\\История России до 1618 г..txt",
       "Id": "e0833ab5-24bc-47d5-8c79-a86b502aabc7",
       "IsFolder": false,
       "Author": "А.Г. Кузьмин",
@@ -246,6 +246,13 @@
       "Source": "план"
     },
     {
+      "Path": "old",
+      "Id": "ef07c0eb-f226-46f4-9a2e-d1d21f8c8af7",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
+    },
+    {
       "Path": "mine\\Кочевники и земледельческий мир...txt",
       "Id": "af901266-c283-4083-b3cc-d98f2d403ea5",
       "IsFolder": false,
@@ -281,7 +288,7 @@
       "Source": null
     },
     {
-      "Path": "unsorted\\История России с древнейших времен до конца ХVII в.txt",
+      "Path": "old\\История России с древнейших времен до конца ХVII в.txt",
       "Id": "b3ee63ce-fa7b-4f7b-b1a0-f00d6fc94760",
       "IsFolder": false,
       "Author": "Б.Флоря",
@@ -295,7 +302,7 @@
       "Source": "На прочтение"
     },
     {
-      "Path": "unsorted\\История России с др.времен.txt",
+      "Path": "old\\История России с др.времен.txt",
       "Id": "988cce9e-1bac-4d04-86c1-ff5eb5cbfa78",
       "IsFolder": false,
       "Author": "Милов Л.В.",
