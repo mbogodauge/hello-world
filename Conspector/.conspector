@@ -148,6 +148,13 @@
       "Source": "Кузьмин А.Г. - Хрестоматия по истории России с древнейших времен до 1618г. - 2004"
     },
     {
+      "Path": "mine\\Лекции с уклоном\\Введение - методология.txt",
+      "Id": "c1d01435-9fdd-4fe9-be71-75573c0b6aaf",
+      "IsFolder": false,
+      "Author": null,
+      "Source": null
+    },
+    {
       "Path": "Лекции\\Источниковедение проблем истории России до XIX в..txt",
       "Id": "2b5e8d26-3bb8-4868-999e-7a04aa6ad95a",
       "IsFolder": false,
@@ -4672,6 +4679,16 @@
       "HostMaterialId": "f4cd0be4-9992-4583-96f3-62857a0c666d",
       "Position": 4275,
       "Caption": "//парадокс матери Веры и её самой"
+    },
+    {
+      "HostMaterialId": "c1d01435-9fdd-4fe9-be71-75573c0b6aaf",
+      "Position": 1080,
+      "Caption": "Вводное слово"
+    },
+    {
+      "HostMaterialId": "c1d01435-9fdd-4fe9-be71-75573c0b6aaf",
+      "Position": 1642,
+      "Caption": "Для чего изучать историю?"
     },
     {
       "HostMaterialId": "2b5e8d26-3bb8-4868-999e-7a04aa6ad95a",
