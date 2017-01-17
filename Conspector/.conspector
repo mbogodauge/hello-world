@@ -43,7 +43,7 @@
       "Source": "Аз и я (http://www.opentextnn.ru/man/?id=711)"
     },
     {
-      "Path": "Лекции\\Философия.txt",
+      "Path": "old\\Лекции\\Философия.txt",
       "Id": "741a7708-6d94-4be4-9db3-29e5cf793c6f",
       "IsFolder": false,
       "Author": "Шклярик Е.Н.",
@@ -64,14 +64,14 @@
       "Source": "me"
     },
     {
-      "Path": "Лекции\\Политическое развитие русских земель в XIV-XV вв.txt",
+      "Path": "old\\Лекции\\Политическое развитие русских земель в XIV-XV вв.txt",
       "Id": "b909ed83-1337-42da-b605-38c255522736",
       "IsFolder": false,
       "Author": "Матасова Т.А.",
       "Source": "лекции"
     },
     {
-      "Path": "Лекции\\Начало Руси.txt",
+      "Path": "old\\Лекции\\Начало Руси.txt",
       "Id": "dbdd5a1d-1e69-4bf8-9e2f-38e829338ee0",
       "IsFolder": false,
       "Author": "Горский",
@@ -113,7 +113,14 @@
       "Source": "История с древнейших времен до конца 17 века"
     },
     {
-      "Path": "Лекции",
+      "Path": "Projects",
+      "Id": "36a22cee-6e10-4444-8a4b-561fd30376cb",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
+    },
+    {
+      "Path": "old\\Лекции",
       "Id": "b7eea2e3-1d8d-4991-a96f-5662efb84e3f",
       "IsFolder": true,
       "Author": null,
@@ -155,11 +162,32 @@
       "Source": null
     },
     {
-      "Path": "Лекции\\Источниковедение проблем истории России до XIX в..txt",
+      "Path": "Projects\\Прочитать\\Куча прочитать.txt",
+      "Id": "3d1eb562-8c99-4e06-8270-767fb62bbbb1",
+      "IsFolder": false,
+      "Author": "я",
+      "Source": null
+    },
+    {
+      "Path": "old\\Лекции\\Источниковедение проблем истории России до XIX в..txt",
       "Id": "2b5e8d26-3bb8-4868-999e-7a04aa6ad95a",
       "IsFolder": false,
       "Author": "Лаушкин А.В.",
       "Source": "лекции"
+    },
+    {
+      "Path": "Projects\\Посмотреть\\Куча посмотреть.txt",
+      "Id": "34039ca6-ec2e-4473-a61d-7fb989b4dd1d",
+      "IsFolder": false,
+      "Author": "я",
+      "Source": null
+    },
+    {
+      "Path": "Projects\\Прочитать",
+      "Id": "f349c239-1da1-4a49-b805-8139c331bc4d",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
     },
     {
       "Path": "old\\Печенеги, торки, половцы.txt",
@@ -167,6 +195,13 @@
       "IsFolder": false,
       "Author": "Голубовский П.В.",
       "Source": "Печенѣги, торки и половцы до нашествiя татаръ П.Голубовский 1884"
+    },
+    {
+      "Path": "Projects\\01 Введение\\Процесс.txt",
+      "Id": "93d2e4ab-f003-476c-8b3a-896a639b92ca",
+      "IsFolder": false,
+      "Author": "я",
+      "Source": null
     },
     {
       "Path": "old\\Understanding Media The extensions of man.txt",
@@ -190,6 +225,13 @@
       "Source": "я"
     },
     {
+      "Path": "Projects\\Проекты.txt",
+      "Id": "bf47fffa-30ba-44dc-847e-95dc06caec05",
+      "IsFolder": false,
+      "Author": "я",
+      "Source": ""
+    },
+    {
       "Path": "mine\\История России (МГУ)",
       "Id": "9a3ff347-50f1-4745-978d-98ba2b7e6d91",
       "IsFolder": true,
@@ -197,7 +239,7 @@
       "Source": null
     },
     {
-      "Path": "Лекции\\Информационные технологии.txt",
+      "Path": "old\\Лекции\\Информационные технологии.txt",
       "Id": "76ed56ad-13bf-4d07-8685-9a7cbd434f6c",
       "IsFolder": false,
       "Author": "Володин А.Ю.",
@@ -225,7 +267,7 @@
       "Source": null
     },
     {
-      "Path": "ocherk\\Право на кислород.txt",
+      "Path": "old\\ocherk\\Право на кислород.txt",
       "Id": "457cc5bf-6fa4-4e62-b67a-b5b49d5374b2",
       "IsFolder": false,
       "Author": "Кургинян",
@@ -237,6 +279,13 @@
       "IsFolder": false,
       "Author": "Oliver Stone",
       "Source": "The Untold History of United States, Peter Kuznick and Oliver Stone"
+    },
+    {
+      "Path": "Projects\\01 Введение",
+      "Id": "bb71068f-b1d2-4053-8c65-c1234c5bb0bf",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
     },
     {
       "Path": "unsorted\\Русь до МосЦарства.txt",
@@ -267,18 +316,25 @@
       "Source": "http://yakutiafuture.ru/2015/12/29/kochevniki-i-zemledelcheskij-mir-xunnskaya-model-v-istoricheskoj-perspektive/"
     },
     {
-      "Path": "Лекции\\АПИИ.txt",
+      "Path": "old\\Лекции\\АПИИ.txt",
       "Id": "c277221e-a6b5-4429-99a8-dc9c9ed2dd92",
       "IsFolder": false,
       "Author": "Селунская Н.Б.",
       "Source": "лекции"
     },
     {
-      "Path": "Лекции\\АПИР 3-й бак.txt",
+      "Path": "old\\Лекции\\АПИР 3-й бак.txt",
       "Id": "4c067aba-c740-406d-9ce6-df7488a13008",
       "IsFolder": false,
       "Author": "Горский",
       "Source": "лекции"
+    },
+    {
+      "Path": "Projects\\Посмотреть",
+      "Id": "1bec4055-1b99-41ee-ad89-e595fc657ca1",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
     },
     {
       "Path": "mine",
@@ -288,7 +344,14 @@
       "Source": null
     },
     {
-      "Path": "ocherk",
+      "Path": "Projects\\01 Введение\\Хип.txt",
+      "Id": "538ff957-b910-4c49-851b-ee66f3108775",
+      "IsFolder": false,
+      "Author": null,
+      "Source": null
+    },
+    {
+      "Path": "old\\ocherk",
       "Id": "b2674c04-6e74-432c-8362-ef42f60a04ce",
       "IsFolder": true,
       "Author": null,
