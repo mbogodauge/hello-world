@@ -1475,6 +1475,12 @@
       "End": 94921
     },
     {
+      "Id": "616ec09a-25cf-4d54-833e-867925f63e16",
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Begin": 5491,
+      "End": 5611
+    },
+    {
       "Id": "0895eed1-f47c-4d9a-b527-86eb58c8ba64",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 48438,
@@ -2745,6 +2751,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "616ec09a-25cf-4d54-833e-867925f63e16",
+      "BlockId": "1c7bf8d4-9d11-4dd1-87b4-9059a72bfc2b",
+      "Order": 0
+    },
+    {
       "ParticleId": "82786d73-3329-4b98-8d39-eef1075eb64b",
       "BlockId": "7b7a9f8b-f285-429a-8779-91301f3c1b5f",
       "Order": 0
@@ -3844,6 +3855,10 @@
       "TagId": "a030a7f4-bfc6-428c-bac7-b9b9d54ea277"
     },
     {
+      "GuidableId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "TagId": "cdabd8fe-4704-430f-bd0d-d44a459ac8db"
+    },
+    {
       "GuidableId": "2d3691bd-bb65-4f92-8238-36fb6fa205e6",
       "TagId": "054e583b-b98a-4217-af61-d51af4b454b5"
     },
@@ -3992,9 +4007,9 @@
   ],
   "Comments": [
     {
-      "Id": "68676d0e-4dd3-4ed3-a519-98c24d6f3f49",
-      "Caption": "Сфендоплек",
-      "TargetId": "e4276ee4-103b-4ed5-b80c-1012bfd0ca7e"
+      "Id": "112b3fc3-1b4d-4be9-92d6-00f244fafa8a",
+      "Caption": "Быт кочевников",
+      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
     },
     {
       "Id": "217a7ac5-ef90-4410-b538-092fd726f36c",
@@ -4022,14 +4037,49 @@
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
+      "Id": "c75ec77f-22a1-4d1d-a9d6-61fee95f8fa8",
+      "Caption": "Норманы и славяне - схожие и синхронные процессы гособразования?",
+      "TargetId": "f16d99d1-a723-4c42-a4bf-60f3febe25a2"
+    },
+    {
+      "Id": "40584a40-0636-4856-969a-6c08b5bf2133",
+      "Caption": "Реколонизация южных степей",
+      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
+    },
+    {
       "Id": "3ab8bafa-cfb8-45b5-a198-7ec78df2f931",
       "Caption": "Кровать",
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
+      "Id": "1c7bf8d4-9d11-4dd1-87b4-9059a72bfc2b",
+      "Caption": "Румянцева впаривает толерантность",
+      "TargetId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a"
+    },
+    {
+      "Id": "7b7a9f8b-f285-429a-8779-91301f3c1b5f",
+      "Caption": "Рюрик - это Рорик Фрисландский?",
+      "TargetId": "f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d"
+    },
+    {
+      "Id": "8c5a7cd3-fdb2-4661-854a-91a3ec6d934c",
+      "Caption": "Нет ощущения общего государства",
+      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
+    },
+    {
+      "Id": "68676d0e-4dd3-4ed3-a519-98c24d6f3f49",
+      "Caption": "Сфендоплек",
+      "TargetId": "e4276ee4-103b-4ed5-b80c-1012bfd0ca7e"
+    },
+    {
       "Id": "2ade337b-05bf-4220-ba2d-9d81ce8e5e7f",
       "Caption": "Борьба церкви с язычеством",
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
+    },
+    {
+      "Id": "660dd235-989d-4bb4-b654-9e9c2c68eb18",
+      "Caption": "Особый путь развития",
+      "TargetId": "187b4b15-2c4e-4f89-a2c6-e3d08ed2c6c2"
     },
     {
       "Id": "fa237b22-306e-4824-b55e-a13ee3d3668e",
@@ -4047,41 +4097,6 @@
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
-      "Id": "bdcaa791-3053-4f6b-b9e8-cdca05e28962",
-      "Caption": "Берендеи (Интересное толкование)",
-      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
-    },
-    {
-      "Id": "561ce235-fdb0-4e7f-a852-d22136edd618",
-      "Caption": "До куриц тмутороканя",
-      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
-    },
-    {
-      "Id": "17aaabf5-2e75-410b-98e2-fb106d0f0b65",
-      "Caption": "Коли соколъ въ мытехъ бываетъ",
-      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
-    },
-    {
-      "Id": "c75ec77f-22a1-4d1d-a9d6-61fee95f8fa8",
-      "Caption": "Норманы и славяне - схожие и синхронные процессы гособразования?",
-      "TargetId": "f16d99d1-a723-4c42-a4bf-60f3febe25a2"
-    },
-    {
-      "Id": "112b3fc3-1b4d-4be9-92d6-00f244fafa8a",
-      "Caption": "Быт кочевников",
-      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
-    },
-    {
-      "Id": "40584a40-0636-4856-969a-6c08b5bf2133",
-      "Caption": "Реколонизация южных степей",
-      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
-    },
-    {
-      "Id": "8c5a7cd3-fdb2-4661-854a-91a3ec6d934c",
-      "Caption": "Нет ощущения общего государства",
-      "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
-    },
-    {
       "Id": "00de96b7-acad-42a7-baed-c6fc65156217",
       "Caption": "Нравы князей не блещят: Мономах",
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
@@ -4092,9 +4107,19 @@
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
     },
     {
+      "Id": "bdcaa791-3053-4f6b-b9e8-cdca05e28962",
+      "Caption": "Берендеи (Интересное толкование)",
+      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
+    },
+    {
       "Id": "4455a4ab-cb3e-4729-a812-d18621f2aefd",
       "Caption": "Хазары \"крышевали\" славян",
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
+    },
+    {
+      "Id": "561ce235-fdb0-4e7f-a852-d22136edd618",
+      "Caption": "До куриц тмутороканя",
+      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
       "Id": "30330443-6d47-49df-9a49-f201c19ecbaa",
@@ -4102,14 +4127,9 @@
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
     },
     {
-      "Id": "7b7a9f8b-f285-429a-8779-91301f3c1b5f",
-      "Caption": "Рюрик - это Рорик Фрисландский?",
-      "TargetId": "f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d"
-    },
-    {
-      "Id": "660dd235-989d-4bb4-b654-9e9c2c68eb18",
-      "Caption": "Особый путь развития",
-      "TargetId": "187b4b15-2c4e-4f89-a2c6-e3d08ed2c6c2"
+      "Id": "17aaabf5-2e75-410b-98e2-fb106d0f0b65",
+      "Caption": "Коли соколъ въ мытехъ бываетъ",
+      "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     }
   ],
   "Settings": [
@@ -4131,7 +4151,7 @@
     },
     {
       "Id": "SettingRecentGuidables",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"4dbf96ce-96f9-4cab-9909-841a2ff1fce2\",\r\n      \"Name\": null,\r\n      \"Order\": 5\r\n    },\r\n    {\r\n      \"Id\": \"3e7d2073-c6e6-4b3d-82d7-2971506010b9\",\r\n      \"Name\": null,\r\n      \"Order\": 18\r\n    },\r\n    {\r\n      \"Id\": \"f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 21\r\n    },\r\n    {\r\n      \"Id\": \"e4276ee4-103b-4ed5-b80c-1012bfd0ca7e\",\r\n      \"Name\": null,\r\n      \"Order\": 22\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"4dbf96ce-96f9-4cab-9909-841a2ff1fce2\",\r\n      \"Name\": null,\r\n      \"Order\": 5\r\n    },\r\n    {\r\n      \"Id\": \"3e7d2073-c6e6-4b3d-82d7-2971506010b9\",\r\n      \"Name\": null,\r\n      \"Order\": 18\r\n    },\r\n    {\r\n      \"Id\": \"f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 21\r\n    },\r\n    {\r\n      \"Id\": \"e4276ee4-103b-4ed5-b80c-1012bfd0ca7e\",\r\n      \"Name\": null,\r\n      \"Order\": 22\r\n    },\r\n    {\r\n      \"Id\": \"42a8555e-a4ac-4204-9bcc-2cc59c413b8a\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentIdeas",
@@ -4262,6 +4282,56 @@
       "HostMaterialId": "741a7708-6d94-4be4-9db3-29e5cf793c6f",
       "Position": 203,
       "Caption": "Б.Латур Пересборка социального"
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 0,
+      "Caption": "Введение "
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 1016,
+      "Caption": "Раздел 1 Источниковедение как дисциплина исторической науки"
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 1077,
+      "Caption": "Часть 1 История источниковедения"
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 2142,
+      "Caption": "Глава 1 Источниковедение в классической модели науки"
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 2196,
+      "Caption": "1.1 Становление источниковедения"
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 4411,
+      "Caption": "1.2 Позитивистская парадигма источниковедения"
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 5182,
+      "Caption": "Глава 2 Источниковедение в неклассической модели науки"
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 5238,
+      "Caption": "2.1 Русская версия неокантианства"
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 5447,
+      "Caption": "2.2 Принцип признания чужой одушевленности"
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 7105,
+      "Caption": "2.3 Объект познания в русской версии неокантианства"
     },
     {
       "HostMaterialId": "b909ed83-1337-42da-b605-38c255522736",
