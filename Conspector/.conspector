@@ -1403,6 +1403,12 @@
       "End": 35577
     },
     {
+      "Id": "c76a3f66-f6c4-4715-b344-75e6cf6a766b",
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Begin": 12210,
+      "End": 12332
+    },
+    {
       "Id": "5814d710-0085-4604-b937-75f5a97ea293",
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Begin": 60651,
@@ -1973,6 +1979,12 @@
       "End": 18265
     },
     {
+      "Id": "9c575ec2-8c88-46c9-99d7-d73bac56b588",
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Begin": 9091,
+      "End": 9664
+    },
+    {
       "Id": "2a7436d5-fabf-400d-9914-d74a546ba5d6",
       "HostMaterialId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2",
       "Begin": 1222,
@@ -2248,6 +2260,11 @@
     {
       "ParticleId": "901188cd-2e68-434f-8286-49194ad68a99",
       "BlockId": "9d565268-4443-4306-bacf-127e253e4020",
+      "Order": 0
+    },
+    {
+      "ParticleId": "9c575ec2-8c88-46c9-99d7-d73bac56b588",
+      "BlockId": "fdfa5af2-a0d2-4998-95f0-15da95cb6d36",
       "Order": 0
     },
     {
@@ -3221,6 +3238,11 @@
       "Order": 0
     },
     {
+      "ParticleId": "c76a3f66-f6c4-4715-b344-75e6cf6a766b",
+      "BlockId": "d915208b-d420-4dd9-91a4-f40fb130cd44",
+      "Order": 0
+    },
+    {
       "ParticleId": "403f3ed3-3511-457d-8014-d36e0961f846",
       "BlockId": "1f1480de-1995-410e-b20c-f6190b2e5ecf",
       "Order": 0
@@ -4017,6 +4039,11 @@
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
     },
     {
+      "Id": "fdfa5af2-a0d2-4998-95f0-15da95cb6d36",
+      "Caption": "О восприятии либеральными историками личностей советского периода",
+      "TargetId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a"
+    },
+    {
       "Id": "276ec0ca-6947-4a53-a8a6-2a7e17495b67",
       "Caption": "Повиты",
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
@@ -4127,6 +4154,11 @@
       "TargetId": "4dbf96ce-96f9-4cab-9909-841a2ff1fce2"
     },
     {
+      "Id": "d915208b-d420-4dd9-91a4-f40fb130cd44",
+      "Caption": "Более глубокое чем авторское понимание источника о_0",
+      "TargetId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a"
+    },
+    {
       "Id": "17aaabf5-2e75-410b-98e2-fb106d0f0b65",
       "Caption": "Коли соколъ въ мытехъ бываетъ",
       "TargetId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9"
@@ -4151,7 +4183,7 @@
     },
     {
       "Id": "SettingRecentGuidables",
-      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"4dbf96ce-96f9-4cab-9909-841a2ff1fce2\",\r\n      \"Name\": null,\r\n      \"Order\": 5\r\n    },\r\n    {\r\n      \"Id\": \"3e7d2073-c6e6-4b3d-82d7-2971506010b9\",\r\n      \"Name\": null,\r\n      \"Order\": 18\r\n    },\r\n    {\r\n      \"Id\": \"f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 21\r\n    },\r\n    {\r\n      \"Id\": \"e4276ee4-103b-4ed5-b80c-1012bfd0ca7e\",\r\n      \"Name\": null,\r\n      \"Order\": 22\r\n    },\r\n    {\r\n      \"Id\": \"42a8555e-a4ac-4204-9bcc-2cc59c413b8a\",\r\n      \"Name\": null,\r\n      \"Order\": 23\r\n    }\r\n  ]\r\n}"
+      "Value": "{\r\n  \"Items\": [\r\n    {\r\n      \"Id\": \"4dbf96ce-96f9-4cab-9909-841a2ff1fce2\",\r\n      \"Name\": null,\r\n      \"Order\": 5\r\n    },\r\n    {\r\n      \"Id\": \"3e7d2073-c6e6-4b3d-82d7-2971506010b9\",\r\n      \"Name\": null,\r\n      \"Order\": 18\r\n    },\r\n    {\r\n      \"Id\": \"f6fc4ca2-5a52-4fe5-857f-84f7477d8c6d\",\r\n      \"Name\": null,\r\n      \"Order\": 19\r\n    },\r\n    {\r\n      \"Id\": \"f16d99d1-a723-4c42-a4bf-60f3febe25a2\",\r\n      \"Name\": null,\r\n      \"Order\": 21\r\n    },\r\n    {\r\n      \"Id\": \"e4276ee4-103b-4ed5-b80c-1012bfd0ca7e\",\r\n      \"Name\": null,\r\n      \"Order\": 22\r\n    },\r\n    {\r\n      \"Id\": \"42a8555e-a4ac-4204-9bcc-2cc59c413b8a\",\r\n      \"Name\": null,\r\n      \"Order\": 25\r\n    }\r\n  ]\r\n}"
     },
     {
       "Id": "SettingRecentIdeas",
@@ -4332,6 +4364,11 @@
       "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
       "Position": 7105,
       "Caption": "2.3 Объект познания в русской версии неокантианства"
+    },
+    {
+      "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
+      "Position": 7930,
+      "Caption": "2.4 Концепция источниковедения А.С.Лаппо-Данилевского"
     },
     {
       "HostMaterialId": "b909ed83-1337-42da-b605-38c255522736",
