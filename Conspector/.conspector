@@ -92,6 +92,13 @@
       "Source": "я"
     },
     {
+      "Path": "roughly",
+      "Id": "00874a66-32c5-48fa-9c02-477145aad585",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
+    },
+    {
       "Path": "mine\\Лекции с уклоном",
       "Id": "286759e2-d015-4ec8-92a5-4cc8cb631591",
       "IsFolder": true,
@@ -335,6 +342,13 @@
       "IsFolder": true,
       "Author": null,
       "Source": null
+    },
+    {
+      "Path": "roughly\\Древние германцы.txt",
+      "Id": "04ae3e13-3481-48a3-b482-e8a9e24992d1",
+      "IsFolder": false,
+      "Author": "Гуревич А.",
+      "Source": "Гуревич: Избранные труды. Древние германцы. Викинги. "
     },
     {
       "Path": "mine",
