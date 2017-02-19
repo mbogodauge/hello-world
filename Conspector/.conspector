@@ -43,7 +43,7 @@
       "Source": "Аз и я (http://www.opentextnn.ru/man/?id=711)"
     },
     {
-      "Path": "old\\Лекции\\Философия.txt",
+      "Path": "old\\Лекции\\1сем\\Философия.txt",
       "Id": "741a7708-6d94-4be4-9db3-29e5cf793c6f",
       "IsFolder": false,
       "Author": "Шклярик Е.Н.",
@@ -64,14 +64,14 @@
       "Source": "me"
     },
     {
-      "Path": "old\\Лекции\\Политическое развитие русских земель в XIV-XV вв.txt",
+      "Path": "old\\Лекции\\1сем\\Политическое развитие русских земель в XIV-XV вв.txt",
       "Id": "b909ed83-1337-42da-b605-38c255522736",
       "IsFolder": false,
       "Author": "Матасова Т.А.",
       "Source": "лекции"
     },
     {
-      "Path": "old\\Лекции\\Начало Руси.txt",
+      "Path": "old\\Лекции\\1сем\\Начало Руси.txt",
       "Id": "dbdd5a1d-1e69-4bf8-9e2f-38e829338ee0",
       "IsFolder": false,
       "Author": "Горский",
@@ -155,6 +155,13 @@
       "Source": "Котошихин"
     },
     {
+      "Path": "old\\Лекции\\2сем",
+      "Id": "9c353381-b553-4eca-9966-6c01f304601d",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
+    },
+    {
       "Path": "old\\Хрестоматия до 1618 .txt",
       "Id": "6bf2c99e-7149-46bf-8c77-709eb4ba9c42",
       "IsFolder": false,
@@ -176,7 +183,7 @@
       "Source": null
     },
     {
-      "Path": "old\\Лекции\\Источниковедение проблем истории России до XIX в..txt",
+      "Path": "old\\Лекции\\1сем\\Источниковедение проблем истории России до XIX в..txt",
       "Id": "2b5e8d26-3bb8-4868-999e-7a04aa6ad95a",
       "IsFolder": false,
       "Author": "Лаушкин А.В.",
@@ -246,7 +253,7 @@
       "Source": null
     },
     {
-      "Path": "old\\Лекции\\Информационные технологии.txt",
+      "Path": "old\\Лекции\\1сем\\Информационные технологии.txt",
       "Id": "76ed56ad-13bf-4d07-8685-9a7cbd434f6c",
       "IsFolder": false,
       "Author": "Володин А.Ю.",
@@ -323,14 +330,14 @@
       "Source": "http://yakutiafuture.ru/2015/12/29/kochevniki-i-zemledelcheskij-mir-xunnskaya-model-v-istoricheskoj-perspektive/"
     },
     {
-      "Path": "old\\Лекции\\АПИИ.txt",
+      "Path": "old\\Лекции\\1сем\\АПИИ.txt",
       "Id": "c277221e-a6b5-4429-99a8-dc9c9ed2dd92",
       "IsFolder": false,
       "Author": "Селунская Н.Б.",
       "Source": "лекции"
     },
     {
-      "Path": "old\\Лекции\\АПИР 3-й бак.txt",
+      "Path": "old\\Лекции\\1сем\\АПИР 3-й бак.txt",
       "Id": "4c067aba-c740-406d-9ce6-df7488a13008",
       "IsFolder": false,
       "Author": "Горский",
@@ -349,6 +356,13 @@
       "IsFolder": false,
       "Author": "Гуревич А.",
       "Source": "Гуревич: Избранные труды. Древние германцы. Викинги. "
+    },
+    {
+      "Path": "old\\Лекции\\1сем",
+      "Id": "6b94dc10-6c80-4873-ac87-e90fc928dca2",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
     },
     {
       "Path": "mine",
