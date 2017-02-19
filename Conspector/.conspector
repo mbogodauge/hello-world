@@ -1,6 +1,13 @@
 {
   "FileEntries": [
     {
+      "Path": "old\\Лекции\\2сем\\ИстВед.txt",
+      "Id": "311585cf-ff53-49d2-ad36-0c8aee4239e1",
+      "IsFolder": false,
+      "Author": "Хитров",
+      "Source": null
+    },
+    {
       "Path": "unsorted\\Политика мос.князей кXIII - пп XIV в.txt",
       "Id": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "IsFolder": false,
@@ -48,6 +55,13 @@
       "IsFolder": false,
       "Author": "Шклярик Е.Н.",
       "Source": "лекции"
+    },
+    {
+      "Path": "old\\Лекции\\2сем\\Бородкин.txt",
+      "Id": "0c471a70-bf15-463f-9ba0-2a78b48f8dec",
+      "IsFolder": false,
+      "Author": "Бородкин",
+      "Source": null
     },
     {
       "Path": "unsorted\\Источниковедение(2015).txt",
@@ -260,11 +274,32 @@
       "Source": "лекции"
     },
     {
+      "Path": "old\\Лекции\\2сем\\Глазьев.txt",
+      "Id": "7bc9ff2a-a7d0-475e-8b88-9df3d897d70a",
+      "IsFolder": false,
+      "Author": "Глазьев",
+      "Source": null
+    },
+    {
       "Path": "old\\История России до 1618 г..txt",
       "Id": "e0833ab5-24bc-47d5-8c79-a86b502aabc7",
       "IsFolder": false,
       "Author": "А.Г. Кузьмин",
       "Source": "История России с древнейших времен до 1618 г. 2004"
+    },
+    {
+      "Path": "old\\Лекции\\2сем\\Русь и соседи.txt",
+      "Id": "b0cc9b3e-6bf7-4341-a523-b06ea5e58ab5",
+      "IsFolder": false,
+      "Author": "Лаушкин/Матасова",
+      "Source": null
+    },
+    {
+      "Path": "old\\Лекции\\2сем\\ВластьИобщество.txt",
+      "Id": "dcec68bc-11a6-4931-894b-b29b45ad20d8",
+      "IsFolder": false,
+      "Author": "Козлова Н.В.",
+      "Source": null
     },
     {
       "Path": "mine\\История России (МГУ)\\(Синопсис)До начала 19в.txt",
@@ -337,6 +372,13 @@
       "Source": "лекции"
     },
     {
+      "Path": "old\\Лекции\\2сем\\Истграф 18.txt",
+      "Id": "f85692d5-3a8e-4896-980b-dd0b3ed1d223",
+      "IsFolder": false,
+      "Author": "Хитров",
+      "Source": null
+    },
+    {
       "Path": "old\\Лекции\\1сем\\АПИР 3-й бак.txt",
       "Id": "4c067aba-c740-406d-9ce6-df7488a13008",
       "IsFolder": false,
@@ -356,6 +398,13 @@
       "IsFolder": false,
       "Author": "Гуревич А.",
       "Source": "Гуревич: Избранные труды. Древние германцы. Викинги. "
+    },
+    {
+      "Path": "old\\Лекции\\2сем\\ВнешПолит.txt",
+      "Id": "2bfbb7e5-b06c-421d-9187-e8bb3e75b211",
+      "IsFolder": false,
+      "Author": "Хитров",
+      "Source": null
     },
     {
       "Path": "old\\Лекции\\1сем",
