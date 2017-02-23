@@ -1,6 +1,13 @@
 {
   "FileEntries": [
     {
+      "Path": "roughly\\Всемирная история Т 2.txt",
+      "Id": "f22bb0e8-6f6e-40d7-a7a3-09d3236f67b5",
+      "IsFolder": false,
+      "Author": "Чубарьян",
+      "Source": "Всемирная история Т 2 Чубарьян"
+    },
+    {
       "Path": "old\\Лекции\\2сем\\ИстВед.txt",
       "Id": "311585cf-ff53-49d2-ad36-0c8aee4239e1",
       "IsFolder": false,
@@ -40,6 +47,13 @@
       "Id": "11b6d45f-5827-41d3-b14e-26c4e9abc89f",
       "IsFolder": false,
       "Author": "я",
+      "Source": null
+    },
+    {
+      "Path": "mine\\Посты",
+      "Id": "e0789ce4-e580-43a3-b7f5-26ed31390dc6",
+      "IsFolder": true,
+      "Author": null,
       "Source": null
     },
     {
@@ -295,6 +309,13 @@
       "Source": null
     },
     {
+      "Path": "mine\\Посты\\Технологические уклады и биомасса в Архее о_0.txt",
+      "Id": "ab0e8660-dbd8-4d3b-bb39-b207dfe1aea5",
+      "IsFolder": false,
+      "Author": "я",
+      "Source": null
+    },
+    {
       "Path": "old\\Лекции\\2сем\\ВластьИобщество.txt",
       "Id": "dcec68bc-11a6-4931-894b-b29b45ad20d8",
       "IsFolder": false,
@@ -342,6 +363,13 @@
       "IsFolder": false,
       "Author": "Горский А.А.",
       "Source": "Русь от славянского расселения до Московского Царства"
+    },
+    {
+      "Path": "old\\Лекции\\2сем\\Палеонтология.txt",
+      "Id": "e80da412-6f12-48f2-acbd-c95e62133ed3",
+      "IsFolder": false,
+      "Author": "МФК",
+      "Source": null
     },
     {
       "Path": "mine\\История России (МГУ)\\план.txt",
