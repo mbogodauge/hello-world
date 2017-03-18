@@ -8,6 +8,13 @@
       "Source": "Всемирная история Т 2 Чубарьян"
     },
     {
+      "Path": "roughly\\Россия в цифрах.txt",
+      "Id": "e1b0d042-1958-4f16-bbe6-0b641c63c4cc",
+      "IsFolder": false,
+      "Author": "Рубакин Н.А.",
+      "Source": "Россия в цифрах Рубакин Н.А."
+    },
+    {
       "Path": "old\\Лекции\\2сем\\ИстВед.txt",
       "Id": "311585cf-ff53-49d2-ad36-0c8aee4239e1",
       "IsFolder": false,
@@ -90,6 +97,13 @@
       "IsFolder": false,
       "Author": "me",
       "Source": "me"
+    },
+    {
+      "Path": "Projects\\Магистерская",
+      "Id": "4225f559-a7c5-4d12-b68f-32007093000d",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
     },
     {
       "Path": "old\\Лекции\\1сем\\Политическое развитие русских земель в XIV-XV вв.txt",
@@ -187,6 +201,13 @@
       "Id": "9c353381-b553-4eca-9966-6c01f304601d",
       "IsFolder": true,
       "Author": null,
+      "Source": null
+    },
+    {
+      "Path": "Projects\\01 Введение\\02 Славяне\\План.txt",
+      "Id": "f80a2bb1-1511-459f-88f6-6d2fcbd0abaa",
+      "IsFolder": false,
+      "Author": "я",
       "Source": null
     },
     {
@@ -292,6 +313,13 @@
       "Id": "7bc9ff2a-a7d0-475e-8b88-9df3d897d70a",
       "IsFolder": false,
       "Author": "Глазьев",
+      "Source": null
+    },
+    {
+      "Path": "Projects\\Магистерская\\Духовные письма.txt",
+      "Id": "d6617f1f-58dc-4de7-9163-a767bbb9e5ae",
+      "IsFolder": false,
+      "Author": "я",
       "Source": null
     },
     {
@@ -418,6 +446,20 @@
       "Id": "1bec4055-1b99-41ee-ad89-e595fc657ca1",
       "IsFolder": true,
       "Author": null,
+      "Source": null
+    },
+    {
+      "Path": "Projects\\01 Введение\\02 Славяне",
+      "Id": "f570c607-a820-4522-9a67-e81e2b5d9392",
+      "IsFolder": true,
+      "Author": null,
+      "Source": null
+    },
+    {
+      "Path": "mine\\Посты\\Столыпин и община.txt",
+      "Id": "f1eff254-a49e-41b3-8c9b-e82ec5d6887b",
+      "IsFolder": false,
+      "Author": "я",
       "Source": null
     },
     {
