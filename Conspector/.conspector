@@ -29,6 +29,13 @@
       "Source": "Политика мос.князей кXIII - пп XIV в"
     },
     {
+      "Path": "old\\Лекции\\2сем\\Русь и соседи (Мат.).txt",
+      "Id": "6cdd14a9-21ec-45ee-8b0e-169aca4710ee",
+      "IsFolder": false,
+      "Author": "Матасова",
+      "Source": null
+    },
+    {
       "Path": "unsorted",
       "Id": "d03fa713-cbfd-4893-b9de-1a5a7ac09137",
       "IsFolder": true,
@@ -260,6 +267,13 @@
       "Source": "Печенѣги, торки и половцы до нашествiя татаръ П.Голубовский 1884"
     },
     {
+      "Path": "old\\Лекции\\2сем\\ИстВед (Мор).txt",
+      "Id": "71e1750b-bac4-428c-aa34-85203b1173a0",
+      "IsFolder": false,
+      "Author": "Моряков",
+      "Source": null
+    },
+    {
       "Path": "Projects\\01 Введение\\Процесс.txt",
       "Id": "93d2e4ab-f003-476c-8b3a-896a639b92ca",
       "IsFolder": false,
@@ -293,6 +307,13 @@
       "IsFolder": false,
       "Author": "я",
       "Source": ""
+    },
+    {
+      "Path": "old\\Лекции\\2сем\\ИстВед (Коз).txt",
+      "Id": "99a3d015-05ef-4fc5-a9d3-97941a3147e1",
+      "IsFolder": false,
+      "Author": "Н.В.Козлова",
+      "Source": null
     },
     {
       "Path": "mine\\История России (МГУ)",
@@ -4405,6 +4426,21 @@
   ],
   "Headers": [
     {
+      "HostMaterialId": "311585cf-ff53-49d2-ad36-0c8aee4239e1",
+      "Position": 0,
+      "Caption": "Лекция №1 "
+    },
+    {
+      "HostMaterialId": "311585cf-ff53-49d2-ad36-0c8aee4239e1",
+      "Position": 5079,
+      "Caption": "Лекция №2 "
+    },
+    {
+      "HostMaterialId": "311585cf-ff53-49d2-ad36-0c8aee4239e1",
+      "Position": 14222,
+      "Caption": "Лекция №3"
+    },
+    {
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Position": 0,
       "Caption": "Введение "
@@ -4458,6 +4494,26 @@
       "HostMaterialId": "7efad7e1-e089-4c3c-8ab1-15d4209650dd",
       "Position": 97893,
       "Caption": "1. Ставка на Юрия Московского"
+    },
+    {
+      "HostMaterialId": "6cdd14a9-21ec-45ee-8b0e-169aca4710ee",
+      "Position": 0,
+      "Caption": "ЛЕкция №1 МОсковская Русь и страны Востока 15-17 вв"
+    },
+    {
+      "HostMaterialId": "6cdd14a9-21ec-45ee-8b0e-169aca4710ee",
+      "Position": 5851,
+      "Caption": "Лекция №2 Иван грозный "
+    },
+    {
+      "HostMaterialId": "6cdd14a9-21ec-45ee-8b0e-169aca4710ee",
+      "Position": 11092,
+      "Caption": "Лекция №3 Русь и Европа "
+    },
+    {
+      "HostMaterialId": "6cdd14a9-21ec-45ee-8b0e-169aca4710ee",
+      "Position": 12169,
+      "Caption": "Лекция №4 Русь и Запад"
     },
     {
       "HostMaterialId": "3e7d2073-c6e6-4b3d-82d7-2971506010b9",
@@ -4523,6 +4579,26 @@
       "HostMaterialId": "741a7708-6d94-4be4-9db3-29e5cf793c6f",
       "Position": 203,
       "Caption": "Б.Латур Пересборка социального"
+    },
+    {
+      "HostMaterialId": "0c471a70-bf15-463f-9ba0-2a78b48f8dec",
+      "Position": 0,
+      "Caption": "Лекция №2 Теория модернизации и связанные подходы"
+    },
+    {
+      "HostMaterialId": "0c471a70-bf15-463f-9ba0-2a78b48f8dec",
+      "Position": 2736,
+      "Caption": "Лекция №3 Цель рассылка Междисциплинарые походы с влиянием на исторические подходы смежных наус "
+    },
+    {
+      "HostMaterialId": "0c471a70-bf15-463f-9ba0-2a78b48f8dec",
+      "Position": 4787,
+      "Caption": "Лекция №4 Модернизация 2"
+    },
+    {
+      "HostMaterialId": "0c471a70-bf15-463f-9ba0-2a78b48f8dec",
+      "Position": 5637,
+      "Caption": "Лекция №5 Социальная мобильность"
     },
     {
       "HostMaterialId": "42a8555e-a4ac-4204-9bcc-2cc59c413b8a",
@@ -5125,6 +5201,11 @@
       "Caption": "Лекция №4 Церковная книжность"
     },
     {
+      "HostMaterialId": "71e1750b-bac4-428c-aa34-85203b1173a0",
+      "Position": 0,
+      "Caption": "Лекция №1 Законодательство 18 века"
+    },
+    {
       "HostMaterialId": "93239f1f-1d04-4de5-9911-90ed892a7b45",
       "Position": 0,
       "Caption": "Введение"
@@ -5155,6 +5236,31 @@
       "Caption": "Глава 4.1 Главный магистрат в 20-х годах 18 в."
     },
     {
+      "HostMaterialId": "99a3d015-05ef-4fc5-a9d3-97941a3147e1",
+      "Position": 0,
+      "Caption": "Лекция №1 Делопроизводственные документы"
+    },
+    {
+      "HostMaterialId": "7bc9ff2a-a7d0-475e-8b88-9df3d897d70a",
+      "Position": 0,
+      "Caption": "Лекция №1"
+    },
+    {
+      "HostMaterialId": "7bc9ff2a-a7d0-475e-8b88-9df3d897d70a",
+      "Position": 1759,
+      "Caption": "Лекция №2 "
+    },
+    {
+      "HostMaterialId": "7bc9ff2a-a7d0-475e-8b88-9df3d897d70a",
+      "Position": 4299,
+      "Caption": "Лекция №3 "
+    },
+    {
+      "HostMaterialId": "7bc9ff2a-a7d0-475e-8b88-9df3d897d70a",
+      "Position": 4863,
+      "Caption": "Лекция №4 Управление деньгами"
+    },
+    {
       "HostMaterialId": "e0833ab5-24bc-47d5-8c79-a86b502aabc7",
       "Position": 2778,
       "Caption": "//Индоевропейский язык"
@@ -5168,6 +5274,66 @@
       "HostMaterialId": "e0833ab5-24bc-47d5-8c79-a86b502aabc7",
       "Position": 9568,
       "Caption": "/////Государство"
+    },
+    {
+      "HostMaterialId": "b0cc9b3e-6bf7-4341-a523-b06ea5e58ab5",
+      "Position": 0,
+      "Caption": "Лекция №1 От расселения до Олега"
+    },
+    {
+      "HostMaterialId": "b0cc9b3e-6bf7-4341-a523-b06ea5e58ab5",
+      "Position": 6634,
+      "Caption": "Лекция №2 От похода Олега - до 1132 г."
+    },
+    {
+      "HostMaterialId": "b0cc9b3e-6bf7-4341-a523-b06ea5e58ab5",
+      "Position": 10801,
+      "Caption": "Лекция №3 Русь и страны варварской Европы. "
+    },
+    {
+      "HostMaterialId": "b0cc9b3e-6bf7-4341-a523-b06ea5e58ab5",
+      "Position": 18224,
+      "Caption": "Лекция №4"
+    },
+    {
+      "HostMaterialId": "b0cc9b3e-6bf7-4341-a523-b06ea5e58ab5",
+      "Position": 24731,
+      "Caption": "Лекция №5"
+    },
+    {
+      "HostMaterialId": "b0cc9b3e-6bf7-4341-a523-b06ea5e58ab5",
+      "Position": 34353,
+      "Caption": "Лекция №6"
+    },
+    {
+      "HostMaterialId": "dcec68bc-11a6-4931-894b-b29b45ad20d8",
+      "Position": 110,
+      "Caption": "Лекция 1 Характеристика проблемы и направлений ее разработки "
+    },
+    {
+      "HostMaterialId": "dcec68bc-11a6-4931-894b-b29b45ad20d8",
+      "Position": 5733,
+      "Caption": "Лекция 2 Идеи, символы и образы  власти их ыормирование и репрезентация"
+    },
+    {
+      "HostMaterialId": "dcec68bc-11a6-4931-894b-b29b45ad20d8",
+      "Position": 11345,
+      "Caption": "Лекция №3 служба как социальный принцип вхаимоотношений с властью "
+    },
+    {
+      "HostMaterialId": "dcec68bc-11a6-4931-894b-b29b45ad20d8",
+      "Position": 18690,
+      "Caption": "Лекция №4 Привилегированное купечество и посадские люди в структуре российского общества. Характер взаимоотношения с властью"
+    },
+    {
+      "HostMaterialId": "dcec68bc-11a6-4931-894b-b29b45ad20d8",
+      "Position": 24793,
+      "Caption": "Лекция №5 Формы проявления социальной активности дворянства и купечества"
+    },
+    {
+      "HostMaterialId": "dcec68bc-11a6-4931-894b-b29b45ad20d8",
+      "Position": 30560,
+      "Caption": "Лекция №6 Социальные функции государственных учреждений и их трансфррмация а эпоху реформ"
     },
     {
       "HostMaterialId": "ee320402-821b-436e-aafa-c470499388f0",
@@ -5220,6 +5386,26 @@
       "Caption": "Лекция №4"
     },
     {
+      "HostMaterialId": "f85692d5-3a8e-4896-980b-dd0b3ed1d223",
+      "Position": 22,
+      "Caption": "Лекция №1 Историография смуты"
+    },
+    {
+      "HostMaterialId": "f85692d5-3a8e-4896-980b-dd0b3ed1d223",
+      "Position": 10194,
+      "Caption": "Лекция №2 Об общине и закрепощении"
+    },
+    {
+      "HostMaterialId": "f85692d5-3a8e-4896-980b-dd0b3ed1d223",
+      "Position": 15660,
+      "Caption": "Лекция №3 Историография проблемы Российского рынка .. 17 18 веков."
+    },
+    {
+      "HostMaterialId": "f85692d5-3a8e-4896-980b-dd0b3ed1d223",
+      "Position": 17876,
+      "Caption": "Лекция №4  Проблема освоения окраин"
+    },
+    {
       "HostMaterialId": "4c067aba-c740-406d-9ce6-df7488a13008",
       "Position": 0,
       "Caption": "Семинар №1"
@@ -5228,6 +5414,36 @@
       "HostMaterialId": "4c067aba-c740-406d-9ce6-df7488a13008",
       "Position": 1685,
       "Caption": "Лекция №2"
+    },
+    {
+      "HostMaterialId": "2bfbb7e5-b06c-421d-9187-e8bb3e75b211",
+      "Position": 0,
+      "Caption": "Хитров №1 альтер Внешняя политика.."
+    },
+    {
+      "HostMaterialId": "2bfbb7e5-b06c-421d-9187-e8bb3e75b211",
+      "Position": 3005,
+      "Caption": "Лекция №2 Северная война"
+    },
+    {
+      "HostMaterialId": "2bfbb7e5-b06c-421d-9187-e8bb3e75b211",
+      "Position": 11679,
+      "Caption": "Лекция №3 Сражение под Переволочиной..  "
+    },
+    {
+      "HostMaterialId": "2bfbb7e5-b06c-421d-9187-e8bb3e75b211",
+      "Position": 17882,
+      "Caption": "Лекция №4 Завершив Северную войну Петр. "
+    },
+    {
+      "HostMaterialId": "2bfbb7e5-b06c-421d-9187-e8bb3e75b211",
+      "Position": 21222,
+      "Caption": "Лекция №5 Со смерти ПП до воцарения Елизаветы."
+    },
+    {
+      "HostMaterialId": "2bfbb7e5-b06c-421d-9187-e8bb3e75b211",
+      "Position": 27390,
+      "Caption": "Лекция №6 Конец правления Анны Иоанновны. "
     },
     {
       "HostMaterialId": "538ff957-b910-4c49-851b-ee66f3108775",
