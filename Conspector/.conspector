@@ -246,6 +246,13 @@
       "Source": "лекции"
     },
     {
+      "Path": "mine\\Посты\\Любовь в Карениной и др.txt",
+      "Id": "d5632f11-231f-4ac1-8334-7c6a140ba4bb",
+      "IsFolder": false,
+      "Author": "я",
+      "Source": "я"
+    },
+    {
       "Path": "Projects\\Посмотреть\\Куча посмотреть.txt",
       "Id": "34039ca6-ec2e-4473-a61d-7fb989b4dd1d",
       "IsFolder": false,
